@@ -1,0 +1,3566 @@
+Date,Category,Product,Units_Sold,Price_per_Unit,Total_Sales
+2023-01-01,Toys,Board Game,3,368.68,1106.04
+2023-01-01,Books,Fiction,3,228.46,685.38
+2023-01-01,Home & Kitchen,Cookware Set,4,173.52,694.08
+2023-01-01,Home & Kitchen,Microwave,1,485.26,485.26
+2023-01-01,Toys,Doll,2,10.38,20.76
+2023-01-01,Toys,Board Game,1,159.08,159.08
+2023-01-01,Books,Fiction,1,267.14,267.14
+2023-01-01,Clothing,Jacket,2,54.4,108.8
+2023-01-01,Home & Kitchen,Cookware Set,4,300.28,1201.12
+2023-01-01,Home & Kitchen,Mixer,3,343.35,1030.05
+2023-01-01,Electronics,Headphones,2,474.95,949.9
+2023-01-02,Clothing,T-Shirt,2,57.86,115.72
+2023-01-02,Toys,Remote Car,4,69.8,279.2
+2023-01-02,Books,Comics,3,455.57,1366.71
+2023-01-02,Toys,Doll,4,380.13,1520.52
+2023-01-02,Clothing,Jeans,1,485.1,485.1
+2023-01-02,Clothing,Jeans,2,448.47,896.94
+2023-01-03,Toys,Board Game,2,169.41,338.82
+2023-01-03,Books,Biography,3,416.08,1248.24
+2023-01-03,Clothing,T-Shirt,4,307.45,1229.8
+2023-01-03,Books,Fiction,1,403.08,403.08
+2023-01-03,Electronics,Smartphone,3,217.47,652.41
+2023-01-03,Electronics,Headphones,3,107.43,322.29
+2023-01-03,Home & Kitchen,Cookware Set,1,306.92,306.92
+2023-01-03,Clothing,Jacket,2,66.78,133.56
+2023-01-03,Electronics,Laptop,1,41.14,41.14
+2023-01-03,Books,Comics,4,322.4,1289.6
+2023-01-03,Home & Kitchen,Cookware Set,1,197.63,197.63
+2023-01-03,Home & Kitchen,Mixer,1,285.03,285.03
+2023-01-04,Home & Kitchen,Mixer,3,219.5,658.5
+2023-01-04,Clothing,T-Shirt,3,,76.2
+2023-01-04,Electronics,Smartphone,4,350.8,1403.2
+2023-01-04,Books,Comics,3,211.09,633.27
+2023-01-04,Home & Kitchen,Mixer,4,472.0,1888.0
+2023-01-04,Home & Kitchen,Cookware Set,2,441.43,882.86
+2023-01-04,Clothing,T-Shirt,2,320.37,640.74
+2023-01-04,Toys,Doll,2,274.28,548.56
+2023-01-04,Clothing,Jacket,4,184.59,738.36
+2023-01-04,Electronics,Smartphone,1,327.37,327.37
+2023-01-04,Electronics,Smartphone,1,159.34,159.34
+2023-01-05,Home & Kitchen,Mixer,2,118.83,237.66
+2023-01-05,Home & Kitchen,Microwave,4,129.62,518.48
+2023-01-05,Home & Kitchen,Microwave,4,264.21,1056.84
+2023-01-05,Electronics,Smartphone,2,486.17,972.34
+2023-01-05,Toys,Doll,3,253.65,760.95
+2023-01-05,Electronics,Smartphone,1,498.89,498.89
+2023-01-05,Home & Kitchen,Mixer,2,256.31,512.62
+2023-01-05,Books,Fiction,1,127.39,127.39
+2023-01-05,Clothing,T-Shirt,4,229.41,917.64
+2023-01-05,Toys,Remote Car,3,191.13,573.39
+2023-01-06,Books,Biography,2,205.42,410.84
+2023-01-06,Electronics,Smartphone,4,259.02,1036.08
+2023-01-06,Books,Comics,4,169.72,678.88
+2023-01-06,Toys,Remote Car,2,260.93,521.86
+2023-01-06,Home & Kitchen,Cookware Set,4,470.86,1883.44
+2023-01-07,Clothing,T-Shirt,3,177.12,531.36
+2023-01-07,Electronics,Laptop,3,275.31,825.93
+2023-01-07,Clothing,Jacket,3,333.39,1000.17
+2023-01-07,Clothing,T-Shirt,4,269.53,1078.12
+2023-01-07,Clothing,T-Shirt,4,483.06,1932.24
+2023-01-07,Books,Fiction,4,320.22,1280.88
+2023-01-07,Electronics,Smartphone,3,353.18,1059.54
+2023-01-07,Home & Kitchen,Microwave,4,445.01,1780.04
+2023-01-07,Toys,Remote Car,1,89.2,89.2
+2023-01-07,Toys,Doll,3,192.42,577.26
+2023-01-07,Electronics,Headphones,1,12.48,12.48
+2023-01-07,Clothing,Jeans,2,229.73,459.46
+2023-01-08,Toys,Board Game,4,126.25,505.0
+2023-01-08,Books,Comics,3,332.23,996.69
+2023-01-08,Electronics,Headphones,3,321.8,965.4
+2023-01-08,Books,Comics,2,453.99,907.98
+2023-01-08,Home & Kitchen,Microwave,1,256.29,256.29
+2023-01-08,Toys,Remote Car,4,433.44,1733.76
+2023-01-08,Toys,Board Game,4,147.58,590.32
+2023-01-08,Home & Kitchen,Mixer,4,96.78,387.12
+2023-01-08,Toys,Doll,1,146.98,146.98
+2023-01-08,Home & Kitchen,Mixer,1,464.88,464.88
+2023-01-08,Electronics,Laptop,1,290.42,290.42
+2023-01-08,Toys,Board Game,4,154.28,617.12
+2023-01-08,Books,Comics,1,165.29,165.29
+2023-01-09,Electronics,Laptop,3,423.66,1270.98
+2023-01-09,Home & Kitchen,Microwave,4,112.37,449.48
+2023-01-09,Clothing,Jacket,3,154.69,464.07
+2023-01-09,Clothing,T-Shirt,4,351.54,1406.16
+2023-01-09,Home & Kitchen,Microwave,4,280.88,1123.52
+2023-01-09,Clothing,Jacket,2,406.96,813.92
+2023-01-10,Books,Biography,3,255.74,767.22
+2023-01-10,Books,Fiction,4,353.96,1415.84
+2023-01-10,Toys,Remote Car,3,23.53,70.59
+2023-01-10,Clothing,Jeans,4,293.36,1173.44
+2023-01-10,Home & Kitchen,Mixer,2,275.9,551.8
+2023-01-10,Books,Biography,2,431.6,863.2
+2023-01-10,Electronics,Laptop,2,,317.2
+2023-01-10,Home & Kitchen,Mixer,1,415.66,415.66
+2023-01-10,Toys,Board Game,3,51.82,155.46
+2023-01-10,Books,Biography,3,352.76,1058.28
+2023-01-10,Toys,Board Game,2,262.99,525.98
+2023-01-10,Home & Kitchen,Mixer,4,142.71,570.84
+2023-01-10,Toys,Doll,3,132.92,398.76
+2023-01-11,Books,Biography,3,219.87,659.61
+2023-01-11,Toys,Board Game,1,94.91,94.91
+2023-01-11,Electronics,Headphones,2,127.5,255.0
+2023-01-11,Electronics,Smartphone,1,322.75,322.75
+2023-01-11,Books,Comics,4,281.63,1126.52
+2023-01-11,Books,Comics,3,131.39,394.17
+2023-01-11,Home & Kitchen,Mixer,2,17.05,34.1
+2023-01-11,Toys,Board Game,3,29.96,89.88
+2023-01-11,Toys,Board Game,4,18.41,73.64
+2023-01-11,Clothing,T-Shirt,3,179.69,539.07
+2023-01-11,Books,Comics,2,311.77,623.54
+2023-01-11,Books,Biography,4,193.56,774.24
+2023-01-11,Clothing,Jacket,2,255.51,511.02
+2023-01-11,Books,Fiction,4,311.77,1247.08
+2023-01-12,Clothing,T-Shirt,4,297.03,1188.12
+2023-01-12,Home & Kitchen,Microwave,3,325.21,975.63
+2023-01-12,Electronics,Smartphone,3,412.11,1236.33
+2023-01-12,Toys,Remote Car,1,480.98,480.98
+2023-01-12,Clothing,Jacket,4,144.24,576.96
+2023-01-12,Toys,Remote Car,2,18.93,37.86
+2023-01-12,Home & Kitchen,Microwave,3,174.91,524.73
+2023-01-12,Clothing,T-Shirt,2,343.99,687.98
+2023-01-12,Clothing,Jacket,1,253.06,253.06
+2023-01-12,Clothing,T-Shirt,2,318.18,636.36
+2023-01-12,Books,Fiction,1,484.11,484.11
+2023-01-13,Clothing,T-Shirt,1,288.57,288.57
+2023-01-13,Home & Kitchen,Mixer,3,212.18,636.54
+2023-01-13,Clothing,T-Shirt,3,294.47,883.41
+2023-01-13,Books,Fiction,3,377.93,1133.79
+2023-01-13,Electronics,Headphones,1,195.09,195.09
+2023-01-13,Electronics,Laptop,4,414.96,1659.84
+2023-01-13,Books,Comics,3,200.71,602.13
+2023-01-13,Toys,Board Game,1,425.1,425.1
+2023-01-14,Toys,Doll,3,475.8,1427.4
+2023-01-14,Home & Kitchen,Microwave,3,50.81,152.43
+2023-01-14,Books,Comics,4,171.05,684.2
+2023-01-14,Home & Kitchen,Mixer,4,473.64,1894.56
+2023-01-14,Electronics,Headphones,1,466.16,466.16
+2023-01-14,Clothing,Jacket,2,279.27,558.54
+2023-01-14,Books,Comics,3,277.5,832.5
+2023-01-14,Home & Kitchen,Microwave,3,80.07,240.21
+2023-01-14,Clothing,Jeans,4,434.77,1739.08
+2023-01-14,Books,Biography,1,412.71,412.71
+2023-01-14,Clothing,Jeans,1,261.53,261.53
+2023-01-14,Home & Kitchen,Mixer,1,441.38,441.38
+2023-01-14,Electronics,Headphones,3,493.14,1479.42
+2023-01-15,Toys,Doll,4,50.92,203.68
+2023-01-15,Books,Biography,3,217.87,653.61
+2023-01-15,Clothing,Jacket,3,222.88,668.64
+2023-01-15,Books,Fiction,2,239.64,479.28
+2023-01-15,Clothing,T-Shirt,3,328.11,984.33
+2023-01-15,Electronics,Headphones,1,126.38,126.38
+2023-01-15,Electronics,Headphones,4,150.0,600.0
+2023-01-15,Electronics,Laptop,1,481.98,481.98
+2023-01-16,Books,Comics,4,46.16,184.64
+2023-01-16,Home & Kitchen,Cookware Set,4,46.96,187.84
+2023-01-16,Electronics,Smartphone,2,154.3,308.6
+2023-01-16,Electronics,Smartphone,2,296.31,592.62
+2023-01-16,Electronics,Headphones,4,,1919.04
+2023-01-16,Toys,Board Game,4,93.14,372.56
+2023-01-16,Toys,Doll,4,183.14,732.56
+2023-01-16,Clothing,T-Shirt,1,137.38,137.38
+2023-01-16,Home & Kitchen,Microwave,3,272.69,818.07
+2023-01-17,Books,Fiction,4,142.77,571.08
+2023-01-17,Books,Biography,3,413.04,1239.12
+2023-01-17,Clothing,Jacket,4,294.77,1179.08
+2023-01-17,Electronics,Laptop,2,467.04,934.08
+2023-01-17,Clothing,Jacket,1,90.77,90.77
+2023-01-18,Electronics,Laptop,1,245.38,245.38
+2023-01-18,Electronics,Headphones,1,,377.29
+2023-01-18,Electronics,Laptop,3,422.64,1267.92
+2023-01-18,Books,Fiction,2,28.04,56.08
+2023-01-18,Electronics,Smartphone,4,,187.72
+2023-01-18,Toys,Board Game,1,499.86,499.86
+2023-01-18,Home & Kitchen,Mixer,3,386.8,1160.4
+2023-01-18,Books,Biography,2,195.15,390.3
+2023-01-18,Books,Biography,1,73.29,73.29
+2023-01-18,Home & Kitchen,Mixer,1,111.54,111.54
+2023-01-18,Electronics,Smartphone,4,312.88,1251.52
+2023-01-18,Toys,Remote Car,4,20.87,83.48
+2023-01-19,Clothing,Jeans,2,417.37,834.74
+2023-01-19,Clothing,T-Shirt,2,484.31,968.62
+2023-01-19,Home & Kitchen,Mixer,1,75.67,75.67
+2023-01-19,Books,Fiction,2,355.0,710.0
+2023-01-19,Home & Kitchen,Cookware Set,2,312.46,624.92
+2023-01-19,Clothing,Jeans,2,299.06,598.12
+2023-01-19,Home & Kitchen,Cookware Set,3,365.93,1097.79
+2023-01-19,Electronics,Laptop,1,393.99,393.99
+2023-01-19,Toys,Doll,3,266.57,799.71
+2023-01-19,Electronics,Smartphone,1,,82.07
+2023-01-19,Electronics,Laptop,1,136.54,136.54
+2023-01-19,Books,Biography,2,251.38,502.76
+2023-01-19,Books,Biography,3,294.03,882.09
+2023-01-19,Home & Kitchen,Cookware Set,3,73.15,219.45
+2023-01-20,Home & Kitchen,Microwave,4,324.03,1296.12
+2023-01-20,Toys,Board Game,3,438.42,1315.26
+2023-01-20,Home & Kitchen,Mixer,4,94.44,377.76
+2023-01-20,Clothing,Jacket,3,412.68,1238.04
+2023-01-20,Clothing,Jeans,1,25.58,25.58
+2023-01-20,Electronics,Smartphone,1,,184.44
+2023-01-20,Clothing,T-Shirt,2,171.75,343.5
+2023-01-20,Home & Kitchen,Mixer,2,401.71,803.42
+2023-01-20,Electronics,Laptop,3,260.71,782.13
+2023-01-20,Home & Kitchen,Cookware Set,4,39.93,159.72
+2023-01-20,Clothing,T-Shirt,4,376.65,1506.6
+2023-01-21,Clothing,Jacket,2,236.64,473.28
+2023-01-21,Books,Biography,2,82.39,164.78
+2023-01-21,Home & Kitchen,Cookware Set,3,448.65,1345.95
+2023-01-21,Home & Kitchen,Cookware Set,4,62.51,250.04
+2023-01-21,Clothing,Jeans,3,204.61,613.83
+2023-01-21,Electronics,Headphones,1,99.32,99.32
+2023-01-21,Electronics,Smartphone,3,53.71,161.13
+2023-01-21,Toys,Board Game,1,178.03,178.03
+2023-01-22,Toys,Doll,3,327.92,983.76
+2023-01-22,Clothing,Jacket,4,273.18,1092.72
+2023-01-22,Clothing,Jacket,4,297.4,1189.6
+2023-01-22,Toys,Remote Car,2,149.05,298.1
+2023-01-22,Toys,Doll,4,289.68,1158.72
+2023-01-22,Home & Kitchen,Mixer,2,306.83,613.66
+2023-01-22,Electronics,Smartphone,2,120.41,240.82
+2023-01-22,Toys,Doll,3,53.06,159.18
+2023-01-22,Electronics,Headphones,3,267.01,801.03
+2023-01-22,Books,Comics,2,204.95,409.9
+2023-01-22,Toys,Remote Car,4,12.6,50.4
+2023-01-22,Electronics,Laptop,4,364.22,1456.88
+2023-01-22,Electronics,Laptop,3,272.17,816.51
+2023-01-23,Home & Kitchen,Mixer,4,110.49,441.96
+2023-01-23,Clothing,Jeans,4,218.46,873.84
+2023-01-23,Electronics,Smartphone,4,66.27,265.08
+2023-01-23,Clothing,Jeans,4,52.77,211.08
+2023-01-23,Home & Kitchen,Cookware Set,4,167.11,668.44
+2023-01-23,Home & Kitchen,Mixer,2,174.94,349.88
+2023-01-23,Clothing,T-Shirt,3,278.97,836.91
+2023-01-23,Clothing,T-Shirt,4,406.84,1627.36
+2023-01-23,Electronics,Headphones,1,11.33,11.33
+2023-01-23,Electronics,Headphones,3,241.07,723.21
+2023-01-23,Home & Kitchen,Microwave,3,465.47,1396.41
+2023-01-23,Toys,Doll,2,467.14,934.28
+2023-01-23,Home & Kitchen,Mixer,2,98.8,197.6
+2023-01-23,Home & Kitchen,Mixer,4,363.58,1454.32
+2023-01-24,Home & Kitchen,Mixer,1,108.8,108.8
+2023-01-24,Home & Kitchen,Mixer,1,409.14,409.14
+2023-01-24,Home & Kitchen,Microwave,2,454.85,909.7
+2023-01-24,Electronics,Smartphone,2,202.3,404.6
+2023-01-24,Home & Kitchen,Mixer,2,274.49,548.98
+2023-01-24,Electronics,Smartphone,1,450.79,450.79
+2023-01-24,Clothing,Jeans,1,,454.17
+2023-01-24,Home & Kitchen,Cookware Set,3,221.45,664.35
+2023-01-24,Home & Kitchen,Cookware Set,3,174.1,522.3
+2023-01-24,Toys,Remote Car,3,313.84,941.52
+2023-01-24,Toys,Doll,3,290.84,872.52
+2023-01-24,Books,Biography,1,162.74,162.74
+2023-01-25,Home & Kitchen,Cookware Set,1,26.43,26.43
+2023-01-25,Clothing,Jeans,1,439.62,439.62
+2023-01-25,Electronics,Laptop,2,272.88,545.76
+2023-01-25,Toys,Board Game,4,305.94,1223.76
+2023-01-25,Books,Fiction,1,122.33,122.33
+2023-01-25,Toys,Board Game,2,15.98,31.96
+2023-01-25,Home & Kitchen,Cookware Set,4,275.93,1103.72
+2023-01-25,Home & Kitchen,Cookware Set,1,415.13,415.13
+2023-01-25,Clothing,Jeans,2,206.42,412.84
+2023-01-26,Home & Kitchen,Microwave,1,78.17,78.17
+2023-01-26,Clothing,T-Shirt,1,18.87,18.87
+2023-01-26,Toys,Remote Car,4,60.08,240.32
+2023-01-26,Toys,Board Game,4,21.28,85.12
+2023-01-26,Clothing,T-Shirt,4,193.47,773.88
+2023-01-26,Electronics,Laptop,3,370.86,1112.58
+2023-01-26,Electronics,Laptop,3,230.91,692.73
+2023-01-26,Books,Fiction,2,421.06,842.12
+2023-01-26,Electronics,Smartphone,3,162.61,487.83
+2023-01-26,Home & Kitchen,Cookware Set,1,195.86,195.86
+2023-01-26,Books,Fiction,2,403.4,806.8
+2023-01-26,Books,Biography,1,65.99,65.99
+2023-01-26,Toys,Board Game,2,460.73,921.46
+2023-01-26,Clothing,Jacket,2,245.61,491.22
+2023-01-27,Home & Kitchen,Cookware Set,4,457.25,1829.0
+2023-01-27,Electronics,Headphones,4,215.27,861.08
+2023-01-27,Electronics,Smartphone,1,294.49,294.49
+2023-01-27,Clothing,Jeans,1,262.44,262.44
+2023-01-27,Electronics,Smartphone,1,283.08,283.08
+2023-01-28,Toys,Remote Car,1,100.39,100.39
+2023-01-28,Electronics,Smartphone,2,377.48,754.96
+2023-01-28,Home & Kitchen,Cookware Set,2,110.52,221.04
+2023-01-28,Books,Fiction,1,195.09,195.09
+2023-01-28,Home & Kitchen,Microwave,1,390.01,390.01
+2023-01-28,Clothing,Jeans,2,225.97,451.94
+2023-01-28,Clothing,Jeans,2,385.02,770.04
+2023-01-28,Toys,Board Game,4,432.27,1729.08
+2023-01-28,Home & Kitchen,Microwave,2,449.74,899.48
+2023-01-28,Clothing,T-Shirt,3,489.68,1469.04
+2023-01-29,Books,Fiction,1,118.77,118.77
+2023-01-29,Home & Kitchen,Cookware Set,1,301.57,301.57
+2023-01-29,Electronics,Headphones,1,97.49,97.49
+2023-01-29,Electronics,Headphones,4,58.73,234.92
+2023-01-29,Home & Kitchen,Mixer,2,110.44,220.88
+2023-01-29,Clothing,Jacket,2,51.9,103.8
+2023-01-30,Books,Comics,4,98.9,395.6
+2023-01-30,Toys,Board Game,4,354.93,1419.72
+2023-01-30,Electronics,Headphones,1,177.49,177.49
+2023-01-30,Clothing,Jacket,2,187.9,375.8
+2023-01-30,Toys,Board Game,1,210.61,210.61
+2023-01-30,Electronics,Laptop,1,154.29,154.29
+2023-01-30,Toys,Doll,2,392.08,784.16
+2023-01-30,Electronics,Laptop,2,248.84,497.68
+2023-01-30,Electronics,Laptop,3,261.1,783.3
+2023-01-30,Electronics,Laptop,1,207.25,207.25
+2023-01-30,Electronics,Laptop,2,419.12,838.24
+2023-01-31,Clothing,Jeans,1,94.12,94.12
+2023-01-31,Books,Comics,2,458.01,916.02
+2023-01-31,Books,Biography,4,254.06,1016.24
+2023-01-31,Clothing,T-Shirt,1,329.2,329.2
+2023-01-31,Clothing,Jacket,1,15.39,15.39
+2023-01-31,Books,Comics,1,140.58,140.58
+2023-01-31,Home & Kitchen,Microwave,4,320.22,1280.88
+2023-01-31,Books,Comics,2,458.06,916.12
+2023-02-01,Books,Biography,2,216.8,433.6
+2023-02-01,Clothing,Jeans,3,100.34,301.02
+2023-02-01,Books,Comics,2,43.44,86.88
+2023-02-01,Home & Kitchen,Cookware Set,4,458.6,1834.4
+2023-02-01,Home & Kitchen,Cookware Set,4,287.54,1150.16
+2023-02-01,Clothing,Jacket,3,477.5,1432.5
+2023-02-01,Books,Fiction,2,25.28,50.56
+2023-02-01,Toys,Remote Car,3,422.35,1267.05
+2023-02-01,Electronics,Laptop,3,302.45,907.35
+2023-02-01,Clothing,T-Shirt,2,242.38,484.76
+2023-02-01,Electronics,Smartphone,4,366.81,1467.24
+2023-02-01,Electronics,Smartphone,3,303.16,909.48
+2023-02-01,Electronics,Headphones,3,411.36,1234.08
+2023-02-01,Books,Comics,2,12.57,25.14
+2023-02-02,Books,Comics,3,481.43,1444.29
+2023-02-02,Electronics,Laptop,1,228.54,228.54
+2023-02-02,Toys,Doll,4,437.74,1750.96
+2023-02-02,Books,Fiction,3,364.81,1094.43
+2023-02-02,Electronics,Laptop,1,326.87,326.87
+2023-02-02,Home & Kitchen,Microwave,1,472.59,472.59
+2023-02-02,Clothing,Jacket,1,98.48,98.48
+2023-02-03,Clothing,Jacket,2,69.06,138.12
+2023-02-03,Electronics,Headphones,4,66.49,265.96
+2023-02-03,Home & Kitchen,Cookware Set,1,242.36,242.36
+2023-02-03,Toys,Remote Car,3,166.36,499.08
+2023-02-03,Clothing,Jacket,1,328.58,328.58
+2023-02-03,Home & Kitchen,Mixer,2,443.65,887.3
+2023-02-03,Home & Kitchen,Microwave,3,208.2,624.6
+2023-02-03,Electronics,Smartphone,2,166.19,332.38
+2023-02-03,Clothing,T-Shirt,4,219.14,876.56
+2023-02-04,Home & Kitchen,Microwave,2,20.42,40.84
+2023-02-04,Books,Fiction,2,470.14,940.28
+2023-02-04,Home & Kitchen,Cookware Set,3,14.65,43.95
+2023-02-04,Books,Biography,1,206.95,206.95
+2023-02-04,Books,Fiction,4,438.1,1752.4
+2023-02-04,Electronics,Laptop,2,214.71,429.42
+2023-02-05,Toys,Board Game,1,127.0,127.0
+2023-02-05,Home & Kitchen,Mixer,2,155.53,311.06
+2023-02-05,Clothing,Jeans,2,298.66,597.32
+2023-02-05,Electronics,Smartphone,2,32.1,64.2
+2023-02-05,Electronics,Smartphone,4,70.97,283.88
+2023-02-05,Home & Kitchen,Microwave,1,395.31,395.31
+2023-02-05,Home & Kitchen,Microwave,3,,1322.31
+2023-02-05,Home & Kitchen,Microwave,1,494.7,494.7
+2023-02-05,Toys,Remote Car,4,471.94,1887.76
+2023-02-05,Books,Comics,1,68.97,68.97
+2023-02-05,Home & Kitchen,Microwave,1,118.04,118.04
+2023-02-06,Clothing,Jacket,4,181.56,726.24
+2023-02-06,Books,Biography,3,116.0,348.0
+2023-02-06,Electronics,Headphones,4,497.5,1990.0
+2023-02-06,Books,Comics,2,262.47,524.94
+2023-02-06,Clothing,Jeans,1,85.41,85.41
+2023-02-07,Books,Fiction,3,27.08,81.24
+2023-02-07,Toys,Doll,1,54.83,54.83
+2023-02-07,Electronics,Headphones,3,73.46,220.38
+2023-02-07,Electronics,Headphones,1,427.57,427.57
+2023-02-07,Clothing,T-Shirt,3,,993.21
+2023-02-07,Books,Comics,3,147.88,443.64
+2023-02-07,Toys,Remote Car,2,137.28,274.56
+2023-02-08,Clothing,Jeans,2,481.44,962.88
+2023-02-08,Books,Fiction,1,427.09,427.09
+2023-02-08,Books,Biography,1,454.19,454.19
+2023-02-08,Home & Kitchen,Microwave,4,287.21,1148.84
+2023-02-08,Books,Fiction,2,265.42,530.84
+2023-02-08,Toys,Board Game,3,434.97,1304.91
+2023-02-08,Electronics,Smartphone,3,126.96,380.88
+2023-02-08,Books,Biography,4,313.12,1252.48
+2023-02-08,Toys,Remote Car,1,441.63,441.63
+2023-02-09,Electronics,Headphones,3,414.65,1243.95
+2023-02-09,Clothing,Jacket,1,374.32,374.32
+2023-02-09,Clothing,Jeans,2,380.75,761.5
+2023-02-09,Toys,Remote Car,2,150.65,301.3
+2023-02-09,Home & Kitchen,Mixer,1,319.59,319.59
+2023-02-09,Clothing,T-Shirt,3,72.94,218.82
+2023-02-09,Home & Kitchen,Microwave,3,275.22,825.66
+2023-02-09,Clothing,Jacket,4,319.98,1279.92
+2023-02-09,Books,Fiction,2,469.24,938.48
+2023-02-09,Toys,Doll,4,157.47,629.88
+2023-02-09,Electronics,Laptop,1,295.26,295.26
+2023-02-09,Electronics,Laptop,2,46.6,93.2
+2023-02-09,Clothing,Jeans,2,487.01,974.02
+2023-02-09,Books,Comics,3,301.25,903.75
+2023-02-10,Books,Comics,1,168.57,168.57
+2023-02-10,Home & Kitchen,Cookware Set,2,10.5,21.0
+2023-02-10,Clothing,Jeans,2,498.59,997.18
+2023-02-10,Electronics,Headphones,1,428.56,428.56
+2023-02-10,Books,Fiction,3,118.18,354.54
+2023-02-10,Clothing,Jacket,2,122.73,245.46
+2023-02-10,Home & Kitchen,Cookware Set,3,475.92,1427.76
+2023-02-10,Toys,Board Game,1,455.67,455.67
+2023-02-10,Books,Comics,4,204.82,819.28
+2023-02-10,Electronics,Smartphone,3,162.86,488.58
+2023-02-10,Clothing,Jeans,3,375.46,1126.38
+2023-02-11,Electronics,Smartphone,4,190.58,762.32
+2023-02-11,Toys,Remote Car,4,88.03,352.12
+2023-02-11,Electronics,Smartphone,1,390.53,390.53
+2023-02-11,Home & Kitchen,Microwave,2,382.9,765.8
+2023-02-11,Home & Kitchen,Mixer,4,154.14,616.56
+2023-02-11,Toys,Doll,3,100.87,302.61
+2023-02-11,Electronics,Laptop,2,303.18,606.36
+2023-02-12,Toys,Board Game,2,120.51,241.02
+2023-02-12,Toys,Remote Car,2,,590.34
+2023-02-12,Books,Biography,4,222.29,889.16
+2023-02-12,Books,Fiction,4,237.65,950.6
+2023-02-12,Clothing,Jeans,3,304.01,912.03
+2023-02-12,Home & Kitchen,Mixer,1,431.46,431.46
+2023-02-12,Electronics,Headphones,2,377.09,754.18
+2023-02-12,Electronics,Smartphone,4,493.46,1973.84
+2023-02-13,Toys,Board Game,2,390.14,780.28
+2023-02-13,Clothing,T-Shirt,2,271.78,543.56
+2023-02-13,Electronics,Smartphone,2,26.27,52.54
+2023-02-13,Toys,Doll,2,167.83,335.66
+2023-02-13,Clothing,Jeans,2,402.29,804.58
+2023-02-13,Clothing,Jeans,3,338.49,1015.47
+2023-02-13,Home & Kitchen,Mixer,3,449.15,1347.45
+2023-02-13,Electronics,Laptop,1,35.47,35.47
+2023-02-13,Electronics,Laptop,4,436.77,1747.08
+2023-02-13,Clothing,Jeans,4,176.33,705.32
+2023-02-14,Home & Kitchen,Microwave,2,394.08,788.16
+2023-02-14,Home & Kitchen,Cookware Set,1,90.36,90.36
+2023-02-14,Home & Kitchen,Microwave,2,300.71,601.42
+2023-02-14,Toys,Board Game,1,437.17,437.17
+2023-02-14,Clothing,Jacket,3,240.39,721.17
+2023-02-14,Books,Fiction,3,222.49,667.47
+2023-02-14,Home & Kitchen,Microwave,2,362.41,724.82
+2023-02-14,Books,Fiction,3,328.66,985.98
+2023-02-14,Clothing,Jacket,3,118.07,354.21
+2023-02-14,Electronics,Headphones,4,95.35,381.4
+2023-02-14,Books,Comics,2,373.93,747.86
+2023-02-15,Books,Biography,4,257.37,1029.48
+2023-02-15,Clothing,T-Shirt,3,293.55,880.65
+2023-02-15,Toys,Doll,1,203.8,203.8
+2023-02-15,Toys,Doll,3,451.34,1354.02
+2023-02-15,Clothing,Jacket,3,149.09,447.27
+2023-02-15,Books,Comics,1,238.25,238.25
+2023-02-15,Books,Comics,1,74.47,74.47
+2023-02-15,Toys,Doll,3,319.94,959.82
+2023-02-16,Books,Fiction,2,251.22,502.44
+2023-02-16,Toys,Board Game,3,300.53,901.59
+2023-02-16,Electronics,Laptop,3,90.13,270.39
+2023-02-16,Home & Kitchen,Mixer,1,205.53,205.53
+2023-02-16,Home & Kitchen,Mixer,1,169.34,169.34
+2023-02-16,Toys,Board Game,3,232.36,697.08
+2023-02-17,Home & Kitchen,Microwave,2,172.14,344.28
+2023-02-17,Books,Biography,4,416.15,1664.6
+2023-02-17,Electronics,Smartphone,4,298.06,1192.24
+2023-02-17,Toys,Board Game,1,91.85,91.85
+2023-02-17,Toys,Board Game,3,370.84,1112.52
+2023-02-17,Books,Fiction,1,423.64,423.64
+2023-02-17,Toys,Remote Car,3,283.49,850.47
+2023-02-17,Home & Kitchen,Mixer,4,142.18,568.72
+2023-02-17,Clothing,T-Shirt,3,123.25,369.75
+2023-02-17,Clothing,T-Shirt,1,69.83,69.83
+2023-02-17,Books,Fiction,3,164.92,494.76
+2023-02-17,Electronics,Headphones,2,347.22,694.44
+2023-02-17,Toys,Board Game,2,482.91,965.82
+2023-02-17,Home & Kitchen,Microwave,2,168.33,336.66
+2023-02-18,Home & Kitchen,Microwave,3,336.76,1010.28
+2023-02-18,Toys,Remote Car,4,75.03,300.12
+2023-02-18,Toys,Doll,2,369.12,738.24
+2023-02-18,Clothing,T-Shirt,1,368.11,368.11
+2023-02-18,Books,Biography,1,482.04,482.04
+2023-02-18,Clothing,T-Shirt,3,489.53,1468.59
+2023-02-18,Home & Kitchen,Microwave,2,253.62,507.24
+2023-02-18,Electronics,Laptop,4,433.66,1734.64
+2023-02-18,Electronics,Headphones,4,399.8,1599.2
+2023-02-18,Toys,Board Game,1,115.68,115.68
+2023-02-18,Books,Fiction,1,62.23,62.23
+2023-02-18,Toys,Doll,2,306.43,612.86
+2023-02-18,Electronics,Smartphone,1,496.74,496.74
+2023-02-19,Books,Fiction,3,371.84,1115.52
+2023-02-19,Toys,Doll,1,384.94,384.94
+2023-02-19,Toys,Doll,3,405.84,1217.52
+2023-02-19,Clothing,T-Shirt,1,165.43,165.43
+2023-02-19,Books,Comics,1,68.9,68.9
+2023-02-19,Electronics,Smartphone,3,318.8,956.4
+2023-02-19,Clothing,Jacket,3,350.78,1052.34
+2023-02-19,Toys,Board Game,1,302.28,302.28
+2023-02-19,Electronics,Headphones,4,17.19,68.76
+2023-02-19,Home & Kitchen,Cookware Set,4,337.42,1349.68
+2023-02-19,Clothing,Jeans,2,255.22,510.44
+2023-02-19,Books,Biography,4,264.35,1057.4
+2023-02-19,Toys,Board Game,1,177.21,177.21
+2023-02-20,Clothing,T-Shirt,3,271.47,814.41
+2023-02-20,Home & Kitchen,Cookware Set,2,375.97,751.94
+2023-02-20,Toys,Remote Car,3,18.93,56.79
+2023-02-20,Home & Kitchen,Cookware Set,4,327.26,1309.04
+2023-02-20,Toys,Remote Car,1,330.8,330.8
+2023-02-20,Home & Kitchen,Cookware Set,4,467.87,1871.48
+2023-02-20,Home & Kitchen,Microwave,2,248.08,496.16
+2023-02-20,Books,Biography,3,465.51,1396.53
+2023-02-20,Toys,Remote Car,4,162.54,650.16
+2023-02-21,Clothing,Jeans,1,488.6,488.6
+2023-02-21,Clothing,T-Shirt,2,98.76,197.52
+2023-02-21,Toys,Doll,3,267.33,801.99
+2023-02-21,Electronics,Laptop,1,135.72,135.72
+2023-02-21,Toys,Doll,3,409.72,1229.16
+2023-02-21,Toys,Board Game,2,65.03,130.06
+2023-02-21,Books,Comics,2,411.4,822.8
+2023-02-21,Toys,Board Game,2,113.9,227.8
+2023-02-22,Clothing,T-Shirt,1,453.89,453.89
+2023-02-22,Electronics,Laptop,3,392.46,1177.38
+2023-02-22,Clothing,Jacket,4,217.63,870.52
+2023-02-22,Clothing,T-Shirt,2,385.66,771.32
+2023-02-22,Clothing,T-Shirt,3,297.44,892.32
+2023-02-22,Electronics,Headphones,4,432.77,1731.08
+2023-02-22,Books,Fiction,2,21.58,43.16
+2023-02-22,Home & Kitchen,Cookware Set,4,322.6,1290.4
+2023-02-22,Electronics,Laptop,1,301.29,301.29
+2023-02-22,Electronics,Laptop,4,76.86,307.44
+2023-02-22,Books,Biography,3,226.93,680.79
+2023-02-22,Books,Comics,1,349.29,349.29
+2023-02-22,Toys,Doll,3,305.58,916.74
+2023-02-22,Clothing,Jacket,1,48.92,48.92
+2023-02-23,Books,Fiction,4,104.01,416.04
+2023-02-23,Electronics,Headphones,2,183.95,367.9
+2023-02-23,Toys,Board Game,1,,417.61
+2023-02-23,Toys,Board Game,4,124.52,498.08
+2023-02-23,Books,Biography,4,328.93,1315.72
+2023-02-23,Toys,Board Game,2,173.17,346.34
+2023-02-23,Clothing,Jacket,4,334.3,1337.2
+2023-02-23,Electronics,Headphones,2,228.71,457.42
+2023-02-23,Toys,Doll,4,53.5,214.0
+2023-02-23,Books,Fiction,1,348.1,348.1
+2023-02-23,Electronics,Headphones,4,210.64,842.56
+2023-02-23,Electronics,Headphones,4,10.61,42.44
+2023-02-24,Toys,Remote Car,4,197.44,789.76
+2023-02-24,Toys,Remote Car,4,19.81,79.24
+2023-02-24,Toys,Board Game,1,339.06,339.06
+2023-02-24,Toys,Doll,2,53.67,107.34
+2023-02-24,Electronics,Smartphone,4,258.35,1033.4
+2023-02-24,Toys,Doll,1,27.72,27.72
+2023-02-24,Electronics,Headphones,2,,354.84
+2023-02-24,Electronics,Smartphone,2,469.11,938.22
+2023-02-24,Electronics,Smartphone,3,414.39,1243.17
+2023-02-24,Clothing,Jeans,3,89.26,267.78
+2023-02-24,Home & Kitchen,Cookware Set,2,287.62,575.24
+2023-02-24,Toys,Doll,4,465.99,1863.96
+2023-02-25,Clothing,T-Shirt,3,340.41,1021.23
+2023-02-25,Clothing,Jeans,2,404.9,809.8
+2023-02-25,Toys,Doll,1,168.04,168.04
+2023-02-25,Home & Kitchen,Microwave,3,350.53,1051.59
+2023-02-25,Clothing,Jeans,4,290.79,1163.16
+2023-02-25,Clothing,T-Shirt,2,74.94,149.88
+2023-02-25,Electronics,Headphones,2,78.21,156.42
+2023-02-25,Books,Comics,3,205.34,616.02
+2023-02-25,Electronics,Smartphone,1,69.66,69.66
+2023-02-25,Books,Biography,4,76.23,304.92
+2023-02-25,Toys,Board Game,4,390.59,1562.36
+2023-02-25,Toys,Board Game,3,258.01,774.03
+2023-02-25,Clothing,T-Shirt,4,427.21,1708.84
+2023-02-25,Books,Comics,2,305.25,610.5
+2023-02-26,Home & Kitchen,Cookware Set,3,286.58,859.74
+2023-02-26,Clothing,Jeans,1,38.5,38.5
+2023-02-26,Home & Kitchen,Microwave,1,313.55,313.55
+2023-02-26,Electronics,Headphones,3,93.63,280.89
+2023-02-26,Books,Fiction,4,158.6,634.4
+2023-02-26,Home & Kitchen,Cookware Set,4,348.89,1395.56
+2023-02-26,Electronics,Headphones,4,408.85,1635.4
+2023-02-26,Toys,Board Game,4,331.3,1325.2
+2023-02-26,Clothing,Jacket,1,444.44,444.44
+2023-02-26,Books,Comics,3,267.5,802.5
+2023-02-26,Books,Fiction,2,482.27,964.54
+2023-02-27,Clothing,Jeans,3,215.1,645.3
+2023-02-27,Books,Biography,3,77.18,231.54
+2023-02-27,Books,Fiction,1,15.94,15.94
+2023-02-27,Clothing,T-Shirt,1,107.44,107.44
+2023-02-27,Books,Fiction,4,249.05,996.2
+2023-02-27,Home & Kitchen,Mixer,4,326.58,1306.32
+2023-02-27,Books,Comics,1,249.24,249.24
+2023-02-27,Toys,Doll,4,129.3,517.2
+2023-02-27,Clothing,Jacket,1,310.9,310.9
+2023-02-27,Books,Biography,2,394.66,789.32
+2023-02-27,Books,Fiction,1,60.05,60.05
+2023-02-28,Electronics,Smartphone,1,406.35,406.35
+2023-02-28,Books,Fiction,2,465.86,931.72
+2023-02-28,Toys,Board Game,4,322.23,1288.92
+2023-02-28,Clothing,Jacket,2,321.97,643.94
+2023-02-28,Electronics,Headphones,4,442.41,1769.64
+2023-02-28,Books,Fiction,3,343.31,1029.93
+2023-02-28,Books,Fiction,3,361.0,1083.0
+2023-02-28,Books,Comics,4,61.63,246.52
+2023-02-28,Electronics,Smartphone,4,371.38,1485.52
+2023-02-28,Clothing,Jacket,2,495.88,991.76
+2023-02-28,Toys,Remote Car,3,334.07,1002.21
+2023-02-28,Toys,Remote Car,3,211.94,635.82
+2023-03-01,Clothing,Jeans,3,50.26,150.78
+2023-03-01,Toys,Board Game,3,393.42,1180.26
+2023-03-01,Electronics,Smartphone,2,337.0,674.0
+2023-03-01,Home & Kitchen,Mixer,4,311.36,1245.44
+2023-03-01,Electronics,Smartphone,1,269.85,269.85
+2023-03-01,Clothing,Jeans,1,71.36,71.36
+2023-03-01,Home & Kitchen,Microwave,2,248.15,496.3
+2023-03-01,Toys,Doll,3,31.43,94.29
+2023-03-01,Electronics,Laptop,3,56.56,169.68
+2023-03-02,Home & Kitchen,Microwave,4,200.44,801.76
+2023-03-02,Clothing,Jeans,4,127.94,511.76
+2023-03-02,Books,Comics,2,16.23,32.46
+2023-03-02,Books,Comics,2,409.81,819.62
+2023-03-02,Electronics,Smartphone,3,133.6,400.8
+2023-03-02,Books,Biography,1,489.41,489.41
+2023-03-02,Toys,Remote Car,4,277.06,1108.24
+2023-03-02,Home & Kitchen,Mixer,2,274.38,548.76
+2023-03-02,Books,Biography,2,74.55,149.1
+2023-03-02,Toys,Remote Car,2,114.62,229.24
+2023-03-02,Home & Kitchen,Cookware Set,4,,711.08
+2023-03-02,Home & Kitchen,Mixer,1,374.28,374.28
+2023-03-03,Home & Kitchen,Cookware Set,1,55.94,55.94
+2023-03-03,Toys,Remote Car,1,382.95,382.95
+2023-03-03,Clothing,Jeans,4,407.76,1631.04
+2023-03-03,Toys,Board Game,3,495.99,1487.97
+2023-03-03,Home & Kitchen,Microwave,2,109.98,219.96
+2023-03-03,Clothing,T-Shirt,4,409.41,1637.64
+2023-03-03,Home & Kitchen,Cookware Set,2,184.14,368.28
+2023-03-04,Toys,Doll,2,382.89,765.78
+2023-03-04,Toys,Board Game,2,109.22,218.44
+2023-03-04,Clothing,T-Shirt,1,342.41,342.41
+2023-03-04,Home & Kitchen,Cookware Set,3,240.46,721.38
+2023-03-04,Home & Kitchen,Mixer,2,190.47,380.94
+2023-03-04,Books,Biography,4,116.43,465.72
+2023-03-04,Clothing,T-Shirt,2,212.18,424.36
+2023-03-04,Books,Biography,2,91.77,183.54
+2023-03-04,Toys,Board Game,1,55.57,55.57
+2023-03-04,Toys,Board Game,2,364.47,728.94
+2023-03-04,Books,Biography,3,354.44,1063.32
+2023-03-04,Clothing,Jeans,2,305.05,610.1
+2023-03-04,Toys,Remote Car,1,321.88,321.88
+2023-03-05,Books,Biography,2,356.76,713.52
+2023-03-05,Toys,Remote Car,4,193.0,772.0
+2023-03-05,Electronics,Headphones,1,53.41,53.41
+2023-03-05,Toys,Board Game,3,402.67,1208.01
+2023-03-05,Home & Kitchen,Mixer,4,156.73,626.92
+2023-03-05,Electronics,Smartphone,2,321.73,643.46
+2023-03-05,Home & Kitchen,Cookware Set,2,495.65,991.3
+2023-03-06,Electronics,Laptop,4,109.44,437.76
+2023-03-06,Toys,Board Game,2,173.91,347.82
+2023-03-06,Books,Comics,1,297.05,297.05
+2023-03-06,Books,Biography,1,465.51,465.51
+2023-03-06,Home & Kitchen,Mixer,3,137.06,411.18
+2023-03-06,Clothing,Jacket,1,422.55,422.55
+2023-03-06,Books,Fiction,1,234.51,234.51
+2023-03-06,Books,Biography,2,49.49,98.98
+2023-03-06,Clothing,Jacket,1,392.3,392.3
+2023-03-06,Toys,Doll,1,87.87,87.87
+2023-03-06,Toys,Board Game,3,462.09,1386.27
+2023-03-07,Toys,Board Game,2,,297.1
+2023-03-07,Clothing,Jeans,2,138.24,276.48
+2023-03-07,Home & Kitchen,Cookware Set,4,395.69,1582.76
+2023-03-07,Clothing,Jeans,3,230.37,691.11
+2023-03-07,Books,Biography,4,86.63,346.52
+2023-03-07,Toys,Remote Car,4,313.65,1254.6
+2023-03-07,Home & Kitchen,Mixer,1,270.89,270.89
+2023-03-07,Electronics,Headphones,3,52.35,157.05
+2023-03-07,Clothing,Jacket,4,72.71,290.84
+2023-03-07,Books,Biography,2,215.21,430.42
+2023-03-07,Electronics,Smartphone,2,489.98,979.96
+2023-03-07,Books,Comics,3,107.07,321.21
+2023-03-07,Electronics,Headphones,3,486.28,1458.84
+2023-03-08,Books,Fiction,1,84.11,84.11
+2023-03-08,Toys,Remote Car,2,53.53,107.06
+2023-03-08,Electronics,Smartphone,4,66.24,264.96
+2023-03-08,Clothing,Jeans,3,43.16,129.48
+2023-03-08,Electronics,Smartphone,2,50.05,100.1
+2023-03-08,Clothing,T-Shirt,2,91.23,182.46
+2023-03-08,Clothing,Jeans,4,115.88,463.52
+2023-03-08,Clothing,Jeans,4,211.77,847.08
+2023-03-08,Books,Comics,2,152.39,304.78
+2023-03-08,Toys,Remote Car,2,489.25,978.5
+2023-03-08,Home & Kitchen,Cookware Set,1,108.67,108.67
+2023-03-08,Books,Biography,3,381.63,1144.89
+2023-03-08,Toys,Doll,3,110.39,331.17
+2023-03-09,Toys,Doll,3,473.85,1421.55
+2023-03-09,Clothing,Jeans,1,23.31,23.31
+2023-03-09,Electronics,Laptop,3,455.52,1366.56
+2023-03-09,Electronics,Laptop,4,401.19,1604.76
+2023-03-09,Toys,Remote Car,1,204.72,204.72
+2023-03-09,Home & Kitchen,Cookware Set,1,482.59,482.59
+2023-03-09,Toys,Doll,4,150.7,602.8
+2023-03-09,Toys,Board Game,4,145.46,581.84
+2023-03-09,Electronics,Headphones,3,458.39,1375.17
+2023-03-10,Clothing,Jeans,4,350.99,1403.96
+2023-03-10,Toys,Doll,3,310.6,931.8
+2023-03-10,Books,Comics,3,145.68,437.04
+2023-03-10,Electronics,Smartphone,3,100.27,300.81
+2023-03-10,Books,Comics,1,225.76,225.76
+2023-03-10,Home & Kitchen,Mixer,4,372.47,1489.88
+2023-03-10,Electronics,Headphones,1,492.21,492.21
+2023-03-10,Books,Biography,1,168.28,168.28
+2023-03-10,Toys,Doll,2,219.47,438.94
+2023-03-10,Home & Kitchen,Mixer,1,55.58,55.58
+2023-03-10,Toys,Board Game,4,446.23,1784.92
+2023-03-10,Books,Comics,1,175.05,175.05
+2023-03-11,Toys,Doll,2,64.27,128.54
+2023-03-11,Toys,Board Game,3,451.64,1354.92
+2023-03-11,Toys,Board Game,1,134.62,134.62
+2023-03-11,Home & Kitchen,Microwave,2,129.73,259.46
+2023-03-11,Toys,Doll,2,362.35,724.7
+2023-03-11,Home & Kitchen,Microwave,1,372.44,372.44
+2023-03-11,Clothing,Jeans,3,329.06,987.18
+2023-03-11,Electronics,Smartphone,4,240.93,963.72
+2023-03-11,Home & Kitchen,Cookware Set,1,71.87,71.87
+2023-03-11,Clothing,Jeans,3,346.3,1038.9
+2023-03-11,Toys,Remote Car,3,91.89,275.67
+2023-03-11,Toys,Board Game,4,45.61,182.44
+2023-03-11,Home & Kitchen,Microwave,1,115.61,115.61
+2023-03-12,Home & Kitchen,Mixer,1,210.07,210.07
+2023-03-12,Toys,Doll,4,436.89,1747.56
+2023-03-12,Electronics,Headphones,4,335.84,1343.36
+2023-03-12,Clothing,Jacket,1,438.37,438.37
+2023-03-12,Home & Kitchen,Cookware Set,3,64.38,193.14
+2023-03-12,Toys,Board Game,4,73.14,292.56
+2023-03-12,Home & Kitchen,Microwave,3,64.25,192.75
+2023-03-12,Toys,Board Game,1,216.51,216.51
+2023-03-12,Clothing,Jeans,3,72.45,217.35
+2023-03-13,Home & Kitchen,Microwave,3,414.76,1244.28
+2023-03-13,Home & Kitchen,Mixer,4,18.82,75.28
+2023-03-13,Electronics,Headphones,4,416.4,1665.6
+2023-03-13,Toys,Remote Car,3,230.42,691.26
+2023-03-13,Books,Fiction,4,57.3,229.2
+2023-03-13,Electronics,Smartphone,4,149.08,596.32
+2023-03-13,Home & Kitchen,Mixer,3,120.91,362.73
+2023-03-13,Electronics,Headphones,4,439.85,1759.4
+2023-03-13,Clothing,T-Shirt,1,300.68,300.68
+2023-03-13,Electronics,Headphones,3,48.69,146.07
+2023-03-13,Books,Biography,1,149.79,149.79
+2023-03-13,Toys,Remote Car,3,497.76,1493.28
+2023-03-13,Clothing,T-Shirt,3,332.82,998.46
+2023-03-14,Books,Comics,4,66.32,265.28
+2023-03-14,Books,Fiction,1,26.0,26.0
+2023-03-14,Home & Kitchen,Mixer,2,440.7,881.4
+2023-03-14,Electronics,Smartphone,3,220.91,662.73
+2023-03-14,Toys,Doll,4,237.57,950.28
+2023-03-14,Electronics,Headphones,2,90.76,181.52
+2023-03-14,Books,Comics,2,299.93,599.86
+2023-03-14,Books,Comics,4,341.45,1365.8
+2023-03-15,Toys,Board Game,3,329.59,988.77
+2023-03-15,Clothing,Jeans,3,374.36,1123.08
+2023-03-15,Electronics,Headphones,2,44.76,89.52
+2023-03-15,Electronics,Laptop,1,29.49,29.49
+2023-03-15,Clothing,Jacket,4,127.04,508.16
+2023-03-15,Clothing,T-Shirt,1,172.36,172.36
+2023-03-15,Electronics,Headphones,4,240.17,960.68
+2023-03-15,Books,Fiction,1,273.13,273.13
+2023-03-16,Electronics,Laptop,4,27.99,111.96
+2023-03-16,Toys,Board Game,2,236.8,473.6
+2023-03-16,Books,Fiction,4,261.21,1044.84
+2023-03-16,Home & Kitchen,Microwave,2,146.13,292.26
+2023-03-16,Books,Fiction,1,410.92,410.92
+2023-03-17,Home & Kitchen,Cookware Set,3,291.64,874.92
+2023-03-17,Books,Comics,2,496.48,992.96
+2023-03-17,Books,Comics,2,90.95,181.9
+2023-03-17,Toys,Remote Car,4,442.31,1769.24
+2023-03-17,Books,Fiction,1,307.87,307.87
+2023-03-17,Electronics,Smartphone,2,477.98,955.96
+2023-03-17,Clothing,T-Shirt,4,432.81,1731.24
+2023-03-17,Books,Comics,3,29.87,89.61
+2023-03-17,Toys,Doll,2,66.1,132.2
+2023-03-18,Toys,Doll,1,69.3,69.3
+2023-03-18,Toys,Board Game,1,208.08,208.08
+2023-03-18,Home & Kitchen,Cookware Set,1,471.45,471.45
+2023-03-18,Books,Fiction,2,187.34,374.68
+2023-03-18,Home & Kitchen,Mixer,2,256.06,512.12
+2023-03-19,Electronics,Smartphone,3,438.11,1314.33
+2023-03-19,Toys,Doll,3,373.08,1119.24
+2023-03-19,Books,Biography,3,271.64,814.92
+2023-03-19,Clothing,T-Shirt,1,216.8,216.8
+2023-03-19,Home & Kitchen,Cookware Set,1,51.35,51.35
+2023-03-19,Clothing,T-Shirt,1,405.93,405.93
+2023-03-19,Electronics,Headphones,4,329.62,1318.48
+2023-03-20,Home & Kitchen,Microwave,4,339.75,1359.0
+2023-03-20,Electronics,Smartphone,2,396.6,793.2
+2023-03-20,Toys,Doll,4,412.99,1651.96
+2023-03-20,Toys,Remote Car,1,221.18,221.18
+2023-03-20,Home & Kitchen,Microwave,3,304.53,913.59
+2023-03-20,Toys,Board Game,4,193.53,774.12
+2023-03-20,Toys,Board Game,3,79.87,239.61
+2023-03-20,Electronics,Smartphone,3,85.69,257.07
+2023-03-20,Books,Biography,4,195.67,782.68
+2023-03-21,Home & Kitchen,Cookware Set,3,397.94,1193.82
+2023-03-21,Home & Kitchen,Mixer,1,341.79,341.79
+2023-03-21,Books,Biography,4,116.77,467.08
+2023-03-21,Toys,Doll,1,61.58,61.58
+2023-03-21,Electronics,Smartphone,2,247.94,495.88
+2023-03-21,Home & Kitchen,Cookware Set,3,76.54,229.62
+2023-03-21,Clothing,Jacket,2,25.17,50.34
+2023-03-22,Home & Kitchen,Microwave,2,380.54,761.08
+2023-03-22,Books,Biography,2,451.04,902.08
+2023-03-22,Books,Fiction,2,193.65,387.3
+2023-03-22,Home & Kitchen,Cookware Set,2,305.44,610.88
+2023-03-22,Toys,Board Game,1,53.22,53.22
+2023-03-22,Home & Kitchen,Cookware Set,2,200.85,401.7
+2023-03-22,Books,Biography,4,490.25,1961.0
+2023-03-22,Electronics,Smartphone,1,275.44,275.44
+2023-03-22,Books,Comics,3,225.82,677.46
+2023-03-22,Clothing,Jeans,4,357.42,1429.68
+2023-03-22,Clothing,T-Shirt,1,177.8,177.8
+2023-03-22,Toys,Board Game,4,417.04,1668.16
+2023-03-22,Toys,Remote Car,1,294.43,294.43
+2023-03-22,Books,Comics,1,316.85,316.85
+2023-03-23,Home & Kitchen,Mixer,1,369.94,369.94
+2023-03-23,Clothing,Jeans,1,398.34,398.34
+2023-03-23,Home & Kitchen,Mixer,3,203.62,610.86
+2023-03-23,Toys,Board Game,1,358.33,358.33
+2023-03-23,Home & Kitchen,Cookware Set,4,300.58,1202.32
+2023-03-23,Clothing,Jacket,2,271.36,542.72
+2023-03-23,Toys,Doll,1,375.47,375.47
+2023-03-23,Toys,Board Game,1,343.57,343.57
+2023-03-24,Clothing,Jeans,1,475.06,475.06
+2023-03-24,Clothing,Jeans,3,158.2,474.6
+2023-03-24,Toys,Doll,3,109.58,328.74
+2023-03-24,Home & Kitchen,Cookware Set,4,251.24,1004.96
+2023-03-24,Clothing,T-Shirt,3,448.28,1344.84
+2023-03-24,Home & Kitchen,Microwave,4,415.48,1661.92
+2023-03-24,Toys,Remote Car,1,243.48,243.48
+2023-03-24,Electronics,Smartphone,1,323.7,323.7
+2023-03-24,Electronics,Headphones,3,442.9,1328.7
+2023-03-24,Home & Kitchen,Mixer,1,486.05,486.05
+2023-03-24,Books,Comics,3,19.37,58.11
+2023-03-24,Books,Biography,3,437.3,1311.9
+2023-03-24,Clothing,Jeans,4,156.7,626.8
+2023-03-25,Electronics,Headphones,4,269.0,1076.0
+2023-03-25,Home & Kitchen,Cookware Set,2,341.64,683.28
+2023-03-25,Electronics,Headphones,2,17.01,34.02
+2023-03-25,Electronics,Smartphone,1,372.83,372.83
+2023-03-25,Books,Fiction,4,469.17,1876.68
+2023-03-25,Toys,Board Game,3,443.37,1330.11
+2023-03-26,Clothing,Jacket,4,205.56,822.24
+2023-03-26,Clothing,Jeans,2,209.7,419.4
+2023-03-26,Home & Kitchen,Cookware Set,4,64.39,257.56
+2023-03-26,Toys,Board Game,1,351.9,351.9
+2023-03-26,Books,Fiction,3,266.06,798.18
+2023-03-26,Clothing,T-Shirt,3,422.62,1267.86
+2023-03-26,Toys,Doll,4,81.15,324.6
+2023-03-27,Books,Comics,3,123.87,371.61
+2023-03-27,Home & Kitchen,Cookware Set,2,84.64,169.28
+2023-03-27,Home & Kitchen,Microwave,1,,295.8
+2023-03-27,Electronics,Smartphone,1,117.44,117.44
+2023-03-27,Books,Fiction,3,185.33,555.99
+2023-03-27,Electronics,Smartphone,2,102.04,204.08
+2023-03-27,Clothing,Jeans,4,316.14,1264.56
+2023-03-27,Toys,Doll,2,236.95,473.9
+2023-03-27,Toys,Board Game,4,152.09,608.36
+2023-03-27,Toys,Board Game,3,389.92,1169.76
+2023-03-27,Clothing,Jacket,3,149.29,447.87
+2023-03-27,Clothing,Jeans,3,36.62,109.86
+2023-03-27,Toys,Board Game,3,60.35,181.05
+2023-03-27,Electronics,Laptop,1,32.96,32.96
+2023-03-28,Electronics,Headphones,4,421.28,1685.12
+2023-03-28,Electronics,Laptop,1,470.82,470.82
+2023-03-28,Books,Comics,1,186.51,186.51
+2023-03-28,Home & Kitchen,Mixer,3,434.61,1303.83
+2023-03-28,Toys,Doll,3,472.06,1416.18
+2023-03-28,Home & Kitchen,Mixer,2,194.89,389.78
+2023-03-28,Toys,Remote Car,1,66.85,66.85
+2023-03-28,Clothing,T-Shirt,1,465.78,465.78
+2023-03-28,Electronics,Headphones,2,78.17,156.34
+2023-03-28,Books,Fiction,3,336.53,1009.59
+2023-03-29,Toys,Remote Car,1,341.29,341.29
+2023-03-29,Electronics,Laptop,1,61.63,61.63
+2023-03-29,Home & Kitchen,Cookware Set,4,499.74,1998.96
+2023-03-29,Electronics,Smartphone,2,478.83,957.66
+2023-03-29,Toys,Board Game,3,234.27,702.81
+2023-03-30,Home & Kitchen,Mixer,4,430.89,1723.56
+2023-03-30,Books,Biography,1,412.87,412.87
+2023-03-30,Clothing,T-Shirt,1,436.18,436.18
+2023-03-30,Electronics,Smartphone,3,307.8,923.4
+2023-03-30,Clothing,T-Shirt,4,466.1,1864.4
+2023-03-30,Toys,Doll,3,164.66,493.98
+2023-03-31,Toys,Doll,2,293.8,587.6
+2023-03-31,Books,Comics,3,336.76,1010.28
+2023-03-31,Electronics,Laptop,2,262.77,525.54
+2023-03-31,Toys,Remote Car,1,347.14,347.14
+2023-03-31,Books,Fiction,2,175.3,350.6
+2023-03-31,Electronics,Laptop,2,25.4,50.8
+2023-03-31,Home & Kitchen,Cookware Set,2,270.16,540.32
+2023-03-31,Toys,Board Game,3,440.05,1320.15
+2023-03-31,Clothing,Jeans,2,383.53,767.06
+2023-04-01,Toys,Remote Car,1,265.44,265.44
+2023-04-01,Clothing,Jacket,2,18.3,36.6
+2023-04-01,Home & Kitchen,Cookware Set,2,190.19,380.38
+2023-04-01,Books,Biography,3,18.6,55.8
+2023-04-01,Books,Fiction,1,372.12,372.12
+2023-04-01,Toys,Board Game,2,289.62,579.24
+2023-04-01,Home & Kitchen,Mixer,4,278.71,1114.84
+2023-04-01,Toys,Remote Car,3,21.56,64.68
+2023-04-01,Home & Kitchen,Mixer,3,392.38,1177.14
+2023-04-01,Books,Biography,3,158.43,475.29
+2023-04-01,Home & Kitchen,Mixer,1,469.32,469.32
+2023-04-02,Toys,Board Game,3,39.26,117.78
+2023-04-02,Toys,Doll,4,479.32,1917.28
+2023-04-02,Electronics,Headphones,1,270.06,270.06
+2023-04-02,Toys,Doll,3,481.76,1445.28
+2023-04-02,Toys,Doll,1,110.44,110.44
+2023-04-02,Clothing,Jacket,2,449.08,898.16
+2023-04-03,Clothing,Jacket,1,145.36,145.36
+2023-04-03,Books,Fiction,4,321.62,1286.48
+2023-04-03,Toys,Remote Car,3,406.83,1220.49
+2023-04-03,Toys,Doll,4,365.24,1460.96
+2023-04-03,Electronics,Headphones,3,356.78,1070.34
+2023-04-03,Clothing,Jeans,1,466.0,466.0
+2023-04-03,Toys,Board Game,3,31.84,95.52
+2023-04-03,Electronics,Laptop,2,269.53,539.06
+2023-04-03,Books,Biography,1,481.53,481.53
+2023-04-03,Clothing,Jeans,2,98.35,196.7
+2023-04-03,Home & Kitchen,Microwave,2,228.32,456.64
+2023-04-03,Toys,Board Game,3,340.43,1021.29
+2023-04-03,Electronics,Headphones,1,268.34,268.34
+2023-04-04,Electronics,Headphones,4,497.46,1989.84
+2023-04-04,Home & Kitchen,Microwave,2,289.07,578.14
+2023-04-04,Home & Kitchen,Mixer,1,460.5,460.5
+2023-04-04,Clothing,Jeans,2,103.15,206.3
+2023-04-04,Home & Kitchen,Mixer,3,183.97,551.91
+2023-04-04,Electronics,Headphones,3,265.52,796.56
+2023-04-04,Clothing,Jeans,3,202.47,607.41
+2023-04-04,Clothing,Jeans,4,161.9,647.6
+2023-04-04,Electronics,Headphones,3,392.86,1178.58
+2023-04-04,Toys,Doll,2,429.05,858.1
+2023-04-05,Books,Biography,4,184.94,739.76
+2023-04-05,Toys,Doll,3,320.84,962.52
+2023-04-05,Clothing,Jeans,3,367.14,1101.42
+2023-04-05,Home & Kitchen,Microwave,1,130.45,130.45
+2023-04-05,Books,Comics,4,334.59,1338.36
+2023-04-05,Clothing,T-Shirt,2,204.94,409.88
+2023-04-05,Home & Kitchen,Microwave,3,252.39,757.17
+2023-04-05,Electronics,Smartphone,3,192.14,576.42
+2023-04-05,Toys,Board Game,2,460.03,920.06
+2023-04-05,Electronics,Headphones,3,145.02,435.06
+2023-04-05,Electronics,Laptop,1,132.99,132.99
+2023-04-05,Toys,Board Game,3,213.65,640.95
+2023-04-05,Electronics,Laptop,1,103.88,103.88
+2023-04-06,Toys,Remote Car,2,421.51,843.02
+2023-04-06,Electronics,Smartphone,1,27.65,27.65
+2023-04-06,Electronics,Laptop,2,342.98,685.96
+2023-04-06,Electronics,Smartphone,4,294.99,1179.96
+2023-04-06,Home & Kitchen,Cookware Set,1,263.18,263.18
+2023-04-06,Clothing,Jacket,3,80.47,241.41
+2023-04-06,Clothing,T-Shirt,1,383.92,383.92
+2023-04-06,Clothing,Jacket,2,110.29,220.58
+2023-04-07,Electronics,Headphones,4,428.96,1715.84
+2023-04-07,Toys,Doll,1,188.53,188.53
+2023-04-07,Clothing,Jacket,3,258.39,775.17
+2023-04-07,Home & Kitchen,Cookware Set,4,415.11,1660.44
+2023-04-07,Books,Biography,1,387.85,387.85
+2023-04-07,Clothing,Jacket,2,439.18,878.36
+2023-04-07,Books,Comics,1,28.41,28.41
+2023-04-07,Books,Biography,1,10.01,10.01
+2023-04-07,Electronics,Laptop,2,36.77,73.54
+2023-04-07,Clothing,Jacket,3,159.06,477.18
+2023-04-07,Books,Comics,4,10.72,42.88
+2023-04-07,Toys,Doll,3,334.89,1004.67
+2023-04-08,Books,Fiction,3,308.72,926.16
+2023-04-08,Books,Fiction,4,410.22,1640.88
+2023-04-08,Electronics,Laptop,4,451.95,1807.8
+2023-04-08,Toys,Remote Car,4,379.58,1518.32
+2023-04-08,Books,Biography,1,83.3,83.3
+2023-04-08,Home & Kitchen,Cookware Set,3,379.38,1138.14
+2023-04-08,Home & Kitchen,Microwave,3,263.62,790.86
+2023-04-08,Electronics,Headphones,4,30.79,123.16
+2023-04-08,Electronics,Smartphone,4,475.11,1900.44
+2023-04-08,Electronics,Headphones,1,284.44,284.44
+2023-04-08,Electronics,Smartphone,3,259.36,778.08
+2023-04-08,Toys,Board Game,1,229.92,229.92
+2023-04-08,Clothing,Jacket,4,58.14,232.56
+2023-04-09,Electronics,Headphones,3,71.31,213.93
+2023-04-09,Books,Biography,1,144.3,144.3
+2023-04-09,Home & Kitchen,Mixer,1,79.66,79.66
+2023-04-09,Toys,Board Game,3,68.25,204.75
+2023-04-09,Electronics,Headphones,1,474.07,474.07
+2023-04-09,Electronics,Smartphone,3,246.43,739.29
+2023-04-09,Toys,Doll,1,22.34,22.34
+2023-04-09,Toys,Remote Car,4,400.8,1603.2
+2023-04-09,Electronics,Laptop,2,224.45,448.9
+2023-04-09,Toys,Remote Car,1,410.39,410.39
+2023-04-10,Electronics,Smartphone,4,35.32,141.28
+2023-04-10,Electronics,Smartphone,3,246.31,738.93
+2023-04-10,Books,Biography,3,476.71,1430.13
+2023-04-10,Home & Kitchen,Cookware Set,2,406.31,812.62
+2023-04-10,Toys,Remote Car,2,436.99,873.98
+2023-04-10,Home & Kitchen,Mixer,1,44.74,44.74
+2023-04-10,Home & Kitchen,Microwave,4,491.13,1964.52
+2023-04-10,Home & Kitchen,Microwave,4,340.27,1361.08
+2023-04-10,Toys,Board Game,1,19.7,19.7
+2023-04-10,Books,Comics,1,182.95,182.95
+2023-04-10,Electronics,Laptop,1,220.96,220.96
+2023-04-10,Toys,Doll,1,43.49,43.49
+2023-04-10,Home & Kitchen,Mixer,2,51.12,102.24
+2023-04-11,Home & Kitchen,Microwave,1,45.33,45.33
+2023-04-11,Toys,Board Game,1,394.58,394.58
+2023-04-11,Home & Kitchen,Microwave,1,59.67,59.67
+2023-04-11,Books,Biography,3,221.69,665.07
+2023-04-11,Electronics,Laptop,2,264.16,528.32
+2023-04-11,Electronics,Laptop,2,278.41,556.82
+2023-04-11,Toys,Doll,1,371.56,371.56
+2023-04-11,Clothing,T-Shirt,1,179.8,179.8
+2023-04-11,Toys,Remote Car,3,306.69,920.07
+2023-04-11,Clothing,T-Shirt,3,141.58,424.74
+2023-04-11,Toys,Doll,2,484.58,969.16
+2023-04-11,Home & Kitchen,Cookware Set,3,94.33,282.99
+2023-04-11,Toys,Remote Car,1,55.11,55.11
+2023-04-12,Toys,Remote Car,3,281.16,843.48
+2023-04-12,Books,Biography,2,482.86,965.72
+2023-04-12,Home & Kitchen,Microwave,1,356.25,356.25
+2023-04-12,Electronics,Headphones,4,132.27,529.08
+2023-04-12,Clothing,T-Shirt,4,473.9,1895.6
+2023-04-12,Clothing,T-Shirt,2,310.01,620.02
+2023-04-12,Home & Kitchen,Microwave,3,442.67,1328.01
+2023-04-13,Toys,Doll,2,343.25,686.5
+2023-04-13,Toys,Board Game,1,198.95,198.95
+2023-04-13,Electronics,Smartphone,4,470.43,1881.72
+2023-04-13,Clothing,T-Shirt,1,312.45,312.45
+2023-04-13,Electronics,Laptop,2,373.98,747.96
+2023-04-13,Clothing,Jacket,4,376.71,1506.84
+2023-04-13,Electronics,Headphones,3,410.45,1231.35
+2023-04-13,Home & Kitchen,Mixer,3,14.44,43.32
+2023-04-13,Toys,Board Game,3,322.47,967.41
+2023-04-13,Clothing,Jeans,4,109.97,439.88
+2023-04-13,Electronics,Smartphone,3,34.51,103.53
+2023-04-13,Toys,Remote Car,4,131.7,526.8
+2023-04-14,Books,Comics,4,456.47,1825.88
+2023-04-14,Home & Kitchen,Mixer,2,369.04,738.08
+2023-04-14,Clothing,T-Shirt,3,301.45,904.35
+2023-04-14,Clothing,Jeans,2,197.81,395.62
+2023-04-14,Toys,Remote Car,3,276.68,830.04
+2023-04-14,Home & Kitchen,Microwave,2,374.01,748.02
+2023-04-14,Home & Kitchen,Microwave,4,43.54,174.16
+2023-04-14,Clothing,T-Shirt,1,111.05,111.05
+2023-04-14,Home & Kitchen,Mixer,3,141.74,425.22
+2023-04-14,Toys,Board Game,2,431.31,862.62
+2023-04-14,Clothing,Jacket,1,211.56,211.56
+2023-04-14,Clothing,Jacket,3,355.68,1067.04
+2023-04-14,Clothing,Jeans,4,80.75,323.0
+2023-04-15,Clothing,Jacket,2,394.7,789.4
+2023-04-15,Clothing,T-Shirt,1,157.51,157.51
+2023-04-15,Books,Comics,2,23.87,47.74
+2023-04-15,Toys,Remote Car,1,384.58,384.58
+2023-04-15,Clothing,T-Shirt,1,462.77,462.77
+2023-04-15,Books,Fiction,1,395.4,395.4
+2023-04-16,Clothing,Jacket,3,408.92,1226.76
+2023-04-16,Toys,Remote Car,3,404.86,1214.58
+2023-04-16,Electronics,Headphones,4,281.16,1124.64
+2023-04-16,Electronics,Smartphone,1,183.36,183.36
+2023-04-16,Toys,Board Game,1,160.82,160.82
+2023-04-16,Books,Biography,2,193.02,386.04
+2023-04-16,Clothing,Jacket,4,439.4,1757.6
+2023-04-16,Books,Fiction,1,48.04,48.04
+2023-04-16,Books,Comics,3,104.99,314.97
+2023-04-17,Books,Biography,3,420.58,1261.74
+2023-04-17,Home & Kitchen,Microwave,1,16.49,16.49
+2023-04-17,Electronics,Smartphone,3,340.09,1020.27
+2023-04-17,Books,Biography,4,122.5,490.0
+2023-04-17,Books,Fiction,3,10.98,32.94
+2023-04-17,Clothing,T-Shirt,2,396.82,793.64
+2023-04-17,Electronics,Laptop,1,212.96,212.96
+2023-04-17,Clothing,Jacket,2,69.53,139.06
+2023-04-17,Toys,Remote Car,4,68.02,272.08
+2023-04-17,Clothing,Jacket,2,91.8,183.6
+2023-04-18,Home & Kitchen,Microwave,3,377.2,1131.6
+2023-04-18,Home & Kitchen,Mixer,1,213.73,213.73
+2023-04-18,Electronics,Headphones,3,351.25,1053.75
+2023-04-18,Clothing,T-Shirt,1,,255.06
+2023-04-18,Home & Kitchen,Mixer,2,291.95,583.9
+2023-04-18,Books,Comics,1,351.35,351.35
+2023-04-18,Books,Fiction,1,225.16,225.16
+2023-04-18,Clothing,T-Shirt,3,66.0,198.0
+2023-04-18,Clothing,T-Shirt,3,110.12,330.36
+2023-04-18,Electronics,Headphones,1,390.48,390.48
+2023-04-19,Home & Kitchen,Mixer,3,242.38,727.14
+2023-04-19,Books,Fiction,3,347.43,1042.29
+2023-04-19,Toys,Board Game,2,364.49,728.98
+2023-04-19,Electronics,Smartphone,1,438.34,438.34
+2023-04-19,Electronics,Headphones,4,173.48,693.92
+2023-04-20,Books,Comics,3,428.94,1286.82
+2023-04-20,Books,Comics,3,16.55,49.65
+2023-04-20,Electronics,Laptop,3,147.63,442.89
+2023-04-20,Clothing,Jeans,2,200.81,401.62
+2023-04-20,Electronics,Headphones,4,277.34,1109.36
+2023-04-20,Electronics,Smartphone,2,193.98,387.96
+2023-04-20,Books,Biography,3,123.46,370.38
+2023-04-20,Books,Comics,2,167.37,334.74
+2023-04-20,Home & Kitchen,Cookware Set,2,367.33,734.66
+2023-04-20,Home & Kitchen,Cookware Set,2,,387.0
+2023-04-20,Toys,Remote Car,2,181.47,362.94
+2023-04-20,Home & Kitchen,Microwave,3,417.37,1252.11
+2023-04-20,Electronics,Smartphone,4,319.67,1278.68
+2023-04-21,Books,Comics,4,42.57,170.28
+2023-04-21,Electronics,Laptop,2,393.16,786.32
+2023-04-21,Books,Biography,3,341.96,1025.88
+2023-04-21,Toys,Board Game,3,338.87,1016.61
+2023-04-21,Toys,Board Game,3,93.24,279.72
+2023-04-21,Electronics,Headphones,4,201.47,805.88
+2023-04-22,Electronics,Headphones,3,302.61,907.83
+2023-04-22,Clothing,Jeans,1,275.41,275.41
+2023-04-22,Clothing,Jeans,1,361.03,361.03
+2023-04-22,Home & Kitchen,Mixer,4,303.89,1215.56
+2023-04-22,Clothing,Jeans,2,454.84,909.68
+2023-04-22,Toys,Remote Car,3,283.38,850.14
+2023-04-22,Clothing,Jeans,2,197.57,395.14
+2023-04-22,Clothing,Jacket,2,479.66,959.32
+2023-04-22,Electronics,Laptop,2,271.29,542.58
+2023-04-22,Home & Kitchen,Microwave,3,321.82,965.46
+2023-04-22,Electronics,Laptop,1,414.7,414.7
+2023-04-22,Books,Biography,2,117.17,234.34
+2023-04-22,Toys,Remote Car,2,40.94,81.88
+2023-04-22,Books,Comics,3,391.23,1173.69
+2023-04-23,Toys,Doll,1,376.44,376.44
+2023-04-23,Electronics,Smartphone,1,137.19,137.19
+2023-04-23,Books,Fiction,4,129.26,517.04
+2023-04-23,Books,Biography,2,394.05,788.1
+2023-04-23,Electronics,Laptop,3,261.96,785.88
+2023-04-23,Books,Comics,4,,1346.88
+2023-04-23,Clothing,Jeans,4,132.01,528.04
+2023-04-23,Books,Biography,4,415.06,1660.24
+2023-04-23,Toys,Remote Car,1,376.61,376.61
+2023-04-23,Books,Biography,3,498.84,1496.52
+2023-04-23,Home & Kitchen,Cookware Set,3,158.97,476.91
+2023-04-24,Home & Kitchen,Cookware Set,3,,1278.3
+2023-04-24,Home & Kitchen,Microwave,3,49.31,147.93
+2023-04-24,Books,Comics,2,17.05,34.1
+2023-04-24,Clothing,T-Shirt,4,161.39,645.56
+2023-04-24,Home & Kitchen,Microwave,3,469.82,1409.46
+2023-04-25,Books,Fiction,2,201.39,402.78
+2023-04-25,Toys,Board Game,1,380.8,380.8
+2023-04-25,Home & Kitchen,Microwave,2,77.83,155.66
+2023-04-25,Electronics,Headphones,3,464.81,1394.43
+2023-04-25,Clothing,Jacket,4,268.56,1074.24
+2023-04-25,Home & Kitchen,Mixer,3,227.1,681.3
+2023-04-25,Clothing,Jeans,1,235.97,235.97
+2023-04-25,Electronics,Laptop,3,475.11,1425.33
+2023-04-25,Books,Biography,3,341.99,1025.97
+2023-04-26,Home & Kitchen,Mixer,4,,1020.72
+2023-04-26,Electronics,Headphones,3,487.38,1462.14
+2023-04-26,Clothing,Jeans,3,376.42,1129.26
+2023-04-26,Toys,Board Game,3,110.04,330.12
+2023-04-26,Clothing,Jacket,1,420.31,420.31
+2023-04-26,Clothing,Jeans,4,22.23,88.92
+2023-04-27,Toys,Doll,2,272.61,545.22
+2023-04-27,Clothing,Jeans,1,85.31,85.31
+2023-04-27,Books,Fiction,2,,649.72
+2023-04-27,Clothing,Jacket,4,56.51,226.04
+2023-04-27,Home & Kitchen,Microwave,4,25.55,102.2
+2023-04-27,Clothing,Jeans,1,307.36,307.36
+2023-04-27,Toys,Remote Car,4,348.43,1393.72
+2023-04-27,Home & Kitchen,Cookware Set,4,432.87,1731.48
+2023-04-27,Home & Kitchen,Mixer,3,150.39,451.17
+2023-04-27,Electronics,Headphones,3,24.71,74.13
+2023-04-27,Clothing,T-Shirt,3,305.49,916.47
+2023-04-27,Electronics,Headphones,3,390.2,1170.6
+2023-04-28,Toys,Remote Car,1,487.92,487.92
+2023-04-28,Electronics,Smartphone,4,447.03,1788.12
+2023-04-28,Books,Comics,2,198.94,397.88
+2023-04-28,Clothing,Jacket,4,92.38,369.52
+2023-04-28,Home & Kitchen,Microwave,2,,943.54
+2023-04-28,Toys,Remote Car,1,269.64,269.64
+2023-04-28,Books,Biography,1,484.2,484.2
+2023-04-28,Toys,Remote Car,4,111.56,446.24
+2023-04-29,Books,Biography,4,73.54,294.16
+2023-04-29,Toys,Board Game,4,340.26,1361.04
+2023-04-29,Toys,Board Game,2,406.42,812.84
+2023-04-29,Clothing,Jeans,3,493.5,1480.5
+2023-04-29,Clothing,Jacket,3,356.27,1068.81
+2023-04-29,Books,Biography,2,257.7,515.4
+2023-04-29,Home & Kitchen,Microwave,3,50.31,150.93
+2023-04-29,Clothing,T-Shirt,3,37.92,113.76
+2023-04-29,Clothing,T-Shirt,2,365.25,730.5
+2023-04-29,Clothing,Jacket,4,390.75,1563.0
+2023-04-29,Clothing,Jacket,3,273.63,820.89
+2023-04-29,Books,Fiction,4,445.86,1783.44
+2023-04-30,Clothing,Jacket,1,249.8,249.8
+2023-04-30,Electronics,Headphones,4,246.76,987.04
+2023-04-30,Home & Kitchen,Cookware Set,1,431.3,431.3
+2023-04-30,Clothing,Jacket,3,232.46,697.38
+2023-04-30,Electronics,Laptop,4,106.25,425.0
+2023-04-30,Electronics,Smartphone,1,259.97,259.97
+2023-04-30,Books,Fiction,4,249.92,999.68
+2023-04-30,Toys,Remote Car,4,192.36,769.44
+2023-05-01,Toys,Board Game,2,428.59,857.18
+2023-05-01,Home & Kitchen,Mixer,2,414.6,829.2
+2023-05-01,Books,Biography,4,283.8,1135.2
+2023-05-01,Electronics,Laptop,2,133.87,267.74
+2023-05-01,Clothing,Jacket,4,52.64,210.56
+2023-05-01,Electronics,Headphones,3,290.88,872.64
+2023-05-01,Books,Biography,4,339.65,1358.6
+2023-05-01,Electronics,Headphones,2,264.84,529.68
+2023-05-01,Toys,Remote Car,3,138.99,416.97
+2023-05-01,Books,Fiction,3,304.14,912.42
+2023-05-02,Toys,Board Game,1,84.5,84.5
+2023-05-02,Electronics,Smartphone,3,107.76,323.28
+2023-05-02,Clothing,Jeans,3,29.63,88.89
+2023-05-02,Home & Kitchen,Microwave,3,455.13,1365.39
+2023-05-02,Books,Fiction,4,382.68,1530.72
+2023-05-03,Clothing,Jeans,2,261.33,522.66
+2023-05-03,Books,Biography,1,356.98,356.98
+2023-05-03,Clothing,T-Shirt,3,24.93,74.79
+2023-05-03,Books,Comics,1,260.18,260.18
+2023-05-03,Toys,Remote Car,1,239.48,239.48
+2023-05-03,Toys,Remote Car,1,34.62,34.62
+2023-05-03,Toys,Doll,1,427.96,427.96
+2023-05-03,Electronics,Laptop,3,,266.19
+2023-05-03,Home & Kitchen,Cookware Set,2,115.6,231.2
+2023-05-03,Toys,Board Game,1,64.68,64.68
+2023-05-03,Electronics,Headphones,2,350.86,701.72
+2023-05-04,Clothing,Jeans,3,377.88,1133.64
+2023-05-04,Home & Kitchen,Cookware Set,1,113.28,113.28
+2023-05-04,Clothing,T-Shirt,1,287.23,287.23
+2023-05-04,Clothing,Jeans,1,377.22,377.22
+2023-05-04,Home & Kitchen,Microwave,4,389.87,1559.48
+2023-05-04,Home & Kitchen,Cookware Set,3,153.33,459.99
+2023-05-04,Books,Comics,2,337.26,674.52
+2023-05-04,Home & Kitchen,Cookware Set,4,302.67,1210.68
+2023-05-04,Home & Kitchen,Microwave,4,425.57,1702.28
+2023-05-04,Books,Comics,4,372.14,1488.56
+2023-05-04,Clothing,T-Shirt,3,176.49,529.47
+2023-05-04,Books,Biography,4,276.08,1104.32
+2023-05-05,Toys,Doll,3,162.82,488.46
+2023-05-05,Home & Kitchen,Microwave,4,163.45,653.8
+2023-05-05,Toys,Board Game,2,178.26,356.52
+2023-05-05,Electronics,Headphones,4,101.01,404.04
+2023-05-05,Clothing,Jeans,4,90.79,363.16
+2023-05-05,Toys,Remote Car,4,177.3,709.2
+2023-05-05,Books,Fiction,3,255.74,767.22
+2023-05-05,Clothing,Jeans,2,334.34,668.68
+2023-05-06,Toys,Doll,3,453.14,1359.42
+2023-05-06,Books,Comics,2,471.35,942.7
+2023-05-06,Electronics,Headphones,3,114.1,342.3
+2023-05-06,Books,Biography,3,207.18,621.54
+2023-05-06,Clothing,Jacket,4,163.8,655.2
+2023-05-06,Electronics,Laptop,1,367.56,367.56
+2023-05-06,Home & Kitchen,Microwave,1,220.68,220.68
+2023-05-06,Electronics,Laptop,1,370.11,370.11
+2023-05-06,Electronics,Laptop,1,,251.48
+2023-05-06,Clothing,Jeans,4,369.6,1478.4
+2023-05-06,Electronics,Smartphone,4,67.13,268.52
+2023-05-06,Books,Biography,1,32.17,32.17
+2023-05-06,Toys,Remote Car,3,332.74,998.22
+2023-05-06,Clothing,T-Shirt,4,437.78,1751.12
+2023-05-07,Home & Kitchen,Microwave,2,170.13,340.26
+2023-05-07,Electronics,Headphones,3,402.48,1207.44
+2023-05-07,Books,Biography,1,47.07,47.07
+2023-05-07,Books,Comics,1,296.69,296.69
+2023-05-07,Books,Fiction,3,301.48,904.44
+2023-05-07,Electronics,Headphones,2,433.1,866.2
+2023-05-07,Toys,Remote Car,2,396.85,793.7
+2023-05-07,Books,Fiction,2,217.54,435.08
+2023-05-07,Electronics,Headphones,3,393.2,1179.6
+2023-05-07,Clothing,Jacket,3,35.85,107.55
+2023-05-07,Toys,Board Game,3,116.95,350.85
+2023-05-07,Books,Comics,1,133.9,133.9
+2023-05-08,Clothing,T-Shirt,3,412.14,1236.42
+2023-05-08,Home & Kitchen,Mixer,4,187.65,750.6
+2023-05-08,Electronics,Smartphone,2,112.44,224.88
+2023-05-08,Electronics,Laptop,1,185.58,185.58
+2023-05-08,Books,Biography,3,118.41,355.23
+2023-05-08,Books,Comics,2,383.32,766.64
+2023-05-08,Books,Fiction,3,158.61,475.83
+2023-05-08,Home & Kitchen,Microwave,1,467.54,467.54
+2023-05-08,Electronics,Headphones,1,304.82,304.82
+2023-05-08,Books,Biography,4,132.39,529.56
+2023-05-08,Home & Kitchen,Microwave,2,172.73,345.46
+2023-05-08,Electronics,Laptop,2,43.54,87.08
+2023-05-08,Toys,Remote Car,3,310.27,930.81
+2023-05-08,Home & Kitchen,Cookware Set,4,349.73,1398.92
+2023-05-09,Home & Kitchen,Cookware Set,4,470.69,1882.76
+2023-05-09,Toys,Board Game,1,192.99,192.99
+2023-05-09,Home & Kitchen,Microwave,1,227.62,227.62
+2023-05-09,Toys,Board Game,2,341.15,682.3
+2023-05-09,Books,Comics,3,151.12,453.36
+2023-05-09,Home & Kitchen,Microwave,4,215.4,861.6
+2023-05-09,Toys,Board Game,2,,565.9
+2023-05-10,Home & Kitchen,Cookware Set,1,163.39,163.39
+2023-05-10,Clothing,Jacket,4,237.66,950.64
+2023-05-10,Clothing,T-Shirt,1,149.99,149.99
+2023-05-10,Clothing,Jeans,2,31.1,62.2
+2023-05-10,Books,Fiction,3,368.43,1105.29
+2023-05-10,Home & Kitchen,Microwave,1,332.45,332.45
+2023-05-10,Clothing,T-Shirt,2,62.73,125.46
+2023-05-10,Books,Comics,2,133.07,266.14
+2023-05-10,Clothing,Jacket,4,278.26,1113.04
+2023-05-10,Electronics,Smartphone,2,290.79,581.58
+2023-05-11,Home & Kitchen,Cookware Set,3,415.96,1247.88
+2023-05-11,Home & Kitchen,Mixer,4,483.22,1932.88
+2023-05-11,Toys,Board Game,1,113.33,113.33
+2023-05-11,Home & Kitchen,Microwave,1,206.1,206.1
+2023-05-11,Home & Kitchen,Mixer,3,392.29,1176.87
+2023-05-11,Electronics,Headphones,2,347.14,694.28
+2023-05-11,Electronics,Headphones,1,107.07,107.07
+2023-05-11,Clothing,Jacket,1,119.11,119.11
+2023-05-11,Toys,Remote Car,2,390.38,780.76
+2023-05-11,Clothing,T-Shirt,4,214.89,859.56
+2023-05-11,Electronics,Laptop,2,364.87,729.74
+2023-05-11,Clothing,Jeans,3,404.43,1213.29
+2023-05-12,Home & Kitchen,Microwave,2,,249.14
+2023-05-12,Home & Kitchen,Mixer,1,474.64,474.64
+2023-05-12,Electronics,Laptop,4,146.08,584.32
+2023-05-12,Electronics,Laptop,2,34.81,69.62
+2023-05-12,Home & Kitchen,Mixer,3,202.52,607.56
+2023-05-12,Books,Comics,2,473.91,947.82
+2023-05-12,Electronics,Headphones,3,131.46,394.38
+2023-05-12,Clothing,T-Shirt,4,487.16,1948.64
+2023-05-12,Clothing,Jeans,3,272.33,816.99
+2023-05-12,Toys,Board Game,2,90.03,180.06
+2023-05-12,Books,Fiction,4,137.1,548.4
+2023-05-12,Books,Biography,4,104.69,418.76
+2023-05-12,Books,Comics,4,150.79,603.16
+2023-05-13,Clothing,Jacket,1,436.61,436.61
+2023-05-13,Books,Fiction,1,173.86,173.86
+2023-05-13,Toys,Remote Car,2,280.85,561.7
+2023-05-13,Books,Biography,1,404.66,404.66
+2023-05-13,Home & Kitchen,Cookware Set,4,278.23,1112.92
+2023-05-13,Electronics,Laptop,3,186.93,560.79
+2023-05-13,Clothing,T-Shirt,2,26.99,53.98
+2023-05-13,Books,Comics,3,403.4,1210.2
+2023-05-13,Home & Kitchen,Microwave,2,137.32,274.64
+2023-05-13,Toys,Remote Car,4,69.83,279.32
+2023-05-13,Home & Kitchen,Cookware Set,2,127.86,255.72
+2023-05-14,Toys,Board Game,4,413.93,1655.72
+2023-05-14,Clothing,T-Shirt,4,331.63,1326.52
+2023-05-14,Home & Kitchen,Mixer,2,338.92,677.84
+2023-05-14,Books,Biography,1,496.37,496.37
+2023-05-14,Clothing,Jacket,3,67.47,202.41
+2023-05-14,Clothing,Jeans,3,333.12,999.36
+2023-05-14,Electronics,Smartphone,1,322.57,322.57
+2023-05-14,Books,Biography,3,211.48,634.44
+2023-05-14,Clothing,Jeans,4,,1344.12
+2023-05-14,Books,Comics,3,146.68,440.04
+2023-05-14,Home & Kitchen,Cookware Set,1,391.96,391.96
+2023-05-14,Clothing,Jacket,2,134.26,268.52
+2023-05-14,Electronics,Smartphone,3,496.06,1488.18
+2023-05-15,Toys,Board Game,2,397.82,795.64
+2023-05-15,Clothing,Jacket,2,151.04,302.08
+2023-05-15,Clothing,Jacket,3,424.97,1274.91
+2023-05-15,Toys,Remote Car,2,445.89,891.78
+2023-05-15,Clothing,T-Shirt,4,12.65,50.6
+2023-05-16,Toys,Doll,4,386.6,1546.4
+2023-05-16,Books,Biography,4,472.1,1888.4
+2023-05-16,Electronics,Smartphone,4,376.07,1504.28
+2023-05-16,Clothing,Jacket,1,328.71,328.71
+2023-05-16,Books,Biography,1,426.23,426.23
+2023-05-16,Home & Kitchen,Cookware Set,1,498.49,498.49
+2023-05-16,Clothing,T-Shirt,2,211.57,423.14
+2023-05-16,Electronics,Laptop,1,315.14,315.14
+2023-05-16,Electronics,Laptop,4,23.65,94.6
+2023-05-16,Toys,Doll,1,339.7,339.7
+2023-05-17,Home & Kitchen,Microwave,3,404.71,1214.13
+2023-05-17,Clothing,T-Shirt,3,446.29,1338.87
+2023-05-17,Toys,Board Game,3,255.14,765.42
+2023-05-17,Clothing,Jeans,2,421.51,843.02
+2023-05-17,Clothing,Jeans,4,83.84,335.36
+2023-05-17,Toys,Board Game,4,,1464.6
+2023-05-17,Books,Fiction,4,341.42,1365.68
+2023-05-17,Toys,Doll,2,154.95,309.9
+2023-05-18,Toys,Board Game,4,72.61,290.44
+2023-05-18,Toys,Board Game,1,420.26,420.26
+2023-05-18,Books,Comics,2,75.94,151.88
+2023-05-18,Toys,Board Game,1,235.73,235.73
+2023-05-18,Toys,Doll,1,60.68,60.68
+2023-05-18,Toys,Remote Car,4,151.24,604.96
+2023-05-18,Home & Kitchen,Mixer,1,358.95,358.95
+2023-05-18,Electronics,Headphones,2,16.32,32.64
+2023-05-18,Books,Comics,4,287.22,1148.88
+2023-05-19,Books,Biography,3,278.95,836.85
+2023-05-19,Clothing,T-Shirt,1,200.48,200.48
+2023-05-19,Electronics,Headphones,1,164.31,164.31
+2023-05-19,Home & Kitchen,Cookware Set,3,488.63,1465.89
+2023-05-19,Home & Kitchen,Mixer,2,438.07,876.14
+2023-05-19,Home & Kitchen,Microwave,3,408.11,1224.33
+2023-05-19,Clothing,T-Shirt,3,165.97,497.91
+2023-05-19,Clothing,T-Shirt,4,344.27,1377.08
+2023-05-19,Books,Comics,1,319.87,319.87
+2023-05-19,Home & Kitchen,Mixer,3,68.59,205.77
+2023-05-19,Toys,Board Game,4,379.2,1516.8
+2023-05-19,Toys,Remote Car,2,497.4,994.8
+2023-05-19,Home & Kitchen,Mixer,3,101.45,304.35
+2023-05-20,Toys,Remote Car,1,400.29,400.29
+2023-05-20,Home & Kitchen,Cookware Set,4,71.52,286.08
+2023-05-20,Clothing,Jeans,4,148.31,593.24
+2023-05-20,Home & Kitchen,Mixer,4,388.04,1552.16
+2023-05-20,Home & Kitchen,Cookware Set,3,296.94,890.82
+2023-05-20,Home & Kitchen,Microwave,2,411.83,823.66
+2023-05-20,Clothing,Jacket,3,347.76,1043.28
+2023-05-20,Toys,Doll,1,310.68,310.68
+2023-05-20,Electronics,Headphones,4,276.94,1107.76
+2023-05-20,Toys,Doll,3,188.76,566.28
+2023-05-20,Home & Kitchen,Cookware Set,1,498.32,498.32
+2023-05-20,Toys,Doll,2,282.67,565.34
+2023-05-20,Home & Kitchen,Cookware Set,1,269.56,269.56
+2023-05-21,Electronics,Smartphone,1,418.27,418.27
+2023-05-21,Electronics,Laptop,4,204.01,816.04
+2023-05-21,Electronics,Headphones,2,160.55,321.1
+2023-05-21,Toys,Doll,1,132.93,132.93
+2023-05-21,Clothing,Jacket,3,179.36,538.08
+2023-05-21,Electronics,Laptop,1,176.26,176.26
+2023-05-21,Toys,Doll,2,39.94,79.88
+2023-05-21,Toys,Board Game,3,231.35,694.05
+2023-05-21,Toys,Board Game,1,66.42,66.42
+2023-05-22,Electronics,Headphones,2,199.76,399.52
+2023-05-22,Books,Biography,4,204.5,818.0
+2023-05-22,Electronics,Laptop,3,327.9,983.7
+2023-05-22,Clothing,T-Shirt,1,98.45,98.45
+2023-05-22,Electronics,Headphones,4,295.05,1180.2
+2023-05-22,Home & Kitchen,Mixer,1,89.64,89.64
+2023-05-22,Toys,Doll,4,369.84,1479.36
+2023-05-22,Home & Kitchen,Microwave,2,115.31,230.62
+2023-05-22,Clothing,T-Shirt,1,292.72,292.72
+2023-05-22,Books,Comics,4,274.74,1098.96
+2023-05-22,Home & Kitchen,Cookware Set,3,300.46,901.38
+2023-05-22,Electronics,Laptop,4,155.2,620.8
+2023-05-23,Home & Kitchen,Cookware Set,3,301.88,905.64
+2023-05-23,Electronics,Headphones,4,166.37,665.48
+2023-05-23,Electronics,Laptop,2,164.36,328.72
+2023-05-23,Clothing,Jeans,4,393.9,1575.6
+2023-05-23,Books,Comics,3,342.46,1027.38
+2023-05-23,Clothing,Jeans,3,169.59,508.77
+2023-05-23,Toys,Doll,3,262.98,788.94
+2023-05-24,Electronics,Laptop,1,83.08,83.08
+2023-05-24,Toys,Doll,2,20.81,41.62
+2023-05-24,Electronics,Laptop,1,16.32,16.32
+2023-05-24,Books,Fiction,3,74.77,224.31
+2023-05-24,Clothing,Jacket,1,67.06,67.06
+2023-05-24,Clothing,Jacket,3,452.18,1356.54
+2023-05-24,Toys,Doll,1,453.71,453.71
+2023-05-24,Toys,Remote Car,3,412.04,1236.12
+2023-05-24,Toys,Remote Car,2,139.59,279.18
+2023-05-25,Books,Biography,2,414.71,829.42
+2023-05-25,Clothing,T-Shirt,3,303.3,909.9
+2023-05-25,Home & Kitchen,Cookware Set,2,90.67,181.34
+2023-05-25,Toys,Remote Car,3,244.38,733.14
+2023-05-25,Clothing,T-Shirt,2,39.2,78.4
+2023-05-25,Books,Biography,1,266.47,266.47
+2023-05-26,Home & Kitchen,Cookware Set,2,49.25,98.5
+2023-05-26,Books,Comics,3,80.05,240.15
+2023-05-26,Clothing,T-Shirt,3,303.02,909.06
+2023-05-26,Toys,Remote Car,2,260.74,521.48
+2023-05-26,Home & Kitchen,Cookware Set,4,142.6,570.4
+2023-05-26,Clothing,Jacket,4,13.59,54.36
+2023-05-26,Home & Kitchen,Mixer,4,291.19,1164.76
+2023-05-26,Books,Comics,4,108.9,435.6
+2023-05-26,Books,Fiction,1,459.6,459.6
+2023-05-26,Clothing,T-Shirt,2,275.22,550.44
+2023-05-26,Books,Fiction,2,473.53,947.06
+2023-05-26,Electronics,Smartphone,2,93.24,186.48
+2023-05-26,Electronics,Laptop,2,264.1,528.2
+2023-05-26,Electronics,Smartphone,3,494.86,1484.58
+2023-05-27,Home & Kitchen,Mixer,2,464.75,929.5
+2023-05-27,Home & Kitchen,Microwave,4,47.61,190.44
+2023-05-27,Toys,Remote Car,1,37.15,37.15
+2023-05-27,Home & Kitchen,Cookware Set,1,213.57,213.57
+2023-05-27,Toys,Board Game,4,96.77,387.08
+2023-05-27,Clothing,Jacket,2,303.69,607.38
+2023-05-27,Books,Fiction,1,57.51,57.51
+2023-05-27,Clothing,Jacket,2,342.0,684.0
+2023-05-27,Books,Biography,3,461.99,1385.97
+2023-05-28,Electronics,Headphones,3,423.44,1270.32
+2023-05-28,Books,Biography,2,481.19,962.38
+2023-05-28,Books,Fiction,1,210.74,210.74
+2023-05-28,Home & Kitchen,Microwave,4,,1472.52
+2023-05-28,Toys,Remote Car,1,417.98,417.98
+2023-05-28,Home & Kitchen,Mixer,2,39.21,78.42
+2023-05-29,Home & Kitchen,Microwave,3,213.75,641.25
+2023-05-29,Books,Biography,3,288.59,865.77
+2023-05-29,Toys,Remote Car,4,497.1,1988.4
+2023-05-29,Toys,Remote Car,3,290.18,870.54
+2023-05-29,Clothing,T-Shirt,1,210.45,210.45
+2023-05-29,Home & Kitchen,Cookware Set,3,353.36,1060.08
+2023-05-29,Books,Comics,2,292.04,584.08
+2023-05-29,Electronics,Smartphone,1,107.42,107.42
+2023-05-29,Home & Kitchen,Mixer,4,112.95,451.8
+2023-05-29,Home & Kitchen,Cookware Set,4,134.72,538.88
+2023-05-29,Clothing,Jacket,2,171.97,343.94
+2023-05-29,Books,Fiction,1,400.16,400.16
+2023-05-29,Clothing,T-Shirt,1,225.86,225.86
+2023-05-29,Toys,Board Game,2,215.36,430.72
+2023-05-30,Toys,Board Game,2,151.21,302.42
+2023-05-30,Clothing,T-Shirt,2,454.93,909.86
+2023-05-30,Books,Biography,2,21.73,43.46
+2023-05-30,Clothing,Jacket,3,291.19,873.57
+2023-05-30,Electronics,Headphones,2,,720.12
+2023-05-31,Books,Fiction,3,449.32,1347.96
+2023-05-31,Toys,Board Game,1,,252.32
+2023-05-31,Home & Kitchen,Microwave,1,164.88,164.88
+2023-05-31,Books,Comics,3,220.54,661.62
+2023-05-31,Home & Kitchen,Mixer,1,170.44,170.44
+2023-05-31,Electronics,Laptop,4,107.34,429.36
+2023-05-31,Clothing,Jeans,1,282.02,282.02
+2023-05-31,Books,Biography,2,311.56,623.12
+2023-06-01,Clothing,Jeans,2,360.3,720.6
+2023-06-01,Clothing,T-Shirt,1,306.37,306.37
+2023-06-01,Toys,Remote Car,4,337.75,1351.0
+2023-06-01,Electronics,Laptop,4,140.34,561.36
+2023-06-01,Home & Kitchen,Mixer,4,356.44,1425.76
+2023-06-01,Books,Comics,2,444.1,888.2
+2023-06-01,Books,Fiction,4,498.51,1994.04
+2023-06-01,Clothing,T-Shirt,3,75.13,225.39
+2023-06-01,Home & Kitchen,Cookware Set,2,37.99,75.98
+2023-06-01,Books,Comics,3,452.58,1357.74
+2023-06-01,Clothing,T-Shirt,4,255.03,1020.12
+2023-06-02,Clothing,T-Shirt,4,,1043.96
+2023-06-02,Toys,Remote Car,3,488.51,1465.53
+2023-06-02,Books,Comics,1,158.66,158.66
+2023-06-02,Home & Kitchen,Mixer,3,84.17,252.51
+2023-06-02,Clothing,Jacket,1,99.4,99.4
+2023-06-02,Electronics,Smartphone,2,291.78,583.56
+2023-06-02,Clothing,Jacket,2,189.81,379.62
+2023-06-02,Home & Kitchen,Microwave,3,326.16,978.48
+2023-06-02,Books,Comics,2,208.61,417.22
+2023-06-03,Electronics,Headphones,1,168.63,168.63
+2023-06-03,Home & Kitchen,Cookware Set,2,99.58,199.16
+2023-06-03,Toys,Remote Car,2,176.23,352.46
+2023-06-03,Electronics,Headphones,2,63.42,126.84
+2023-06-03,Clothing,Jacket,2,277.5,555.0
+2023-06-03,Books,Fiction,3,430.04,1290.12
+2023-06-03,Clothing,T-Shirt,2,348.26,696.52
+2023-06-04,Books,Biography,1,36.35,36.35
+2023-06-04,Home & Kitchen,Microwave,3,68.78,206.34
+2023-06-04,Clothing,Jacket,3,432.09,1296.27
+2023-06-04,Home & Kitchen,Microwave,4,171.12,684.48
+2023-06-04,Home & Kitchen,Cookware Set,4,151.83,607.32
+2023-06-04,Home & Kitchen,Cookware Set,1,493.42,493.42
+2023-06-04,Books,Comics,4,342.08,1368.32
+2023-06-04,Toys,Remote Car,3,322.79,968.37
+2023-06-04,Books,Comics,3,480.14,1440.42
+2023-06-04,Toys,Remote Car,1,,412.07
+2023-06-04,Clothing,T-Shirt,1,102.71,102.71
+2023-06-05,Books,Fiction,3,306.11,918.33
+2023-06-05,Home & Kitchen,Mixer,4,,1665.96
+2023-06-05,Toys,Remote Car,2,207.09,414.18
+2023-06-05,Books,Fiction,3,79.58,238.74
+2023-06-05,Toys,Remote Car,2,209.81,419.62
+2023-06-05,Clothing,Jacket,3,481.09,1443.27
+2023-06-05,Clothing,Jacket,4,350.64,1402.56
+2023-06-05,Books,Fiction,2,390.0,780.0
+2023-06-06,Electronics,Smartphone,1,,37.52
+2023-06-06,Toys,Doll,1,94.08,94.08
+2023-06-06,Clothing,Jeans,3,441.16,1323.48
+2023-06-06,Books,Fiction,2,40.93,81.86
+2023-06-06,Home & Kitchen,Microwave,2,45.95,91.9
+2023-06-06,Electronics,Laptop,1,239.31,239.31
+2023-06-06,Books,Fiction,2,105.9,211.8
+2023-06-06,Clothing,Jeans,4,215.3,861.2
+2023-06-07,Clothing,Jacket,2,466.1,932.2
+2023-06-07,Clothing,Jeans,2,162.67,325.34
+2023-06-07,Electronics,Smartphone,1,461.14,461.14
+2023-06-07,Home & Kitchen,Mixer,1,110.08,110.08
+2023-06-07,Books,Biography,1,61.65,61.65
+2023-06-08,Clothing,Jacket,1,68.98,68.98
+2023-06-08,Electronics,Laptop,3,465.12,1395.36
+2023-06-08,Electronics,Smartphone,4,160.77,643.08
+2023-06-08,Books,Biography,3,193.66,580.98
+2023-06-08,Electronics,Laptop,1,377.2,377.2
+2023-06-08,Toys,Doll,2,124.04,248.08
+2023-06-08,Clothing,Jeans,4,29.09,116.36
+2023-06-08,Books,Biography,2,177.21,354.42
+2023-06-09,Home & Kitchen,Cookware Set,1,259.36,259.36
+2023-06-09,Clothing,Jacket,2,14.86,29.72
+2023-06-09,Clothing,Jeans,2,28.47,56.94
+2023-06-09,Clothing,Jeans,3,379.74,1139.22
+2023-06-09,Clothing,T-Shirt,4,496.15,1984.6
+2023-06-09,Toys,Doll,3,140.87,422.61
+2023-06-09,Clothing,Jeans,1,,13.42
+2023-06-09,Toys,Doll,3,69.72,209.16
+2023-06-09,Toys,Remote Car,2,496.03,992.06
+2023-06-10,Electronics,Smartphone,4,273.42,1093.68
+2023-06-10,Home & Kitchen,Microwave,3,40.1,120.3
+2023-06-10,Toys,Remote Car,2,194.66,389.32
+2023-06-10,Home & Kitchen,Microwave,1,371.33,371.33
+2023-06-10,Clothing,Jeans,1,477.17,477.17
+2023-06-10,Clothing,Jacket,2,156.05,312.1
+2023-06-10,Electronics,Headphones,2,458.75,917.5
+2023-06-10,Home & Kitchen,Cookware Set,3,169.88,509.64
+2023-06-10,Clothing,Jacket,2,103.16,206.32
+2023-06-10,Toys,Board Game,1,68.14,68.14
+2023-06-11,Home & Kitchen,Mixer,3,371.56,1114.68
+2023-06-11,Toys,Remote Car,1,246.6,246.6
+2023-06-11,Clothing,T-Shirt,4,,1872.2
+2023-06-11,Home & Kitchen,Mixer,1,403.46,403.46
+2023-06-11,Toys,Board Game,3,256.82,770.46
+2023-06-12,Books,Biography,2,228.27,456.54
+2023-06-12,Home & Kitchen,Microwave,2,105.19,210.38
+2023-06-12,Electronics,Smartphone,4,400.26,1601.04
+2023-06-12,Electronics,Smartphone,2,67.93,135.86
+2023-06-12,Clothing,Jeans,3,194.91,584.73
+2023-06-12,Books,Fiction,3,475.9,1427.7
+2023-06-13,Toys,Remote Car,2,370.01,740.02
+2023-06-13,Toys,Board Game,3,202.19,606.57
+2023-06-13,Electronics,Smartphone,1,256.81,256.81
+2023-06-13,Clothing,T-Shirt,4,490.82,1963.28
+2023-06-13,Books,Biography,3,317.56,952.68
+2023-06-13,Books,Biography,1,469.65,469.65
+2023-06-13,Home & Kitchen,Microwave,4,351.32,1405.28
+2023-06-13,Home & Kitchen,Cookware Set,1,174.05,174.05
+2023-06-13,Toys,Doll,3,313.39,940.17
+2023-06-13,Clothing,Jeans,2,409.05,818.1
+2023-06-13,Toys,Board Game,1,106.38,106.38
+2023-06-14,Home & Kitchen,Mixer,4,187.63,750.52
+2023-06-14,Home & Kitchen,Mixer,4,239.83,959.32
+2023-06-14,Clothing,Jeans,2,195.33,390.66
+2023-06-14,Clothing,Jacket,1,178.04,178.04
+2023-06-14,Toys,Doll,4,348.12,1392.48
+2023-06-14,Electronics,Headphones,2,365.39,730.78
+2023-06-14,Home & Kitchen,Mixer,2,109.05,218.1
+2023-06-14,Electronics,Smartphone,4,456.3,1825.2
+2023-06-14,Clothing,T-Shirt,4,70.39,281.56
+2023-06-14,Electronics,Smartphone,1,89.23,89.23
+2023-06-14,Clothing,Jacket,1,277.87,277.87
+2023-06-14,Books,Biography,1,439.54,439.54
+2023-06-14,Clothing,T-Shirt,1,170.64,170.64
+2023-06-14,Electronics,Laptop,1,66.3,66.3
+2023-06-15,Clothing,Jacket,4,295.73,1182.92
+2023-06-15,Home & Kitchen,Mixer,1,135.96,135.96
+2023-06-15,Toys,Board Game,3,374.51,1123.53
+2023-06-15,Toys,Doll,1,348.79,348.79
+2023-06-15,Toys,Board Game,2,416.4,832.8
+2023-06-15,Home & Kitchen,Microwave,1,455.68,455.68
+2023-06-15,Electronics,Smartphone,4,407.79,1631.16
+2023-06-15,Home & Kitchen,Cookware Set,1,425.75,425.75
+2023-06-16,Toys,Board Game,2,315.37,630.74
+2023-06-16,Toys,Board Game,2,203.58,407.16
+2023-06-16,Electronics,Smartphone,2,40.63,81.26
+2023-06-16,Clothing,T-Shirt,3,184.92,554.76
+2023-06-16,Toys,Remote Car,1,117.37,117.37
+2023-06-16,Clothing,Jeans,2,153.04,306.08
+2023-06-16,Clothing,T-Shirt,1,196.44,196.44
+2023-06-17,Toys,Board Game,2,479.0,958.0
+2023-06-17,Toys,Doll,1,450.0,450.0
+2023-06-17,Toys,Board Game,1,312.96,312.96
+2023-06-17,Clothing,Jeans,1,110.93,110.93
+2023-06-17,Toys,Doll,2,488.87,977.74
+2023-06-17,Books,Comics,1,421.16,421.16
+2023-06-17,Toys,Doll,4,429.91,1719.64
+2023-06-18,Toys,Doll,4,487.95,1951.8
+2023-06-18,Home & Kitchen,Microwave,4,327.75,1311.0
+2023-06-18,Books,Biography,2,170.64,341.28
+2023-06-18,Home & Kitchen,Microwave,2,169.65,339.3
+2023-06-18,Home & Kitchen,Microwave,4,436.13,1744.52
+2023-06-18,Home & Kitchen,Mixer,4,184.49,737.96
+2023-06-18,Books,Comics,3,220.87,662.61
+2023-06-19,Books,Comics,1,272.32,272.32
+2023-06-19,Home & Kitchen,Mixer,2,113.76,227.52
+2023-06-19,Books,Fiction,1,,284.27
+2023-06-19,Clothing,T-Shirt,3,160.07,480.21
+2023-06-19,Clothing,Jeans,4,55.43,221.72
+2023-06-19,Clothing,T-Shirt,2,365.78,731.56
+2023-06-19,Electronics,Headphones,2,407.67,815.34
+2023-06-19,Electronics,Headphones,4,95.55,382.2
+2023-06-19,Clothing,Jeans,1,312.43,312.43
+2023-06-19,Toys,Doll,1,70.81,70.81
+2023-06-19,Toys,Board Game,2,299.94,599.88
+2023-06-19,Books,Comics,3,315.46,946.38
+2023-06-19,Toys,Board Game,2,269.04,538.08
+2023-06-19,Home & Kitchen,Mixer,4,106.8,427.2
+2023-06-20,Toys,Board Game,2,223.76,447.52
+2023-06-20,Clothing,T-Shirt,2,283.5,567.0
+2023-06-20,Clothing,Jeans,3,447.77,1343.31
+2023-06-20,Electronics,Smartphone,2,371.19,742.38
+2023-06-20,Books,Biography,4,427.58,1710.32
+2023-06-20,Clothing,Jeans,1,315.52,315.52
+2023-06-20,Home & Kitchen,Microwave,4,486.51,1946.04
+2023-06-20,Books,Fiction,2,234.21,468.42
+2023-06-21,Home & Kitchen,Microwave,4,377.58,1510.32
+2023-06-21,Toys,Doll,3,135.12,405.36
+2023-06-21,Electronics,Laptop,4,490.78,1963.12
+2023-06-21,Electronics,Headphones,3,27.87,83.61
+2023-06-21,Toys,Doll,3,67.81,203.43
+2023-06-22,Electronics,Smartphone,2,138.58,277.16
+2023-06-22,Electronics,Smartphone,2,,624.38
+2023-06-22,Home & Kitchen,Microwave,1,289.74,289.74
+2023-06-22,Books,Biography,4,123.37,493.48
+2023-06-22,Toys,Board Game,3,435.59,1306.77
+2023-06-22,Clothing,T-Shirt,3,149.45,448.35
+2023-06-22,Electronics,Laptop,3,345.74,1037.22
+2023-06-22,Home & Kitchen,Microwave,3,139.95,419.85
+2023-06-22,Electronics,Laptop,1,65.52,65.52
+2023-06-22,Clothing,T-Shirt,4,309.08,1236.32
+2023-06-22,Books,Comics,1,117.96,117.96
+2023-06-23,Home & Kitchen,Microwave,2,378.37,756.74
+2023-06-23,Clothing,Jacket,4,482.21,1928.84
+2023-06-23,Books,Fiction,2,350.51,701.02
+2023-06-23,Books,Comics,2,426.97,853.94
+2023-06-23,Toys,Remote Car,4,375.63,1502.52
+2023-06-23,Electronics,Headphones,1,273.3,273.3
+2023-06-23,Home & Kitchen,Microwave,4,315.52,1262.08
+2023-06-23,Books,Biography,2,424.04,848.08
+2023-06-23,Toys,Remote Car,3,316.48,949.44
+2023-06-23,Toys,Board Game,2,242.34,484.68
+2023-06-23,Home & Kitchen,Microwave,1,29.76,29.76
+2023-06-23,Books,Fiction,4,133.74,534.96
+2023-06-24,Home & Kitchen,Cookware Set,4,110.94,443.76
+2023-06-24,Home & Kitchen,Microwave,1,493.04,493.04
+2023-06-24,Books,Biography,1,14.3,14.3
+2023-06-24,Clothing,T-Shirt,4,443.77,1775.08
+2023-06-24,Toys,Board Game,4,207.49,829.96
+2023-06-25,Toys,Remote Car,1,488.71,488.71
+2023-06-25,Clothing,T-Shirt,3,471.25,1413.75
+2023-06-25,Clothing,Jeans,3,469.71,1409.13
+2023-06-25,Toys,Board Game,1,115.43,115.43
+2023-06-25,Electronics,Smartphone,4,498.78,1995.12
+2023-06-25,Home & Kitchen,Mixer,3,371.89,1115.67
+2023-06-25,Books,Fiction,3,128.71,386.13
+2023-06-25,Clothing,Jeans,4,460.08,1840.32
+2023-06-26,Toys,Board Game,3,194.83,584.49
+2023-06-26,Toys,Board Game,3,323.79,971.37
+2023-06-26,Books,Biography,3,474.37,1423.11
+2023-06-26,Electronics,Headphones,2,380.53,761.06
+2023-06-26,Toys,Board Game,1,75.34,75.34
+2023-06-26,Clothing,Jacket,4,121.88,487.52
+2023-06-26,Toys,Board Game,2,242.41,484.82
+2023-06-26,Clothing,T-Shirt,4,477.43,1909.72
+2023-06-26,Home & Kitchen,Microwave,2,340.28,680.56
+2023-06-26,Clothing,T-Shirt,2,335.72,671.44
+2023-06-26,Toys,Board Game,3,211.26,633.78
+2023-06-26,Clothing,T-Shirt,4,74.22,296.88
+2023-06-27,Home & Kitchen,Cookware Set,2,429.85,859.7
+2023-06-27,Electronics,Laptop,4,272.72,1090.88
+2023-06-27,Books,Comics,3,233.88,701.64
+2023-06-27,Toys,Doll,4,380.89,1523.56
+2023-06-27,Electronics,Laptop,2,432.85,865.7
+2023-06-27,Toys,Board Game,4,279.36,1117.44
+2023-06-27,Toys,Remote Car,4,109.96,439.84
+2023-06-27,Books,Comics,3,486.2,1458.6
+2023-06-27,Books,Fiction,3,256.35,769.05
+2023-06-27,Books,Fiction,3,159.4,478.2
+2023-06-27,Clothing,Jeans,2,261.46,522.92
+2023-06-27,Toys,Remote Car,1,108.69,108.69
+2023-06-28,Toys,Board Game,4,194.17,776.68
+2023-06-28,Clothing,T-Shirt,3,494.18,1482.54
+2023-06-28,Clothing,T-Shirt,1,35.72,35.72
+2023-06-28,Clothing,Jeans,2,357.74,715.48
+2023-06-28,Toys,Remote Car,1,57.38,57.38
+2023-06-28,Toys,Board Game,3,321.6,964.8
+2023-06-28,Books,Fiction,1,33.06,33.06
+2023-06-28,Clothing,T-Shirt,2,239.18,478.36
+2023-06-28,Books,Biography,3,23.28,69.84
+2023-06-28,Toys,Doll,1,64.85,64.85
+2023-06-28,Electronics,Laptop,1,398.08,398.08
+2023-06-28,Toys,Doll,4,200.71,802.84
+2023-06-28,Electronics,Smartphone,3,174.55,523.65
+2023-06-29,Toys,Remote Car,4,481.41,1925.64
+2023-06-29,Toys,Doll,2,446.32,892.64
+2023-06-29,Books,Fiction,2,168.92,337.84
+2023-06-29,Electronics,Smartphone,3,208.43,625.29
+2023-06-29,Electronics,Smartphone,3,412.09,1236.27
+2023-06-29,Home & Kitchen,Mixer,4,85.72,342.88
+2023-06-29,Books,Biography,1,136.81,136.81
+2023-06-29,Toys,Board Game,2,158.58,317.16
+2023-06-29,Home & Kitchen,Mixer,1,180.12,180.12
+2023-06-30,Electronics,Smartphone,2,469.44,938.88
+2023-06-30,Clothing,Jeans,3,273.39,820.17
+2023-06-30,Electronics,Headphones,3,,815.19
+2023-06-30,Toys,Remote Car,1,114.44,114.44
+2023-06-30,Clothing,T-Shirt,2,273.73,547.46
+2023-06-30,Electronics,Headphones,4,57.52,230.08
+2023-06-30,Toys,Doll,1,428.13,428.13
+2023-06-30,Toys,Board Game,1,143.12,143.12
+2023-06-30,Books,Biography,2,495.24,990.48
+2023-06-30,Toys,Doll,1,427.4,427.4
+2023-06-30,Home & Kitchen,Cookware Set,3,198.41,595.23
+2023-06-30,Toys,Board Game,3,25.87,77.61
+2023-06-30,Toys,Board Game,3,292.48,877.44
+2023-07-01,Books,Fiction,1,119.95,119.95
+2023-07-01,Electronics,Laptop,3,80.34,241.02
+2023-07-01,Toys,Doll,2,423.95,847.9
+2023-07-01,Home & Kitchen,Microwave,3,78.33,234.99
+2023-07-01,Books,Biography,4,230.55,922.2
+2023-07-01,Clothing,Jacket,4,55.3,221.2
+2023-07-01,Home & Kitchen,Cookware Set,1,434.86,434.86
+2023-07-02,Home & Kitchen,Cookware Set,2,131.34,262.68
+2023-07-02,Toys,Doll,4,420.35,1681.4
+2023-07-02,Electronics,Laptop,3,94.78,284.34
+2023-07-02,Toys,Board Game,2,62.14,124.28
+2023-07-02,Electronics,Smartphone,3,164.66,493.98
+2023-07-02,Toys,Doll,1,358.47,358.47
+2023-07-02,Clothing,Jeans,4,487.7,1950.8
+2023-07-02,Clothing,Jeans,2,266.02,532.04
+2023-07-02,Toys,Doll,1,128.38,128.38
+2023-07-02,Electronics,Headphones,3,,922.77
+2023-07-02,Clothing,Jeans,2,302.11,604.22
+2023-07-02,Clothing,Jacket,2,203.75,407.5
+2023-07-03,Clothing,T-Shirt,2,161.74,323.48
+2023-07-03,Home & Kitchen,Microwave,2,477.12,954.24
+2023-07-03,Home & Kitchen,Mixer,4,246.94,987.76
+2023-07-03,Electronics,Headphones,1,276.95,276.95
+2023-07-03,Toys,Doll,3,360.53,1081.59
+2023-07-03,Toys,Doll,3,,634.38
+2023-07-03,Clothing,T-Shirt,3,259.48,778.44
+2023-07-03,Books,Biography,4,437.08,1748.32
+2023-07-03,Home & Kitchen,Cookware Set,4,128.41,513.64
+2023-07-03,Home & Kitchen,Cookware Set,4,257.9,1031.6
+2023-07-04,Books,Biography,2,16.17,32.34
+2023-07-04,Electronics,Smartphone,3,321.46,964.38
+2023-07-04,Clothing,T-Shirt,1,210.5,210.5
+2023-07-04,Toys,Remote Car,3,385.46,1156.38
+2023-07-04,Home & Kitchen,Cookware Set,3,154.02,462.06
+2023-07-04,Clothing,T-Shirt,4,427.38,1709.52
+2023-07-04,Books,Fiction,1,,334.54
+2023-07-04,Toys,Board Game,4,234.4,937.6
+2023-07-04,Electronics,Laptop,4,288.96,1155.84
+2023-07-04,Home & Kitchen,Cookware Set,4,173.55,694.2
+2023-07-04,Home & Kitchen,Microwave,3,,286.02
+2023-07-04,Clothing,Jeans,4,264.19,1056.76
+2023-07-05,Home & Kitchen,Mixer,3,155.26,465.78
+2023-07-05,Electronics,Headphones,4,329.71,1318.84
+2023-07-05,Clothing,Jeans,4,237.35,949.4
+2023-07-05,Electronics,Smartphone,3,90.14,270.42
+2023-07-05,Home & Kitchen,Microwave,2,157.88,315.76
+2023-07-05,Toys,Board Game,3,325.51,976.53
+2023-07-05,Books,Fiction,1,326.74,326.74
+2023-07-05,Clothing,Jacket,1,26.84,26.84
+2023-07-05,Books,Fiction,2,254.6,509.2
+2023-07-05,Clothing,Jacket,2,221.69,443.38
+2023-07-05,Toys,Doll,3,90.04,270.12
+2023-07-05,Home & Kitchen,Microwave,4,266.86,1067.44
+2023-07-06,Home & Kitchen,Mixer,3,223.48,670.44
+2023-07-06,Books,Fiction,3,164.71,494.13
+2023-07-06,Books,Comics,2,136.16,272.32
+2023-07-06,Clothing,Jacket,1,75.43,75.43
+2023-07-06,Books,Comics,4,309.08,1236.32
+2023-07-06,Clothing,Jacket,3,370.6,1111.8
+2023-07-06,Books,Biography,1,93.59,93.59
+2023-07-06,Toys,Doll,3,396.66,1189.98
+2023-07-06,Books,Comics,1,499.12,499.12
+2023-07-06,Home & Kitchen,Cookware Set,1,419.83,419.83
+2023-07-06,Clothing,Jacket,4,412.7,1650.8
+2023-07-06,Clothing,Jacket,1,261.97,261.97
+2023-07-06,Home & Kitchen,Cookware Set,4,491.42,1965.68
+2023-07-07,Home & Kitchen,Microwave,4,29.57,118.28
+2023-07-07,Home & Kitchen,Microwave,2,41.48,82.96
+2023-07-07,Books,Biography,1,430.58,430.58
+2023-07-07,Clothing,Jeans,1,473.97,473.97
+2023-07-07,Clothing,Jeans,1,42.37,42.37
+2023-07-07,Electronics,Headphones,2,334.29,668.58
+2023-07-07,Clothing,T-Shirt,1,334.49,334.49
+2023-07-07,Toys,Doll,4,178.1,712.4
+2023-07-07,Home & Kitchen,Mixer,4,302.86,1211.44
+2023-07-07,Toys,Remote Car,3,486.67,1460.01
+2023-07-07,Home & Kitchen,Mixer,2,338.67,677.34
+2023-07-07,Clothing,Jeans,2,216.44,432.88
+2023-07-07,Electronics,Headphones,4,129.16,516.64
+2023-07-08,Books,Comics,2,412.05,824.1
+2023-07-08,Toys,Doll,2,224.64,449.28
+2023-07-08,Electronics,Smartphone,4,295.44,1181.76
+2023-07-08,Clothing,Jeans,1,366.45,366.45
+2023-07-08,Toys,Board Game,2,206.56,413.12
+2023-07-08,Electronics,Smartphone,4,267.47,1069.88
+2023-07-08,Books,Fiction,1,181.31,181.31
+2023-07-08,Home & Kitchen,Mixer,2,225.96,451.92
+2023-07-08,Electronics,Headphones,4,294.57,1178.28
+2023-07-09,Books,Fiction,2,,221.76
+2023-07-09,Toys,Board Game,3,349.99,1049.97
+2023-07-09,Clothing,T-Shirt,1,430.71,430.71
+2023-07-09,Electronics,Headphones,2,261.29,522.58
+2023-07-09,Electronics,Laptop,1,408.3,408.3
+2023-07-09,Books,Biography,2,390.68,781.36
+2023-07-09,Clothing,Jeans,2,418.88,837.76
+2023-07-09,Toys,Doll,1,253.64,253.64
+2023-07-09,Toys,Board Game,1,163.94,163.94
+2023-07-09,Electronics,Smartphone,4,477.43,1909.72
+2023-07-09,Electronics,Headphones,3,358.99,1076.97
+2023-07-10,Toys,Board Game,2,246.95,493.9
+2023-07-10,Clothing,Jacket,4,255.3,1021.2
+2023-07-10,Home & Kitchen,Mixer,3,124.11,372.33
+2023-07-10,Electronics,Laptop,3,418.02,1254.06
+2023-07-10,Clothing,Jacket,4,229.51,918.04
+2023-07-10,Home & Kitchen,Mixer,2,11.14,22.28
+2023-07-10,Clothing,Jacket,1,183.73,183.73
+2023-07-10,Home & Kitchen,Cookware Set,3,136.89,410.67
+2023-07-10,Electronics,Laptop,1,60.7,60.7
+2023-07-10,Clothing,T-Shirt,3,92.69,278.07
+2023-07-10,Toys,Doll,1,473.4,473.4
+2023-07-10,Toys,Board Game,1,239.84,239.84
+2023-07-11,Toys,Board Game,3,61.28,183.84
+2023-07-11,Clothing,Jacket,1,62.54,62.54
+2023-07-11,Home & Kitchen,Microwave,4,325.28,1301.12
+2023-07-11,Toys,Board Game,1,277.04,277.04
+2023-07-11,Toys,Board Game,2,183.49,366.98
+2023-07-11,Electronics,Laptop,2,122.4,244.8
+2023-07-11,Toys,Remote Car,3,140.39,421.17
+2023-07-12,Clothing,T-Shirt,1,446.58,446.58
+2023-07-12,Home & Kitchen,Mixer,3,495.9,1487.7
+2023-07-12,Books,Biography,4,13.35,53.4
+2023-07-12,Home & Kitchen,Mixer,3,120.88,362.64
+2023-07-12,Clothing,Jacket,3,401.29,1203.87
+2023-07-12,Home & Kitchen,Mixer,3,429.98,1289.94
+2023-07-12,Clothing,T-Shirt,3,116.7,350.1
+2023-07-12,Toys,Remote Car,1,383.44,383.44
+2023-07-12,Clothing,Jeans,3,95.64,286.92
+2023-07-12,Books,Biography,1,315.82,315.82
+2023-07-13,Toys,Doll,1,143.0,143.0
+2023-07-13,Books,Fiction,2,363.32,726.64
+2023-07-13,Clothing,T-Shirt,3,193.91,581.73
+2023-07-13,Clothing,Jeans,1,56.82,56.82
+2023-07-13,Home & Kitchen,Microwave,3,208.55,625.65
+2023-07-13,Clothing,Jeans,1,294.0,294.0
+2023-07-13,Clothing,Jacket,4,411.64,1646.56
+2023-07-13,Electronics,Smartphone,2,47.63,95.26
+2023-07-14,Electronics,Smartphone,4,256.41,1025.64
+2023-07-14,Toys,Board Game,2,494.36,988.72
+2023-07-14,Books,Fiction,2,90.23,180.46
+2023-07-14,Home & Kitchen,Microwave,2,143.14,286.28
+2023-07-14,Home & Kitchen,Microwave,1,137.72,137.72
+2023-07-14,Electronics,Laptop,2,490.88,981.76
+2023-07-14,Toys,Board Game,3,91.6,274.8
+2023-07-14,Toys,Remote Car,3,36.63,109.89
+2023-07-14,Clothing,T-Shirt,2,37.75,75.5
+2023-07-14,Toys,Remote Car,2,129.42,258.84
+2023-07-14,Books,Biography,1,228.48,228.48
+2023-07-15,Home & Kitchen,Cookware Set,1,378.9,378.9
+2023-07-15,Home & Kitchen,Mixer,3,242.52,727.56
+2023-07-15,Books,Biography,3,201.24,603.72
+2023-07-15,Electronics,Laptop,4,211.36,845.44
+2023-07-15,Clothing,Jacket,3,456.01,1368.03
+2023-07-15,Clothing,T-Shirt,4,55.84,223.36
+2023-07-15,Toys,Doll,1,125.87,125.87
+2023-07-15,Clothing,Jacket,3,,283.95
+2023-07-15,Clothing,T-Shirt,3,480.28,1440.84
+2023-07-15,Toys,Board Game,3,209.32,627.96
+2023-07-15,Home & Kitchen,Cookware Set,3,19.79,59.37
+2023-07-15,Clothing,Jacket,2,267.33,534.66
+2023-07-15,Clothing,Jeans,1,217.12,217.12
+2023-07-15,Electronics,Smartphone,3,440.21,1320.63
+2023-07-16,Clothing,T-Shirt,2,317.73,635.46
+2023-07-16,Books,Fiction,2,302.84,605.68
+2023-07-16,Books,Fiction,3,229.56,688.68
+2023-07-16,Home & Kitchen,Microwave,2,37.31,74.62
+2023-07-16,Clothing,T-Shirt,3,258.62,775.86
+2023-07-17,Electronics,Laptop,2,459.21,918.42
+2023-07-17,Clothing,Jeans,2,362.16,724.32
+2023-07-17,Home & Kitchen,Mixer,4,313.19,1252.76
+2023-07-17,Electronics,Headphones,2,130.45,260.9
+2023-07-17,Clothing,Jacket,4,319.46,1277.84
+2023-07-18,Home & Kitchen,Cookware Set,4,194.15,776.6
+2023-07-18,Clothing,T-Shirt,1,234.77,234.77
+2023-07-18,Clothing,T-Shirt,3,118.03,354.09
+2023-07-18,Toys,Doll,1,464.03,464.03
+2023-07-18,Home & Kitchen,Microwave,2,71.36,142.72
+2023-07-18,Home & Kitchen,Cookware Set,2,492.44,984.88
+2023-07-18,Electronics,Headphones,3,220.62,661.86
+2023-07-18,Electronics,Smartphone,3,130.27,390.81
+2023-07-18,Toys,Board Game,1,339.98,339.98
+2023-07-18,Books,Biography,4,48.53,194.12
+2023-07-19,Books,Fiction,4,494.13,1976.52
+2023-07-19,Home & Kitchen,Microwave,4,498.04,1992.16
+2023-07-19,Clothing,Jeans,1,127.11,127.11
+2023-07-19,Toys,Remote Car,2,463.28,926.56
+2023-07-19,Clothing,T-Shirt,4,354.18,1416.72
+2023-07-19,Home & Kitchen,Microwave,4,13.47,53.88
+2023-07-20,Home & Kitchen,Microwave,1,88.24,88.24
+2023-07-20,Electronics,Smartphone,1,315.05,315.05
+2023-07-20,Clothing,Jeans,1,315.63,315.63
+2023-07-20,Books,Fiction,1,206.17,206.17
+2023-07-20,Clothing,Jacket,2,264.91,529.82
+2023-07-20,Toys,Board Game,1,,454.8
+2023-07-20,Clothing,Jacket,4,408.72,1634.88
+2023-07-20,Clothing,Jeans,2,484.42,968.84
+2023-07-20,Books,Fiction,1,476.61,476.61
+2023-07-20,Home & Kitchen,Cookware Set,1,194.73,194.73
+2023-07-21,Books,Comics,4,272.87,1091.48
+2023-07-21,Home & Kitchen,Cookware Set,1,16.87,16.87
+2023-07-21,Electronics,Headphones,3,,102.78
+2023-07-21,Books,Fiction,2,16.51,33.02
+2023-07-21,Books,Fiction,1,359.72,359.72
+2023-07-22,Toys,Doll,1,256.58,256.58
+2023-07-22,Clothing,Jeans,1,83.2,83.2
+2023-07-22,Electronics,Smartphone,3,431.37,1294.11
+2023-07-22,Home & Kitchen,Mixer,1,481.55,481.55
+2023-07-22,Toys,Doll,1,296.62,296.62
+2023-07-22,Books,Fiction,3,68.53,205.59
+2023-07-22,Toys,Board Game,4,255.92,1023.68
+2023-07-22,Electronics,Laptop,4,277.66,1110.64
+2023-07-22,Clothing,T-Shirt,1,10.31,10.31
+2023-07-22,Electronics,Laptop,4,54.45,217.8
+2023-07-23,Toys,Board Game,4,362.8,1451.2
+2023-07-23,Clothing,T-Shirt,4,184.47,737.88
+2023-07-23,Clothing,Jacket,4,57.35,229.4
+2023-07-23,Books,Biography,4,359.69,1438.76
+2023-07-23,Clothing,T-Shirt,2,434.63,869.26
+2023-07-23,Clothing,T-Shirt,4,151.68,606.72
+2023-07-23,Home & Kitchen,Microwave,2,232.1,464.2
+2023-07-23,Books,Biography,3,258.01,774.03
+2023-07-23,Electronics,Smartphone,1,242.53,242.53
+2023-07-23,Home & Kitchen,Mixer,2,272.49,544.98
+2023-07-23,Toys,Doll,3,400.46,1201.38
+2023-07-23,Books,Biography,3,175.92,527.76
+2023-07-24,Clothing,T-Shirt,1,467.92,467.92
+2023-07-24,Electronics,Headphones,3,455.09,1365.27
+2023-07-24,Books,Biography,4,283.15,1132.6
+2023-07-24,Clothing,Jeans,4,475.15,1900.6
+2023-07-24,Home & Kitchen,Microwave,1,235.73,235.73
+2023-07-25,Home & Kitchen,Microwave,4,280.34,1121.36
+2023-07-25,Toys,Remote Car,1,339.46,339.46
+2023-07-25,Home & Kitchen,Mixer,4,129.3,517.2
+2023-07-25,Home & Kitchen,Mixer,2,47.54,95.08
+2023-07-25,Books,Fiction,2,215.28,430.56
+2023-07-26,Electronics,Headphones,1,473.2,473.2
+2023-07-26,Books,Biography,3,35.62,106.86
+2023-07-26,Clothing,T-Shirt,2,344.83,689.66
+2023-07-26,Clothing,Jacket,4,102.6,410.4
+2023-07-26,Books,Biography,4,97.47,389.88
+2023-07-26,Toys,Doll,4,70.61,282.44
+2023-07-26,Home & Kitchen,Mixer,3,462.41,1387.23
+2023-07-26,Clothing,Jeans,2,458.2,916.4
+2023-07-26,Electronics,Headphones,4,28.64,114.56
+2023-07-26,Clothing,Jeans,3,109.02,327.06
+2023-07-27,Home & Kitchen,Cookware Set,3,403.11,1209.33
+2023-07-27,Toys,Doll,3,66.43,199.29
+2023-07-27,Home & Kitchen,Mixer,1,380.59,380.59
+2023-07-27,Clothing,Jacket,2,,327.2
+2023-07-27,Toys,Remote Car,4,211.14,844.56
+2023-07-27,Clothing,Jeans,3,426.24,1278.72
+2023-07-27,Home & Kitchen,Cookware Set,4,187.22,748.88
+2023-07-28,Books,Comics,1,380.7,380.7
+2023-07-28,Clothing,Jeans,2,207.78,415.56
+2023-07-28,Electronics,Headphones,3,294.09,882.27
+2023-07-28,Toys,Remote Car,1,365.15,365.15
+2023-07-28,Toys,Remote Car,3,109.41,328.23
+2023-07-28,Clothing,Jacket,3,76.67,230.01
+2023-07-28,Books,Biography,3,192.43,577.29
+2023-07-28,Toys,Doll,4,209.63,838.52
+2023-07-28,Home & Kitchen,Cookware Set,1,328.28,328.28
+2023-07-28,Clothing,T-Shirt,4,316.66,1266.64
+2023-07-28,Electronics,Headphones,3,260.85,782.55
+2023-07-28,Home & Kitchen,Mixer,2,166.22,332.44
+2023-07-29,Books,Fiction,4,67.0,268.0
+2023-07-29,Toys,Doll,4,128.12,512.48
+2023-07-29,Home & Kitchen,Microwave,3,81.36,244.08
+2023-07-29,Books,Biography,2,499.93,999.86
+2023-07-29,Home & Kitchen,Microwave,2,79.21,158.42
+2023-07-29,Clothing,T-Shirt,3,45.54,136.62
+2023-07-29,Toys,Remote Car,3,448.06,1344.18
+2023-07-29,Home & Kitchen,Microwave,2,54.31,108.62
+2023-07-29,Books,Biography,4,247.01,988.04
+2023-07-29,Clothing,Jeans,2,70.43,140.86
+2023-07-29,Toys,Remote Car,4,388.69,1554.76
+2023-07-30,Clothing,Jeans,4,189.61,758.44
+2023-07-30,Clothing,T-Shirt,1,401.24,401.24
+2023-07-30,Toys,Remote Car,2,195.85,391.7
+2023-07-30,Books,Biography,2,493.11,986.22
+2023-07-30,Clothing,T-Shirt,3,251.71,755.13
+2023-07-31,Home & Kitchen,Cookware Set,3,195.56,586.68
+2023-07-31,Toys,Remote Car,4,183.54,734.16
+2023-07-31,Home & Kitchen,Cookware Set,3,336.26,1008.78
+2023-07-31,Clothing,Jeans,3,372.85,1118.55
+2023-07-31,Home & Kitchen,Microwave,1,91.73,91.73
+2023-07-31,Clothing,T-Shirt,4,54.8,219.2
+2023-07-31,Electronics,Headphones,3,95.25,285.75
+2023-07-31,Home & Kitchen,Microwave,3,200.43,601.29
+2023-07-31,Home & Kitchen,Cookware Set,4,335.11,1340.44
+2023-08-01,Clothing,Jacket,2,264.65,529.3
+2023-08-01,Books,Fiction,2,422.84,845.68
+2023-08-01,Clothing,Jeans,2,57.71,115.42
+2023-08-01,Toys,Board Game,3,181.5,544.5
+2023-08-01,Electronics,Headphones,2,231.85,463.7
+2023-08-02,Clothing,Jacket,4,135.28,541.12
+2023-08-02,Toys,Board Game,3,426.24,1278.72
+2023-08-02,Books,Comics,4,383.47,1533.88
+2023-08-02,Home & Kitchen,Mixer,2,288.72,577.44
+2023-08-02,Books,Fiction,2,272.38,544.76
+2023-08-02,Clothing,Jeans,1,79.96,79.96
+2023-08-02,Home & Kitchen,Microwave,3,361.76,1085.28
+2023-08-02,Toys,Doll,1,153.96,153.96
+2023-08-02,Clothing,Jeans,2,393.63,787.26
+2023-08-02,Home & Kitchen,Cookware Set,1,90.17,90.17
+2023-08-02,Books,Comics,4,190.0,760.0
+2023-08-02,Toys,Remote Car,1,445.43,445.43
+2023-08-02,Toys,Doll,4,165.06,660.24
+2023-08-02,Electronics,Smartphone,1,285.35,285.35
+2023-08-03,Books,Fiction,2,345.65,691.3
+2023-08-03,Home & Kitchen,Mixer,1,,277.42
+2023-08-03,Electronics,Headphones,2,226.74,453.48
+2023-08-03,Electronics,Smartphone,1,210.26,210.26
+2023-08-03,Toys,Doll,1,126.37,126.37
+2023-08-03,Electronics,Headphones,2,273.67,547.34
+2023-08-03,Books,Biography,2,374.93,749.86
+2023-08-03,Electronics,Laptop,4,451.15,1804.6
+2023-08-03,Toys,Remote Car,1,339.29,339.29
+2023-08-03,Home & Kitchen,Cookware Set,4,414.37,1657.48
+2023-08-03,Books,Comics,4,302.17,1208.68
+2023-08-03,Books,Comics,3,263.92,791.76
+2023-08-03,Home & Kitchen,Cookware Set,3,461.18,1383.54
+2023-08-03,Clothing,T-Shirt,1,460.62,460.62
+2023-08-04,Toys,Board Game,4,453.95,1815.8
+2023-08-04,Clothing,T-Shirt,3,233.18,699.54
+2023-08-04,Toys,Remote Car,3,90.49,271.47
+2023-08-04,Electronics,Laptop,4,311.57,1246.28
+2023-08-04,Home & Kitchen,Mixer,1,361.87,361.87
+2023-08-04,Books,Comics,1,484.25,484.25
+2023-08-04,Home & Kitchen,Microwave,1,95.1,95.1
+2023-08-04,Home & Kitchen,Mixer,3,130.86,392.58
+2023-08-04,Home & Kitchen,Microwave,1,140.39,140.39
+2023-08-04,Clothing,Jeans,2,327.88,655.76
+2023-08-04,Toys,Remote Car,1,,349.77
+2023-08-05,Toys,Doll,2,426.03,852.06
+2023-08-05,Toys,Doll,1,345.26,345.26
+2023-08-05,Home & Kitchen,Microwave,1,295.7,295.7
+2023-08-05,Electronics,Headphones,4,171.25,685.0
+2023-08-05,Books,Fiction,1,376.57,376.57
+2023-08-05,Toys,Remote Car,1,71.55,71.55
+2023-08-05,Clothing,T-Shirt,3,383.35,1150.05
+2023-08-05,Clothing,Jacket,4,38.54,154.16
+2023-08-05,Electronics,Laptop,1,474.31,474.31
+2023-08-05,Electronics,Laptop,2,98.63,197.26
+2023-08-05,Home & Kitchen,Microwave,4,,1002.0
+2023-08-05,Books,Biography,3,336.27,1008.81
+2023-08-05,Electronics,Laptop,3,438.34,1315.02
+2023-08-05,Home & Kitchen,Cookware Set,2,301.69,603.38
+2023-08-06,Clothing,Jacket,2,247.26,494.52
+2023-08-06,Home & Kitchen,Microwave,4,422.14,1688.56
+2023-08-06,Clothing,T-Shirt,2,166.95,333.9
+2023-08-06,Electronics,Smartphone,3,122.89,368.67
+2023-08-06,Toys,Doll,1,139.96,139.96
+2023-08-06,Toys,Doll,1,474.62,474.62
+2023-08-07,Toys,Doll,1,273.68,273.68
+2023-08-07,Home & Kitchen,Microwave,3,473.83,1421.49
+2023-08-07,Clothing,Jacket,2,400.26,800.52
+2023-08-07,Electronics,Laptop,3,,1389.24
+2023-08-07,Books,Fiction,4,274.64,1098.56
+2023-08-07,Toys,Board Game,4,300.32,1201.28
+2023-08-07,Clothing,T-Shirt,3,208.85,626.55
+2023-08-08,Clothing,Jacket,3,90.2,270.6
+2023-08-08,Electronics,Smartphone,2,355.93,711.86
+2023-08-08,Electronics,Smartphone,4,227.41,909.64
+2023-08-08,Toys,Remote Car,1,81.16,81.16
+2023-08-08,Clothing,T-Shirt,1,108.58,108.58
+2023-08-08,Electronics,Headphones,2,422.14,844.28
+2023-08-08,Electronics,Headphones,3,150.52,451.56
+2023-08-08,Toys,Board Game,1,428.71,428.71
+2023-08-08,Clothing,T-Shirt,3,111.26,333.78
+2023-08-08,Electronics,Laptop,3,54.53,163.59
+2023-08-09,Electronics,Headphones,2,120.58,241.16
+2023-08-09,Home & Kitchen,Mixer,2,480.29,960.58
+2023-08-09,Books,Fiction,1,367.59,367.59
+2023-08-09,Toys,Remote Car,3,189.03,567.09
+2023-08-09,Books,Fiction,2,,247.96
+2023-08-09,Home & Kitchen,Microwave,1,118.01,118.01
+2023-08-10,Home & Kitchen,Microwave,3,445.25,1335.75
+2023-08-10,Clothing,Jacket,4,102.36,409.44
+2023-08-10,Electronics,Smartphone,1,174.83,174.83
+2023-08-10,Electronics,Smartphone,1,283.98,283.98
+2023-08-10,Home & Kitchen,Microwave,2,374.37,748.74
+2023-08-10,Home & Kitchen,Mixer,1,265.7,265.7
+2023-08-10,Toys,Board Game,4,136.77,547.08
+2023-08-10,Electronics,Laptop,3,189.48,568.44
+2023-08-10,Books,Fiction,2,127.67,255.34
+2023-08-10,Books,Fiction,2,292.7,585.4
+2023-08-10,Books,Biography,4,67.18,268.72
+2023-08-10,Books,Comics,1,376.28,376.28
+2023-08-10,Toys,Board Game,2,93.02,186.04
+2023-08-11,Books,Biography,4,414.55,1658.2
+2023-08-11,Toys,Board Game,4,463.54,1854.16
+2023-08-11,Home & Kitchen,Mixer,3,471.53,1414.59
+2023-08-11,Toys,Doll,2,224.45,448.9
+2023-08-11,Electronics,Headphones,1,34.08,34.08
+2023-08-12,Books,Comics,1,,232.44
+2023-08-12,Home & Kitchen,Cookware Set,3,428.66,1285.98
+2023-08-12,Home & Kitchen,Cookware Set,2,24.27,48.54
+2023-08-12,Toys,Board Game,3,294.98,884.94
+2023-08-12,Electronics,Smartphone,1,472.79,472.79
+2023-08-12,Home & Kitchen,Mixer,1,242.61,242.61
+2023-08-12,Clothing,Jacket,4,273.06,1092.24
+2023-08-12,Toys,Remote Car,3,436.08,1308.24
+2023-08-12,Clothing,T-Shirt,1,37.98,37.98
+2023-08-12,Electronics,Laptop,2,366.96,733.92
+2023-08-12,Electronics,Smartphone,3,255.83,767.49
+2023-08-12,Home & Kitchen,Microwave,1,329.42,329.42
+2023-08-12,Home & Kitchen,Microwave,1,411.0,411.0
+2023-08-12,Toys,Doll,4,44.84,179.36
+2023-08-13,Clothing,Jacket,3,211.89,635.67
+2023-08-13,Toys,Remote Car,1,465.6,465.6
+2023-08-13,Electronics,Laptop,4,175.62,702.48
+2023-08-13,Books,Fiction,2,230.4,460.8
+2023-08-13,Home & Kitchen,Cookware Set,3,351.75,1055.25
+2023-08-13,Home & Kitchen,Cookware Set,1,450.31,450.31
+2023-08-13,Clothing,Jeans,3,447.2,1341.6
+2023-08-13,Clothing,Jacket,3,433.85,1301.55
+2023-08-13,Toys,Board Game,4,220.17,880.68
+2023-08-13,Toys,Doll,3,133.08,399.24
+2023-08-13,Clothing,T-Shirt,3,,852.78
+2023-08-13,Electronics,Headphones,2,200.15,400.3
+2023-08-13,Books,Comics,1,380.83,380.83
+2023-08-13,Toys,Doll,4,84.47,337.88
+2023-08-14,Toys,Board Game,3,40.99,122.97
+2023-08-14,Books,Fiction,4,438.49,1753.96
+2023-08-14,Clothing,Jeans,2,439.12,878.24
+2023-08-14,Home & Kitchen,Cookware Set,3,161.59,484.77
+2023-08-14,Books,Fiction,2,206.43,412.86
+2023-08-15,Toys,Board Game,3,111.82,335.46
+2023-08-15,Clothing,Jacket,2,116.71,233.42
+2023-08-15,Clothing,Jeans,4,285.32,1141.28
+2023-08-15,Clothing,Jacket,1,184.21,184.21
+2023-08-15,Clothing,Jeans,2,159.22,318.44
+2023-08-15,Toys,Remote Car,1,209.14,209.14
+2023-08-15,Electronics,Smartphone,1,140.91,140.91
+2023-08-15,Home & Kitchen,Mixer,4,254.12,1016.48
+2023-08-15,Clothing,Jeans,3,16.16,48.48
+2023-08-15,Home & Kitchen,Microwave,3,123.06,369.18
+2023-08-15,Books,Fiction,3,47.01,141.03
+2023-08-15,Home & Kitchen,Microwave,1,27.23,27.23
+2023-08-15,Clothing,Jeans,2,18.47,36.94
+2023-08-15,Books,Fiction,2,405.56,811.12
+2023-08-16,Toys,Doll,3,467.39,1402.17
+2023-08-16,Toys,Board Game,4,357.31,1429.24
+2023-08-16,Books,Biography,1,126.68,126.68
+2023-08-16,Clothing,T-Shirt,2,65.49,130.98
+2023-08-16,Toys,Remote Car,1,428.2,428.2
+2023-08-16,Clothing,T-Shirt,2,342.79,685.58
+2023-08-16,Toys,Remote Car,3,499.88,1499.64
+2023-08-16,Books,Fiction,2,283.36,566.72
+2023-08-17,Toys,Board Game,3,420.06,1260.18
+2023-08-17,Clothing,Jacket,1,150.55,150.55
+2023-08-17,Electronics,Smartphone,3,304.89,914.67
+2023-08-17,Books,Comics,2,398.49,796.98
+2023-08-17,Books,Biography,2,264.86,529.72
+2023-08-17,Books,Comics,4,,683.36
+2023-08-17,Books,Biography,4,90.72,362.88
+2023-08-17,Home & Kitchen,Microwave,2,17.36,34.72
+2023-08-17,Clothing,Jeans,2,,155.52
+2023-08-17,Electronics,Headphones,1,256.54,256.54
+2023-08-17,Toys,Board Game,4,438.63,1754.52
+2023-08-17,Electronics,Laptop,4,432.32,1729.28
+2023-08-17,Electronics,Laptop,3,414.69,1244.07
+2023-08-18,Toys,Board Game,1,165.29,165.29
+2023-08-18,Electronics,Headphones,3,163.29,489.87
+2023-08-18,Home & Kitchen,Mixer,1,58.36,58.36
+2023-08-18,Home & Kitchen,Microwave,4,237.53,950.12
+2023-08-18,Home & Kitchen,Cookware Set,1,372.34,372.34
+2023-08-18,Clothing,T-Shirt,1,165.07,165.07
+2023-08-18,Books,Biography,2,36.71,73.42
+2023-08-18,Home & Kitchen,Mixer,2,74.13,148.26
+2023-08-18,Toys,Doll,2,431.16,862.32
+2023-08-18,Electronics,Laptop,3,402.07,1206.21
+2023-08-19,Home & Kitchen,Microwave,2,376.37,752.74
+2023-08-19,Clothing,Jeans,2,106.65,213.3
+2023-08-19,Clothing,T-Shirt,1,152.06,152.06
+2023-08-19,Clothing,T-Shirt,3,260.65,781.95
+2023-08-19,Clothing,Jeans,1,86.7,86.7
+2023-08-19,Home & Kitchen,Cookware Set,1,151.53,151.53
+2023-08-20,Books,Biography,1,362.41,362.41
+2023-08-20,Clothing,Jeans,2,455.63,911.26
+2023-08-20,Home & Kitchen,Cookware Set,2,161.83,323.66
+2023-08-20,Books,Fiction,2,45.15,90.3
+2023-08-20,Clothing,Jacket,4,199.19,796.76
+2023-08-20,Home & Kitchen,Mixer,3,19.51,58.53
+2023-08-20,Books,Comics,4,144.84,579.36
+2023-08-20,Home & Kitchen,Cookware Set,2,120.81,241.62
+2023-08-21,Home & Kitchen,Cookware Set,2,124.62,249.24
+2023-08-21,Toys,Remote Car,3,202.49,607.47
+2023-08-21,Clothing,Jeans,4,84.62,338.48
+2023-08-21,Books,Comics,1,50.63,50.63
+2023-08-21,Books,Biography,2,429.4,858.8
+2023-08-21,Electronics,Laptop,2,103.64,207.28
+2023-08-21,Clothing,T-Shirt,1,14.79,14.79
+2023-08-21,Clothing,Jacket,4,238.09,952.36
+2023-08-21,Clothing,Jacket,3,468.96,1406.88
+2023-08-21,Toys,Board Game,1,83.21,83.21
+2023-08-21,Clothing,Jacket,1,260.23,260.23
+2023-08-21,Books,Biography,4,197.95,791.8
+2023-08-21,Clothing,T-Shirt,2,64.7,129.4
+2023-08-22,Clothing,Jeans,4,269.4,1077.6
+2023-08-22,Electronics,Headphones,1,107.79,107.79
+2023-08-22,Toys,Remote Car,3,138.63,415.89
+2023-08-22,Electronics,Smartphone,2,427.23,854.46
+2023-08-22,Books,Fiction,4,108.28,433.12
+2023-08-22,Home & Kitchen,Mixer,3,,588.0
+2023-08-22,Toys,Remote Car,4,311.52,1246.08
+2023-08-22,Toys,Remote Car,1,426.75,426.75
+2023-08-22,Toys,Remote Car,1,,331.53
+2023-08-22,Toys,Board Game,1,363.77,363.77
+2023-08-22,Clothing,Jeans,2,55.82,111.64
+2023-08-22,Toys,Doll,3,36.19,108.57
+2023-08-23,Books,Fiction,2,288.97,577.94
+2023-08-23,Clothing,Jeans,2,161.92,323.84
+2023-08-23,Clothing,T-Shirt,1,273.46,273.46
+2023-08-23,Toys,Remote Car,4,152.28,609.12
+2023-08-23,Books,Biography,3,486.95,1460.85
+2023-08-24,Electronics,Headphones,4,55.62,222.48
+2023-08-24,Books,Biography,4,212.69,850.76
+2023-08-24,Electronics,Headphones,2,478.43,956.86
+2023-08-24,Home & Kitchen,Microwave,1,484.79,484.79
+2023-08-24,Toys,Remote Car,2,156.09,312.18
+2023-08-24,Electronics,Smartphone,2,213.02,426.04
+2023-08-25,Clothing,Jeans,4,39.73,158.92
+2023-08-25,Electronics,Laptop,4,223.66,894.64
+2023-08-25,Electronics,Laptop,4,29.02,116.08
+2023-08-25,Clothing,Jeans,4,363.35,1453.4
+2023-08-25,Electronics,Laptop,1,422.84,422.84
+2023-08-25,Books,Comics,1,240.65,240.65
+2023-08-25,Books,Fiction,3,180.89,542.67
+2023-08-25,Home & Kitchen,Microwave,2,464.97,929.94
+2023-08-26,Electronics,Laptop,3,355.82,1067.46
+2023-08-26,Electronics,Headphones,1,101.52,101.52
+2023-08-26,Electronics,Smartphone,3,348.11,1044.33
+2023-08-26,Books,Comics,3,419.59,1258.77
+2023-08-26,Toys,Doll,4,131.88,527.52
+2023-08-26,Electronics,Laptop,1,147.04,147.04
+2023-08-27,Home & Kitchen,Mixer,4,128.26,513.04
+2023-08-27,Toys,Remote Car,3,,1344.45
+2023-08-27,Electronics,Laptop,4,410.23,1640.92
+2023-08-27,Home & Kitchen,Mixer,1,305.86,305.86
+2023-08-27,Books,Comics,3,369.02,1107.06
+2023-08-27,Toys,Board Game,4,84.59,338.36
+2023-08-28,Clothing,Jeans,1,232.57,232.57
+2023-08-28,Home & Kitchen,Microwave,2,498.44,996.88
+2023-08-28,Books,Comics,4,140.35,561.4
+2023-08-28,Books,Fiction,3,326.56,979.68
+2023-08-28,Clothing,Jeans,3,197.7,593.1
+2023-08-28,Toys,Board Game,2,110.54,221.08
+2023-08-28,Electronics,Headphones,4,416.42,1665.68
+2023-08-28,Electronics,Headphones,3,247.06,741.18
+2023-08-28,Clothing,T-Shirt,2,131.01,262.02
+2023-08-28,Electronics,Laptop,2,235.46,470.92
+2023-08-28,Clothing,Jacket,4,223.93,895.72
+2023-08-28,Books,Comics,3,175.53,526.59
+2023-08-28,Clothing,Jeans,3,463.0,1389.0
+2023-08-29,Electronics,Headphones,4,486.75,1947.0
+2023-08-29,Books,Biography,1,99.49,99.49
+2023-08-29,Electronics,Smartphone,2,371.76,743.52
+2023-08-29,Toys,Remote Car,1,247.25,247.25
+2023-08-29,Toys,Remote Car,4,299.16,1196.64
+2023-08-29,Home & Kitchen,Cookware Set,2,161.83,323.66
+2023-08-29,Electronics,Headphones,4,246.17,984.68
+2023-08-29,Toys,Board Game,1,31.15,31.15
+2023-08-29,Clothing,Jacket,1,419.43,419.43
+2023-08-29,Clothing,Jacket,2,144.96,289.92
+2023-08-29,Toys,Board Game,2,479.92,959.84
+2023-08-30,Toys,Remote Car,3,248.16,744.48
+2023-08-30,Electronics,Laptop,2,441.93,883.86
+2023-08-30,Toys,Doll,1,459.96,459.96
+2023-08-30,Clothing,Jacket,3,87.64,262.92
+2023-08-30,Books,Comics,1,15.29,15.29
+2023-08-30,Books,Comics,3,388.71,1166.13
+2023-08-30,Toys,Doll,4,296.12,1184.48
+2023-08-30,Clothing,Jeans,1,44.53,44.53
+2023-08-30,Electronics,Smartphone,2,,188.9
+2023-08-30,Clothing,Jacket,2,235.83,471.66
+2023-08-30,Clothing,Jacket,1,106.75,106.75
+2023-08-30,Electronics,Smartphone,2,473.43,946.86
+2023-08-30,Electronics,Smartphone,4,290.1,1160.4
+2023-08-30,Clothing,T-Shirt,3,316.79,950.37
+2023-08-31,Books,Fiction,1,160.04,160.04
+2023-08-31,Home & Kitchen,Mixer,4,481.56,1926.24
+2023-08-31,Clothing,Jacket,2,259.18,518.36
+2023-08-31,Toys,Board Game,1,371.16,371.16
+2023-08-31,Clothing,Jeans,4,254.79,1019.16
+2023-08-31,Home & Kitchen,Mixer,4,35.46,141.84
+2023-08-31,Home & Kitchen,Microwave,2,138.58,277.16
+2023-08-31,Books,Fiction,3,444.55,1333.65
+2023-08-31,Home & Kitchen,Mixer,3,184.63,553.89
+2023-08-31,Clothing,T-Shirt,4,329.77,1319.08
+2023-09-01,Toys,Doll,1,124.48,124.48
+2023-09-01,Toys,Board Game,1,164.25,164.25
+2023-09-01,Toys,Doll,1,,461.89
+2023-09-01,Clothing,T-Shirt,1,255.95,255.95
+2023-09-01,Clothing,Jacket,3,248.34,745.02
+2023-09-01,Electronics,Smartphone,4,408.24,1632.96
+2023-09-02,Toys,Board Game,1,385.42,385.42
+2023-09-02,Clothing,Jacket,4,321.61,1286.44
+2023-09-02,Clothing,Jeans,2,458.39,916.78
+2023-09-02,Home & Kitchen,Microwave,1,133.86,133.86
+2023-09-02,Home & Kitchen,Cookware Set,4,399.38,1597.52
+2023-09-02,Clothing,T-Shirt,3,140.93,422.79
+2023-09-02,Electronics,Headphones,3,62.63,187.89
+2023-09-02,Electronics,Headphones,3,278.83,836.49
+2023-09-02,Books,Comics,4,158.12,632.48
+2023-09-02,Toys,Board Game,1,277.73,277.73
+2023-09-02,Electronics,Laptop,4,217.45,869.8
+2023-09-03,Books,Comics,4,,598.0
+2023-09-03,Home & Kitchen,Cookware Set,4,241.98,967.92
+2023-09-03,Home & Kitchen,Microwave,3,90.64,271.92
+2023-09-03,Electronics,Headphones,2,,823.04
+2023-09-03,Toys,Doll,4,149.41,597.64
+2023-09-04,Home & Kitchen,Cookware Set,3,272.33,816.99
+2023-09-04,Electronics,Smartphone,1,458.03,458.03
+2023-09-04,Clothing,Jeans,2,317.93,635.86
+2023-09-04,Home & Kitchen,Microwave,1,34.75,34.75
+2023-09-04,Clothing,T-Shirt,1,394.98,394.98
+2023-09-04,Home & Kitchen,Microwave,1,338.28,338.28
+2023-09-04,Books,Biography,4,374.98,1499.92
+2023-09-04,Books,Comics,3,199.26,597.78
+2023-09-04,Clothing,T-Shirt,2,482.32,964.64
+2023-09-04,Clothing,Jacket,2,220.79,441.58
+2023-09-05,Electronics,Laptop,1,56.33,56.33
+2023-09-05,Electronics,Smartphone,3,332.93,998.79
+2023-09-05,Electronics,Laptop,1,78.84,78.84
+2023-09-05,Electronics,Smartphone,3,414.17,1242.51
+2023-09-05,Electronics,Smartphone,4,148.92,595.68
+2023-09-05,Electronics,Smartphone,4,48.22,192.88
+2023-09-06,Electronics,Smartphone,1,88.75,88.75
+2023-09-06,Clothing,Jacket,1,330.06,330.06
+2023-09-06,Home & Kitchen,Mixer,2,323.3,646.6
+2023-09-06,Electronics,Laptop,4,193.03,772.12
+2023-09-06,Electronics,Laptop,3,359.81,1079.43
+2023-09-06,Clothing,T-Shirt,2,84.21,168.42
+2023-09-06,Clothing,Jacket,1,158.61,158.61
+2023-09-06,Toys,Doll,4,494.78,1979.12
+2023-09-06,Clothing,T-Shirt,4,474.97,1899.88
+2023-09-06,Toys,Board Game,2,,492.7
+2023-09-06,Books,Comics,2,408.57,817.14
+2023-09-06,Clothing,T-Shirt,2,125.8,251.6
+2023-09-06,Toys,Doll,3,115.47,346.41
+2023-09-07,Home & Kitchen,Mixer,3,264.06,792.18
+2023-09-07,Books,Biography,4,34.39,137.56
+2023-09-07,Home & Kitchen,Cookware Set,1,,271.47
+2023-09-07,Toys,Doll,2,181.4,362.8
+2023-09-07,Electronics,Smartphone,3,141.21,423.63
+2023-09-07,Electronics,Laptop,2,341.01,682.02
+2023-09-07,Home & Kitchen,Cookware Set,1,,326.42
+2023-09-07,Home & Kitchen,Mixer,2,47.24,94.48
+2023-09-07,Home & Kitchen,Microwave,1,473.43,473.43
+2023-09-07,Clothing,Jacket,4,142.12,568.48
+2023-09-07,Toys,Remote Car,1,105.33,105.33
+2023-09-07,Books,Fiction,1,293.77,293.77
+2023-09-07,Books,Comics,2,264.39,528.78
+2023-09-08,Home & Kitchen,Microwave,2,156.19,312.38
+2023-09-08,Electronics,Headphones,4,268.38,1073.52
+2023-09-08,Toys,Board Game,3,344.88,1034.64
+2023-09-08,Home & Kitchen,Mixer,2,95.65,191.3
+2023-09-08,Clothing,T-Shirt,3,294.09,882.27
+2023-09-08,Clothing,Jacket,3,56.42,169.26
+2023-09-08,Home & Kitchen,Mixer,2,217.67,435.34
+2023-09-08,Books,Biography,2,272.92,545.84
+2023-09-08,Toys,Board Game,3,408.18,1224.54
+2023-09-08,Electronics,Headphones,2,346.15,692.3
+2023-09-08,Electronics,Smartphone,2,316.73,633.46
+2023-09-08,Toys,Remote Car,2,208.21,416.42
+2023-09-09,Home & Kitchen,Cookware Set,4,252.89,1011.56
+2023-09-09,Electronics,Smartphone,3,217.85,653.55
+2023-09-09,Books,Fiction,1,159.37,159.37
+2023-09-09,Toys,Doll,3,159.33,477.99
+2023-09-09,Books,Fiction,4,66.93,267.72
+2023-09-09,Books,Biography,4,213.73,854.92
+2023-09-09,Home & Kitchen,Mixer,4,268.3,1073.2
+2023-09-09,Toys,Remote Car,2,335.23,670.46
+2023-09-09,Clothing,T-Shirt,3,99.87,299.61
+2023-09-10,Home & Kitchen,Mixer,3,265.02,795.06
+2023-09-10,Home & Kitchen,Mixer,1,147.0,147.0
+2023-09-10,Books,Fiction,2,389.91,779.82
+2023-09-10,Electronics,Laptop,2,325.93,651.86
+2023-09-10,Home & Kitchen,Cookware Set,1,382.7,382.7
+2023-09-10,Toys,Board Game,1,66.97,66.97
+2023-09-10,Books,Biography,1,234.74,234.74
+2023-09-10,Home & Kitchen,Mixer,1,499.46,499.46
+2023-09-10,Toys,Remote Car,1,480.75,480.75
+2023-09-10,Home & Kitchen,Microwave,1,424.32,424.32
+2023-09-10,Electronics,Smartphone,3,190.46,571.38
+2023-09-10,Electronics,Smartphone,2,419.94,839.88
+2023-09-10,Home & Kitchen,Microwave,3,173.73,521.19
+2023-09-10,Books,Fiction,2,161.15,322.3
+2023-09-11,Electronics,Smartphone,4,337.03,1348.12
+2023-09-11,Clothing,T-Shirt,3,13.92,41.76
+2023-09-11,Home & Kitchen,Microwave,4,77.74,310.96
+2023-09-11,Toys,Remote Car,3,361.06,1083.18
+2023-09-11,Books,Fiction,2,216.24,432.48
+2023-09-11,Books,Comics,1,405.66,405.66
+2023-09-11,Books,Fiction,3,289.05,867.15
+2023-09-11,Clothing,T-Shirt,3,256.77,770.31
+2023-09-11,Electronics,Smartphone,4,208.38,833.52
+2023-09-11,Toys,Doll,1,71.29,71.29
+2023-09-11,Books,Biography,2,120.37,240.74
+2023-09-11,Electronics,Headphones,2,443.03,886.06
+2023-09-11,Electronics,Smartphone,4,,1680.36
+2023-09-12,Books,Comics,4,65.3,261.2
+2023-09-12,Clothing,Jeans,3,149.77,449.31
+2023-09-12,Toys,Board Game,2,394.13,788.26
+2023-09-12,Toys,Remote Car,2,257.85,515.7
+2023-09-12,Home & Kitchen,Microwave,2,396.8,793.6
+2023-09-12,Clothing,T-Shirt,2,278.33,556.66
+2023-09-12,Books,Biography,3,143.4,430.2
+2023-09-12,Books,Comics,1,120.05,120.05
+2023-09-12,Home & Kitchen,Mixer,4,251.26,1005.04
+2023-09-13,Toys,Doll,1,202.9,202.9
+2023-09-13,Electronics,Smartphone,2,388.17,776.34
+2023-09-13,Toys,Doll,1,91.75,91.75
+2023-09-13,Electronics,Smartphone,2,471.49,942.98
+2023-09-13,Toys,Remote Car,3,473.38,1420.14
+2023-09-13,Clothing,T-Shirt,3,,405.18
+2023-09-13,Electronics,Smartphone,3,258.87,776.61
+2023-09-13,Clothing,Jeans,3,319.12,957.36
+2023-09-13,Electronics,Headphones,3,202.37,607.11
+2023-09-14,Electronics,Laptop,4,28.47,113.88
+2023-09-14,Home & Kitchen,Microwave,1,375.69,375.69
+2023-09-14,Toys,Remote Car,4,360.05,1440.2
+2023-09-14,Home & Kitchen,Mixer,4,,767.36
+2023-09-14,Electronics,Smartphone,1,355.77,355.77
+2023-09-14,Toys,Board Game,1,214.55,214.55
+2023-09-14,Clothing,T-Shirt,3,308.09,924.27
+2023-09-14,Toys,Doll,1,421.6,421.6
+2023-09-14,Home & Kitchen,Microwave,1,67.6,67.6
+2023-09-14,Home & Kitchen,Microwave,1,193.41,193.41
+2023-09-14,Clothing,T-Shirt,2,147.73,295.46
+2023-09-14,Home & Kitchen,Microwave,2,294.31,588.62
+2023-09-15,Clothing,T-Shirt,1,425.34,425.34
+2023-09-15,Electronics,Headphones,2,163.46,326.92
+2023-09-15,Electronics,Laptop,2,130.19,260.38
+2023-09-15,Toys,Board Game,4,34.79,139.16
+2023-09-15,Books,Comics,1,102.85,102.85
+2023-09-16,Books,Fiction,3,348.41,1045.23
+2023-09-16,Electronics,Laptop,2,192.71,385.42
+2023-09-16,Electronics,Smartphone,2,451.58,903.16
+2023-09-16,Home & Kitchen,Mixer,1,268.39,268.39
+2023-09-16,Home & Kitchen,Mixer,2,442.56,885.12
+2023-09-16,Clothing,T-Shirt,1,37.6,37.6
+2023-09-16,Clothing,T-Shirt,1,173.02,173.02
+2023-09-16,Clothing,Jacket,4,114.32,457.28
+2023-09-16,Electronics,Headphones,2,108.08,216.16
+2023-09-16,Electronics,Laptop,4,45.39,181.56
+2023-09-16,Books,Comics,2,288.95,577.9
+2023-09-16,Home & Kitchen,Mixer,1,103.03,103.03
+2023-09-17,Books,Comics,1,86.65,86.65
+2023-09-17,Books,Fiction,1,165.13,165.13
+2023-09-17,Electronics,Headphones,4,365.98,1463.92
+2023-09-17,Clothing,T-Shirt,3,384.79,1154.37
+2023-09-17,Books,Comics,2,487.41,974.82
+2023-09-17,Clothing,Jeans,2,377.16,754.32
+2023-09-17,Books,Fiction,1,140.78,140.78
+2023-09-17,Home & Kitchen,Cookware Set,3,294.02,882.06
+2023-09-17,Home & Kitchen,Mixer,2,386.36,772.72
+2023-09-18,Toys,Doll,4,420.54,1682.16
+2023-09-18,Clothing,T-Shirt,3,135.76,407.28
+2023-09-18,Toys,Remote Car,3,72.15,216.45
+2023-09-18,Home & Kitchen,Cookware Set,1,347.87,347.87
+2023-09-18,Toys,Board Game,4,358.52,1434.08
+2023-09-19,Books,Biography,3,284.6,853.8
+2023-09-19,Toys,Remote Car,4,176.71,706.84
+2023-09-19,Toys,Doll,3,17.77,53.31
+2023-09-19,Electronics,Smartphone,1,189.71,189.71
+2023-09-19,Toys,Doll,2,295.11,590.22
+2023-09-19,Books,Comics,3,350.68,1052.04
+2023-09-19,Clothing,T-Shirt,1,492.91,492.91
+2023-09-19,Clothing,Jacket,1,12.62,12.62
+2023-09-19,Books,Biography,4,36.85,147.4
+2023-09-20,Home & Kitchen,Mixer,3,236.72,710.16
+2023-09-20,Toys,Doll,4,480.2,1920.8
+2023-09-20,Electronics,Laptop,2,52.91,105.82
+2023-09-20,Books,Fiction,2,112.24,224.48
+2023-09-20,Toys,Doll,4,305.84,1223.36
+2023-09-20,Books,Biography,3,157.6,472.8
+2023-09-20,Clothing,T-Shirt,2,93.92,187.84
+2023-09-20,Toys,Board Game,2,461.5,923.0
+2023-09-20,Toys,Board Game,4,347.18,1388.72
+2023-09-20,Electronics,Headphones,4,264.5,1058.0
+2023-09-20,Clothing,T-Shirt,2,138.4,276.8
+2023-09-21,Clothing,Jacket,4,52.98,211.92
+2023-09-21,Home & Kitchen,Mixer,1,491.46,491.46
+2023-09-21,Clothing,Jeans,3,421.8,1265.4
+2023-09-21,Books,Comics,3,256.91,770.73
+2023-09-21,Books,Biography,1,156.29,156.29
+2023-09-21,Books,Biography,3,22.61,67.83
+2023-09-22,Books,Comics,2,,899.36
+2023-09-22,Books,Biography,2,319.91,639.82
+2023-09-22,Toys,Board Game,4,16.38,65.52
+2023-09-22,Home & Kitchen,Microwave,2,255.15,510.3
+2023-09-22,Books,Fiction,3,278.98,836.94
+2023-09-22,Toys,Board Game,4,305.75,1223.0
+2023-09-22,Home & Kitchen,Mixer,3,81.98,245.94
+2023-09-23,Electronics,Headphones,2,,283.98
+2023-09-23,Books,Fiction,2,164.46,328.92
+2023-09-23,Toys,Board Game,1,495.45,495.45
+2023-09-23,Toys,Doll,2,,271.82
+2023-09-23,Home & Kitchen,Microwave,1,213.45,213.45
+2023-09-23,Home & Kitchen,Microwave,1,235.16,235.16
+2023-09-23,Books,Comics,4,315.94,1263.76
+2023-09-23,Books,Comics,3,319.21,957.63
+2023-09-23,Clothing,T-Shirt,2,211.81,423.62
+2023-09-23,Clothing,Jeans,1,428.82,428.82
+2023-09-24,Home & Kitchen,Mixer,4,284.74,1138.96
+2023-09-24,Electronics,Laptop,3,111.04,333.12
+2023-09-24,Books,Comics,3,233.27,699.81
+2023-09-24,Books,Biography,2,420.89,841.78
+2023-09-24,Electronics,Laptop,3,225.36,676.08
+2023-09-24,Home & Kitchen,Cookware Set,2,343.32,686.64
+2023-09-24,Books,Comics,2,,504.14
+2023-09-25,Books,Fiction,2,326.42,652.84
+2023-09-25,Toys,Remote Car,3,76.27,228.81
+2023-09-25,Clothing,Jacket,1,334.11,334.11
+2023-09-25,Home & Kitchen,Cookware Set,3,37.11,111.33
+2023-09-25,Clothing,T-Shirt,4,317.36,1269.44
+2023-09-25,Toys,Doll,2,179.46,358.92
+2023-09-25,Electronics,Headphones,2,421.21,842.42
+2023-09-25,Home & Kitchen,Cookware Set,1,171.1,171.1
+2023-09-25,Electronics,Laptop,3,276.36,829.08
+2023-09-25,Clothing,Jeans,4,200.43,801.72
+2023-09-25,Clothing,Jacket,2,279.31,558.62
+2023-09-26,Books,Biography,3,112.92,338.76
+2023-09-26,Home & Kitchen,Microwave,3,246.08,738.24
+2023-09-26,Electronics,Smartphone,3,402.8,1208.4
+2023-09-26,Toys,Board Game,2,246.68,493.36
+2023-09-26,Books,Biography,1,205.56,205.56
+2023-09-26,Books,Comics,2,169.03,338.06
+2023-09-26,Home & Kitchen,Cookware Set,3,403.54,1210.62
+2023-09-27,Home & Kitchen,Mixer,4,153.23,612.92
+2023-09-27,Toys,Remote Car,4,441.52,1766.08
+2023-09-27,Home & Kitchen,Cookware Set,3,34.16,102.48
+2023-09-27,Electronics,Smartphone,4,,1547.2
+2023-09-27,Clothing,Jacket,1,65.74,65.74
+2023-09-28,Electronics,Headphones,4,486.26,1945.04
+2023-09-28,Toys,Remote Car,3,163.91,491.73
+2023-09-28,Home & Kitchen,Mixer,2,433.11,866.22
+2023-09-28,Electronics,Laptop,4,386.93,1547.72
+2023-09-28,Books,Comics,2,228.1,456.2
+2023-09-28,Home & Kitchen,Cookware Set,1,296.78,296.78
+2023-09-28,Clothing,Jeans,1,112.67,112.67
+2023-09-28,Electronics,Smartphone,4,79.03,316.12
+2023-09-29,Home & Kitchen,Mixer,2,475.6,951.2
+2023-09-29,Clothing,Jacket,3,38.0,114.0
+2023-09-29,Home & Kitchen,Microwave,3,457.74,1373.22
+2023-09-29,Toys,Remote Car,2,129.59,259.18
+2023-09-29,Toys,Board Game,4,73.2,292.8
+2023-09-29,Toys,Board Game,4,25.18,100.72
+2023-09-29,Books,Biography,2,306.02,612.04
+2023-09-29,Home & Kitchen,Microwave,1,491.5,491.5
+2023-09-29,Home & Kitchen,Mixer,2,19.27,38.54
+2023-09-29,Clothing,Jacket,3,85.34,256.02
+2023-09-29,Electronics,Smartphone,1,19.0,19.0
+2023-09-29,Books,Comics,2,108.17,216.34
+2023-09-29,Books,Comics,3,229.13,687.39
+2023-09-29,Toys,Doll,1,394.14,394.14
+2023-09-30,Books,Biography,4,420.92,1683.68
+2023-09-30,Electronics,Laptop,2,457.52,915.04
+2023-09-30,Home & Kitchen,Microwave,2,67.23,134.46
+2023-09-30,Clothing,Jacket,4,137.18,548.72
+2023-09-30,Electronics,Laptop,4,370.36,1481.44
+2023-09-30,Clothing,Jeans,3,56.92,170.76
+2023-09-30,Clothing,T-Shirt,3,188.23,564.69
+2023-10-01,Books,Biography,4,340.26,1361.04
+2023-10-01,Clothing,T-Shirt,2,229.6,459.2
+2023-10-01,Books,Comics,4,341.77,1367.08
+2023-10-01,Clothing,Jeans,3,143.28,429.84
+2023-10-01,Toys,Board Game,2,253.96,507.92
+2023-10-01,Home & Kitchen,Microwave,1,232.67,232.67
+2023-10-01,Home & Kitchen,Microwave,2,414.85,829.7
+2023-10-01,Books,Fiction,4,412.61,1650.44
+2023-10-02,Home & Kitchen,Microwave,1,63.55,63.55
+2023-10-02,Books,Biography,3,142.98,428.94
+2023-10-02,Clothing,Jacket,4,35.85,143.4
+2023-10-02,Electronics,Laptop,2,445.05,890.1
+2023-10-02,Home & Kitchen,Mixer,2,404.84,809.68
+2023-10-02,Home & Kitchen,Mixer,4,358.38,1433.52
+2023-10-03,Electronics,Headphones,1,355.88,355.88
+2023-10-03,Toys,Remote Car,1,389.16,389.16
+2023-10-03,Home & Kitchen,Microwave,4,124.9,499.6
+2023-10-03,Electronics,Laptop,4,431.44,1725.76
+2023-10-03,Toys,Doll,3,93.18,279.54
+2023-10-03,Books,Fiction,2,245.75,491.5
+2023-10-03,Electronics,Smartphone,4,289.63,1158.52
+2023-10-03,Clothing,Jacket,2,360.56,721.12
+2023-10-03,Clothing,T-Shirt,3,418.3,1254.9
+2023-10-03,Clothing,Jeans,4,296.75,1187.0
+2023-10-04,Books,Fiction,3,187.12,561.36
+2023-10-04,Toys,Board Game,2,61.7,123.4
+2023-10-04,Toys,Remote Car,1,213.73,213.73
+2023-10-04,Clothing,Jeans,2,192.58,385.16
+2023-10-04,Toys,Doll,1,488.28,488.28
+2023-10-04,Home & Kitchen,Mixer,3,50.69,152.07
+2023-10-04,Books,Biography,3,296.53,889.59
+2023-10-04,Home & Kitchen,Microwave,2,383.87,767.74
+2023-10-04,Electronics,Headphones,4,456.22,1824.88
+2023-10-04,Clothing,Jacket,1,252.47,252.47
+2023-10-04,Clothing,Jeans,1,345.54,345.54
+2023-10-04,Clothing,Jeans,3,18.85,56.55
+2023-10-04,Toys,Remote Car,2,368.24,736.48
+2023-10-04,Toys,Remote Car,4,301.53,1206.12
+2023-10-05,Books,Fiction,3,492.63,1477.89
+2023-10-05,Toys,Board Game,3,10.12,30.36
+2023-10-05,Books,Comics,2,421.06,842.12
+2023-10-05,Toys,Remote Car,2,391.4,782.8
+2023-10-05,Clothing,Jeans,1,242.9,242.9
+2023-10-05,Toys,Doll,1,162.18,162.18
+2023-10-06,Books,Biography,3,151.06,453.18
+2023-10-06,Clothing,T-Shirt,2,207.36,414.72
+2023-10-06,Clothing,Jeans,2,475.96,951.92
+2023-10-06,Clothing,Jeans,3,159.66,478.98
+2023-10-06,Home & Kitchen,Cookware Set,3,133.6,400.8
+2023-10-06,Home & Kitchen,Microwave,1,106.41,106.41
+2023-10-06,Home & Kitchen,Cookware Set,4,254.78,1019.12
+2023-10-06,Clothing,Jeans,3,342.17,1026.51
+2023-10-06,Home & Kitchen,Mixer,3,72.06,216.18
+2023-10-06,Electronics,Smartphone,1,194.39,194.39
+2023-10-06,Home & Kitchen,Microwave,3,493.48,1480.44
+2023-10-06,Electronics,Laptop,2,248.33,496.66
+2023-10-06,Toys,Board Game,2,491.37,982.74
+2023-10-07,Home & Kitchen,Cookware Set,1,37.64,37.64
+2023-10-07,Electronics,Headphones,3,119.67,359.01
+2023-10-07,Clothing,T-Shirt,4,128.09,512.36
+2023-10-07,Books,Fiction,2,171.85,343.7
+2023-10-07,Toys,Doll,1,350.65,350.65
+2023-10-08,Clothing,T-Shirt,2,165.18,330.36
+2023-10-08,Books,Fiction,4,292.83,1171.32
+2023-10-08,Home & Kitchen,Microwave,3,209.63,628.89
+2023-10-08,Clothing,T-Shirt,1,209.06,209.06
+2023-10-08,Clothing,Jeans,1,72.25,72.25
+2023-10-08,Electronics,Laptop,3,87.25,261.75
+2023-10-09,Books,Fiction,4,368.49,1473.96
+2023-10-09,Toys,Doll,4,347.44,1389.76
+2023-10-09,Toys,Board Game,2,465.08,930.16
+2023-10-09,Books,Biography,2,57.83,115.66
+2023-10-09,Home & Kitchen,Cookware Set,1,92.45,92.45
+2023-10-09,Electronics,Laptop,3,71.64,214.92
+2023-10-09,Home & Kitchen,Microwave,4,109.47,437.88
+2023-10-09,Books,Comics,1,168.88,168.88
+2023-10-10,Home & Kitchen,Microwave,1,59.86,59.86
+2023-10-10,Clothing,Jacket,1,170.75,170.75
+2023-10-10,Clothing,T-Shirt,2,173.15,346.3
+2023-10-10,Books,Comics,1,337.23,337.23
+2023-10-10,Home & Kitchen,Cookware Set,3,400.92,1202.76
+2023-10-10,Toys,Doll,2,110.08,220.16
+2023-10-10,Toys,Board Game,4,,1725.32
+2023-10-10,Electronics,Headphones,1,170.55,170.55
+2023-10-10,Books,Biography,3,243.25,729.75
+2023-10-11,Clothing,Jacket,4,188.9,755.6
+2023-10-11,Electronics,Headphones,4,177.81,711.24
+2023-10-11,Home & Kitchen,Cookware Set,1,298.58,298.58
+2023-10-11,Electronics,Laptop,3,26.49,79.47
+2023-10-11,Electronics,Smartphone,1,22.96,22.96
+2023-10-11,Books,Fiction,3,438.04,1314.12
+2023-10-11,Clothing,Jacket,3,72.51,217.53
+2023-10-12,Clothing,T-Shirt,4,260.09,1040.36
+2023-10-12,Clothing,Jeans,4,44.75,179.0
+2023-10-12,Books,Fiction,1,419.83,419.83
+2023-10-12,Clothing,Jacket,1,325.77,325.77
+2023-10-12,Clothing,Jeans,1,19.94,19.94
+2023-10-12,Clothing,T-Shirt,2,357.25,714.5
+2023-10-12,Books,Fiction,4,384.49,1537.96
+2023-10-12,Home & Kitchen,Cookware Set,4,215.04,860.16
+2023-10-12,Home & Kitchen,Cookware Set,2,493.1,986.2
+2023-10-12,Clothing,T-Shirt,2,306.5,613.0
+2023-10-12,Clothing,Jacket,3,434.8,1304.4
+2023-10-12,Home & Kitchen,Microwave,4,39.02,156.08
+2023-10-12,Toys,Remote Car,1,351.15,351.15
+2023-10-12,Electronics,Laptop,1,41.85,41.85
+2023-10-13,Books,Fiction,4,452.77,1811.08
+2023-10-13,Books,Biography,1,221.58,221.58
+2023-10-13,Clothing,T-Shirt,3,149.45,448.35
+2023-10-13,Home & Kitchen,Mixer,2,307.9,615.8
+2023-10-13,Clothing,Jacket,4,281.7,1126.8
+2023-10-13,Home & Kitchen,Cookware Set,2,484.36,968.72
+2023-10-13,Toys,Remote Car,2,326.84,653.68
+2023-10-14,Electronics,Laptop,4,383.66,1534.64
+2023-10-14,Home & Kitchen,Cookware Set,1,270.12,270.12
+2023-10-14,Home & Kitchen,Mixer,1,408.22,408.22
+2023-10-14,Electronics,Laptop,1,263.39,263.39
+2023-10-14,Clothing,Jeans,1,397.03,397.03
+2023-10-14,Home & Kitchen,Mixer,1,224.15,224.15
+2023-10-14,Electronics,Headphones,2,294.56,589.12
+2023-10-14,Clothing,Jeans,3,121.15,363.45
+2023-10-15,Home & Kitchen,Microwave,1,93.63,93.63
+2023-10-15,Home & Kitchen,Cookware Set,4,416.54,1666.16
+2023-10-15,Toys,Doll,4,354.52,1418.08
+2023-10-15,Books,Fiction,4,54.2,216.8
+2023-10-15,Books,Biography,4,480.03,1920.12
+2023-10-15,Toys,Remote Car,1,41.62,41.62
+2023-10-15,Toys,Doll,4,230.46,921.84
+2023-10-16,Books,Fiction,2,466.45,932.9
+2023-10-16,Books,Fiction,2,184.62,369.24
+2023-10-16,Books,Biography,3,217.73,653.19
+2023-10-16,Clothing,Jacket,4,196.18,784.72
+2023-10-16,Electronics,Headphones,4,181.63,726.52
+2023-10-16,Home & Kitchen,Microwave,4,444.98,1779.92
+2023-10-16,Home & Kitchen,Mixer,3,195.35,586.05
+2023-10-16,Toys,Doll,4,121.75,487.0
+2023-10-16,Home & Kitchen,Microwave,4,141.49,565.96
+2023-10-16,Home & Kitchen,Mixer,1,161.23,161.23
+2023-10-16,Electronics,Smartphone,3,359.25,1077.75
+2023-10-16,Books,Fiction,4,253.63,1014.52
+2023-10-17,Toys,Remote Car,3,337.94,1013.82
+2023-10-17,Home & Kitchen,Mixer,1,330.47,330.47
+2023-10-17,Electronics,Laptop,1,297.97,297.97
+2023-10-17,Electronics,Laptop,2,430.75,861.5
+2023-10-17,Electronics,Laptop,3,449.27,1347.81
+2023-10-17,Electronics,Headphones,3,226.36,679.08
+2023-10-17,Electronics,Headphones,1,106.93,106.93
+2023-10-18,Electronics,Smartphone,3,345.95,1037.85
+2023-10-18,Electronics,Laptop,3,322.98,968.94
+2023-10-18,Books,Biography,1,224.02,224.02
+2023-10-18,Home & Kitchen,Cookware Set,4,482.39,1929.56
+2023-10-18,Electronics,Laptop,4,227.36,909.44
+2023-10-18,Books,Comics,1,341.78,341.78
+2023-10-18,Electronics,Laptop,1,86.27,86.27
+2023-10-18,Books,Biography,1,131.49,131.49
+2023-10-18,Electronics,Headphones,4,363.09,1452.36
+2023-10-18,Toys,Board Game,3,384.38,1153.14
+2023-10-18,Electronics,Laptop,2,98.8,197.6
+2023-10-18,Toys,Board Game,4,450.32,1801.28
+2023-10-19,Books,Biography,3,150.9,452.7
+2023-10-19,Clothing,T-Shirt,1,,93.37
+2023-10-19,Electronics,Headphones,4,281.52,1126.08
+2023-10-19,Clothing,Jeans,1,348.52,348.52
+2023-10-19,Books,Fiction,1,186.48,186.48
+2023-10-19,Books,Fiction,1,,443.2
+2023-10-19,Home & Kitchen,Cookware Set,2,33.71,67.42
+2023-10-19,Toys,Board Game,1,246.86,246.86
+2023-10-19,Home & Kitchen,Cookware Set,1,89.76,89.76
+2023-10-20,Books,Fiction,2,62.82,125.64
+2023-10-20,Clothing,T-Shirt,3,392.86,1178.58
+2023-10-20,Books,Fiction,3,56.5,169.5
+2023-10-20,Home & Kitchen,Mixer,3,395.8,1187.4
+2023-10-20,Electronics,Laptop,3,96.56,289.68
+2023-10-20,Toys,Board Game,4,369.71,1478.84
+2023-10-20,Electronics,Smartphone,2,404.09,808.18
+2023-10-20,Home & Kitchen,Cookware Set,4,261.68,1046.72
+2023-10-20,Toys,Remote Car,2,424.4,848.8
+2023-10-20,Books,Comics,1,54.61,54.61
+2023-10-20,Electronics,Smartphone,3,208.75,626.25
+2023-10-21,Toys,Remote Car,3,415.82,1247.46
+2023-10-21,Books,Comics,1,331.51,331.51
+2023-10-21,Toys,Remote Car,3,275.6,826.8
+2023-10-21,Clothing,T-Shirt,1,229.6,229.6
+2023-10-21,Electronics,Smartphone,2,95.61,191.22
+2023-10-21,Clothing,Jeans,3,499.66,1498.98
+2023-10-21,Home & Kitchen,Mixer,2,333.07,666.14
+2023-10-21,Electronics,Laptop,2,386.53,773.06
+2023-10-21,Electronics,Headphones,1,404.27,404.27
+2023-10-21,Clothing,T-Shirt,1,261.41,261.41
+2023-10-21,Home & Kitchen,Cookware Set,4,14.67,58.68
+2023-10-21,Toys,Remote Car,1,372.75,372.75
+2023-10-21,Home & Kitchen,Cookware Set,1,42.48,42.48
+2023-10-21,Electronics,Laptop,1,331.14,331.14
+2023-10-22,Books,Comics,2,432.0,864.0
+2023-10-22,Clothing,T-Shirt,4,319.01,1276.04
+2023-10-22,Home & Kitchen,Mixer,4,323.72,1294.88
+2023-10-22,Toys,Board Game,3,171.36,514.08
+2023-10-22,Books,Fiction,2,61.99,123.98
+2023-10-22,Toys,Doll,3,260.63,781.89
+2023-10-22,Books,Fiction,1,423.82,423.82
+2023-10-22,Toys,Board Game,3,425.72,1277.16
+2023-10-22,Toys,Doll,4,145.74,582.96
+2023-10-22,Toys,Doll,3,220.94,662.82
+2023-10-22,Clothing,Jeans,1,27.05,27.05
+2023-10-22,Books,Biography,3,406.4,1219.2
+2023-10-22,Home & Kitchen,Cookware Set,2,257.39,514.78
+2023-10-22,Home & Kitchen,Cookware Set,2,415.31,830.62
+2023-10-23,Toys,Board Game,1,272.73,272.73
+2023-10-23,Clothing,T-Shirt,4,54.66,218.64
+2023-10-23,Toys,Doll,4,329.08,1316.32
+2023-10-23,Toys,Remote Car,2,121.61,243.22
+2023-10-23,Clothing,Jeans,1,229.97,229.97
+2023-10-23,Toys,Remote Car,2,86.32,172.64
+2023-10-23,Books,Biography,3,487.15,1461.45
+2023-10-23,Home & Kitchen,Cookware Set,1,254.01,254.01
+2023-10-23,Clothing,Jacket,2,94.13,188.26
+2023-10-24,Clothing,Jeans,3,474.11,1422.33
+2023-10-24,Clothing,Jacket,4,277.49,1109.96
+2023-10-24,Home & Kitchen,Cookware Set,3,169.5,508.5
+2023-10-24,Clothing,Jacket,4,82.72,330.88
+2023-10-24,Home & Kitchen,Mixer,3,14.53,43.59
+2023-10-24,Books,Comics,3,442.02,1326.06
+2023-10-24,Electronics,Laptop,2,,593.78
+2023-10-24,Toys,Doll,2,161.62,323.24
+2023-10-24,Clothing,T-Shirt,4,22.0,88.0
+2023-10-24,Electronics,Laptop,3,153.65,460.95
+2023-10-24,Electronics,Laptop,3,40.95,122.85
+2023-10-25,Toys,Remote Car,1,464.67,464.67
+2023-10-25,Clothing,Jeans,4,394.36,1577.44
+2023-10-25,Electronics,Laptop,4,257.17,1028.68
+2023-10-25,Home & Kitchen,Cookware Set,2,43.22,86.44
+2023-10-25,Books,Biography,4,151.85,607.4
+2023-10-25,Clothing,T-Shirt,3,445.67,1337.01
+2023-10-25,Electronics,Smartphone,4,442.84,1771.36
+2023-10-25,Electronics,Smartphone,4,379.3,1517.2
+2023-10-25,Toys,Board Game,2,434.21,868.42
+2023-10-25,Toys,Remote Car,1,336.2,336.2
+2023-10-25,Clothing,Jacket,1,84.95,84.95
+2023-10-25,Clothing,T-Shirt,3,245.53,736.59
+2023-10-26,Electronics,Headphones,4,218.8,875.2
+2023-10-26,Toys,Remote Car,3,148.26,444.78
+2023-10-26,Clothing,T-Shirt,3,25.08,75.24
+2023-10-26,Electronics,Headphones,1,70.55,70.55
+2023-10-26,Home & Kitchen,Microwave,4,106.28,425.12
+2023-10-26,Electronics,Laptop,4,479.34,1917.36
+2023-10-27,Home & Kitchen,Microwave,4,372.41,1489.64
+2023-10-27,Books,Biography,4,134.07,536.28
+2023-10-27,Toys,Doll,3,404.01,1212.03
+2023-10-27,Electronics,Smartphone,1,137.9,137.9
+2023-10-27,Electronics,Smartphone,3,134.81,404.43
+2023-10-27,Home & Kitchen,Microwave,2,211.59,423.18
+2023-10-27,Books,Biography,1,123.01,123.01
+2023-10-27,Toys,Remote Car,2,407.87,815.74
+2023-10-27,Toys,Doll,1,332.84,332.84
+2023-10-27,Home & Kitchen,Cookware Set,4,17.89,71.56
+2023-10-27,Clothing,Jacket,3,53.01,159.03
+2023-10-27,Clothing,T-Shirt,4,38.32,153.28
+2023-10-27,Clothing,Jeans,4,258.32,1033.28
+2023-10-27,Electronics,Laptop,1,384.52,384.52
+2023-10-28,Toys,Remote Car,2,280.56,561.12
+2023-10-28,Toys,Doll,2,386.25,772.5
+2023-10-28,Clothing,T-Shirt,3,206.96,620.88
+2023-10-28,Home & Kitchen,Microwave,2,313.94,627.88
+2023-10-28,Electronics,Smartphone,3,185.05,555.15
+2023-10-28,Home & Kitchen,Cookware Set,1,317.39,317.39
+2023-10-28,Clothing,Jacket,4,,684.84
+2023-10-28,Electronics,Smartphone,4,40.16,160.64
+2023-10-28,Home & Kitchen,Microwave,2,,784.36
+2023-10-28,Books,Comics,4,,1026.0
+2023-10-28,Books,Biography,1,34.09,34.09
+2023-10-28,Toys,Board Game,2,284.31,568.62
+2023-10-29,Clothing,Jeans,1,467.23,467.23
+2023-10-29,Clothing,Jeans,1,329.78,329.78
+2023-10-29,Clothing,T-Shirt,1,240.45,240.45
+2023-10-29,Electronics,Smartphone,4,246.1,984.4
+2023-10-29,Books,Comics,3,291.4,874.2
+2023-10-29,Electronics,Laptop,3,127.0,381.0
+2023-10-29,Clothing,Jeans,2,413.85,827.7
+2023-10-29,Home & Kitchen,Microwave,1,214.82,214.82
+2023-10-29,Home & Kitchen,Mixer,1,181.62,181.62
+2023-10-29,Home & Kitchen,Cookware Set,1,119.89,119.89
+2023-10-29,Clothing,T-Shirt,3,463.08,1389.24
+2023-10-29,Home & Kitchen,Cookware Set,3,398.78,1196.34
+2023-10-29,Books,Biography,1,467.28,467.28
+2023-10-30,Electronics,Smartphone,2,277.75,555.5
+2023-10-30,Toys,Doll,4,365.19,1460.76
+2023-10-30,Toys,Board Game,3,205.67,617.01
+2023-10-30,Toys,Doll,2,95.58,191.16
+2023-10-30,Toys,Remote Car,4,78.62,314.48
+2023-10-30,Electronics,Laptop,1,46.8,46.8
+2023-10-30,Toys,Board Game,2,457.17,914.34
+2023-10-30,Home & Kitchen,Microwave,3,270.43,811.29
+2023-10-30,Books,Fiction,2,493.34,986.68
+2023-10-30,Clothing,Jacket,4,23.65,94.6
+2023-10-30,Clothing,Jeans,3,80.61,241.83
+2023-10-30,Books,Fiction,1,289.72,289.72
+2023-10-30,Electronics,Headphones,3,311.46,934.38
+2023-10-31,Home & Kitchen,Mixer,2,300.87,601.74
+2023-10-31,Electronics,Headphones,2,490.23,980.46
+2023-10-31,Toys,Board Game,4,366.28,1465.12
+2023-10-31,Clothing,Jeans,4,53.12,212.48
+2023-10-31,Books,Fiction,2,380.34,760.68
+2023-10-31,Toys,Board Game,3,164.05,492.15
+2023-10-31,Books,Comics,3,392.95,1178.85
+2023-10-31,Books,Biography,4,146.24,584.96
+2023-10-31,Books,Comics,4,383.32,1533.28
+2023-10-31,Books,Fiction,4,23.04,92.16
+2023-10-31,Books,Biography,2,428.05,856.1
+2023-10-31,Toys,Remote Car,3,322.79,968.37
+2023-10-31,Home & Kitchen,Microwave,1,282.84,282.84
+2023-11-01,Books,Fiction,3,101.52,304.56
+2023-11-01,Home & Kitchen,Cookware Set,1,342.43,342.43
+2023-11-01,Electronics,Laptop,2,140.0,280.0
+2023-11-01,Electronics,Smartphone,4,171.09,684.36
+2023-11-01,Books,Comics,4,173.08,692.32
+2023-11-02,Electronics,Laptop,3,309.83,929.49
+2023-11-02,Toys,Remote Car,2,419.5,839.0
+2023-11-02,Clothing,T-Shirt,1,234.74,234.74
+2023-11-02,Books,Comics,4,176.79,707.16
+2023-11-02,Toys,Remote Car,4,476.37,1905.48
+2023-11-02,Books,Fiction,4,62.88,251.52
+2023-11-02,Clothing,T-Shirt,2,267.43,534.86
+2023-11-02,Books,Fiction,1,427.55,427.55
+2023-11-02,Electronics,Smartphone,1,293.33,293.33
+2023-11-02,Home & Kitchen,Mixer,3,382.73,1148.19
+2023-11-02,Electronics,Smartphone,3,35.62,106.86
+2023-11-02,Books,Biography,3,387.54,1162.62
+2023-11-02,Electronics,Laptop,2,153.34,306.68
+2023-11-03,Home & Kitchen,Cookware Set,3,65.3,195.9
+2023-11-03,Toys,Remote Car,2,437.56,875.12
+2023-11-03,Clothing,Jeans,2,498.53,997.06
+2023-11-03,Books,Comics,2,147.94,295.88
+2023-11-03,Clothing,Jeans,3,418.3,1254.9
+2023-11-03,Toys,Doll,1,201.97,201.97
+2023-11-03,Electronics,Laptop,1,320.71,320.71
+2023-11-03,Electronics,Laptop,4,220.57,882.28
+2023-11-03,Clothing,Jeans,4,233.5,934.0
+2023-11-03,Home & Kitchen,Microwave,2,263.54,527.08
+2023-11-03,Toys,Doll,2,464.51,929.02
+2023-11-03,Home & Kitchen,Microwave,2,164.35,328.7
+2023-11-03,Electronics,Smartphone,2,471.4,942.8
+2023-11-03,Home & Kitchen,Cookware Set,3,427.81,1283.43
+2023-11-04,Clothing,Jeans,1,465.88,465.88
+2023-11-04,Home & Kitchen,Mixer,3,444.43,1333.29
+2023-11-04,Home & Kitchen,Mixer,1,62.37,62.37
+2023-11-04,Home & Kitchen,Cookware Set,2,394.25,788.5
+2023-11-04,Electronics,Smartphone,1,175.61,175.61
+2023-11-04,Books,Biography,3,379.92,1139.76
+2023-11-04,Clothing,T-Shirt,1,316.26,316.26
+2023-11-04,Books,Comics,1,195.65,195.65
+2023-11-04,Toys,Doll,1,249.06,249.06
+2023-11-04,Books,Fiction,4,151.58,606.32
+2023-11-04,Home & Kitchen,Cookware Set,2,195.32,390.64
+2023-11-04,Toys,Remote Car,3,71.12,213.36
+2023-11-05,Clothing,T-Shirt,1,407.5,407.5
+2023-11-05,Books,Fiction,1,140.15,140.15
+2023-11-05,Clothing,T-Shirt,4,,1098.44
+2023-11-05,Home & Kitchen,Mixer,3,243.07,729.21
+2023-11-05,Toys,Remote Car,3,469.5,1408.5
+2023-11-05,Toys,Remote Car,2,204.89,409.78
+2023-11-05,Electronics,Headphones,1,480.84,480.84
+2023-11-05,Books,Comics,2,296.65,593.3
+2023-11-05,Clothing,Jacket,4,132.5,530.0
+2023-11-05,Toys,Board Game,4,265.2,1060.8
+2023-11-05,Toys,Doll,2,297.5,595.0
+2023-11-06,Clothing,T-Shirt,3,312.5,937.5
+2023-11-06,Toys,Doll,2,302.01,604.02
+2023-11-06,Clothing,Jeans,1,369.62,369.62
+2023-11-06,Home & Kitchen,Cookware Set,2,209.51,419.02
+2023-11-06,Books,Biography,2,,788.82
+2023-11-06,Clothing,Jeans,2,410.97,821.94
+2023-11-06,Toys,Board Game,4,71.81,287.24
+2023-11-06,Clothing,Jacket,1,165.94,165.94
+2023-11-06,Toys,Board Game,2,455.4,910.8
+2023-11-06,Clothing,Jeans,3,173.42,520.26
+2023-11-06,Electronics,Headphones,1,145.73,145.73
+2023-11-06,Home & Kitchen,Cookware Set,4,142.77,571.08
+2023-11-06,Books,Comics,2,429.15,858.3
+2023-11-06,Toys,Doll,3,314.69,944.07
+2023-11-07,Home & Kitchen,Mixer,2,299.25,598.5
+2023-11-07,Books,Comics,1,103.83,103.83
+2023-11-07,Electronics,Laptop,2,341.31,682.62
+2023-11-07,Clothing,T-Shirt,2,495.97,991.94
+2023-11-07,Books,Fiction,1,477.42,477.42
+2023-11-07,Electronics,Headphones,4,17.67,70.68
+2023-11-07,Toys,Doll,4,245.68,982.72
+2023-11-07,Home & Kitchen,Microwave,4,84.99,339.96
+2023-11-08,Clothing,Jacket,3,227.04,681.12
+2023-11-08,Home & Kitchen,Mixer,1,89.36,89.36
+2023-11-08,Home & Kitchen,Microwave,2,398.03,796.06
+2023-11-08,Toys,Doll,1,281.88,281.88
+2023-11-08,Electronics,Smartphone,4,207.16,828.64
+2023-11-09,Home & Kitchen,Cookware Set,2,424.81,849.62
+2023-11-09,Books,Biography,2,298.74,597.48
+2023-11-09,Electronics,Smartphone,4,413.14,1652.56
+2023-11-09,Home & Kitchen,Cookware Set,3,,621.84
+2023-11-09,Toys,Remote Car,1,68.97,68.97
+2023-11-09,Home & Kitchen,Cookware Set,4,464.69,1858.76
+2023-11-09,Home & Kitchen,Microwave,4,189.92,759.68
+2023-11-09,Toys,Remote Car,4,253.15,1012.6
+2023-11-09,Books,Biography,1,422.11,422.11
+2023-11-09,Toys,Board Game,2,458.29,916.58
+2023-11-10,Books,Biography,1,417.98,417.98
+2023-11-10,Toys,Remote Car,3,439.58,1318.74
+2023-11-10,Books,Comics,2,170.34,340.68
+2023-11-10,Toys,Doll,3,494.86,1484.58
+2023-11-10,Toys,Remote Car,1,258.4,258.4
+2023-11-10,Home & Kitchen,Microwave,3,97.54,292.62
+2023-11-10,Electronics,Headphones,3,287.62,862.86
+2023-11-10,Books,Biography,2,117.61,235.22
+2023-11-10,Books,Comics,3,120.2,360.6
+2023-11-11,Electronics,Smartphone,3,498.37,1495.11
+2023-11-11,Books,Biography,1,363.54,363.54
+2023-11-11,Electronics,Laptop,1,368.83,368.83
+2023-11-11,Toys,Doll,3,118.54,355.62
+2023-11-11,Books,Fiction,2,238.97,477.94
+2023-11-11,Electronics,Smartphone,4,474.87,1899.48
+2023-11-11,Electronics,Smartphone,1,18.74,18.74
+2023-11-11,Home & Kitchen,Mixer,4,397.69,1590.76
+2023-11-11,Books,Comics,3,257.53,772.59
+2023-11-12,Clothing,Jeans,4,,1766.12
+2023-11-12,Home & Kitchen,Mixer,2,359.26,718.52
+2023-11-12,Electronics,Smartphone,2,282.08,564.16
+2023-11-12,Books,Comics,4,395.02,1580.08
+2023-11-12,Home & Kitchen,Mixer,3,132.44,397.32
+2023-11-12,Home & Kitchen,Microwave,4,311.95,1247.8
+2023-11-12,Clothing,Jacket,3,46.42,139.26
+2023-11-12,Home & Kitchen,Cookware Set,2,175.48,350.96
+2023-11-12,Electronics,Headphones,3,361.07,1083.21
+2023-11-13,Books,Fiction,1,320.01,320.01
+2023-11-13,Books,Biography,2,350.68,701.36
+2023-11-13,Home & Kitchen,Mixer,3,423.28,1269.84
+2023-11-13,Home & Kitchen,Microwave,4,499.23,1996.92
+2023-11-13,Toys,Board Game,1,329.09,329.09
+2023-11-13,Home & Kitchen,Cookware Set,2,121.92,243.84
+2023-11-13,Electronics,Laptop,4,355.63,1422.52
+2023-11-13,Electronics,Headphones,4,98.01,392.04
+2023-11-13,Clothing,T-Shirt,2,264.84,529.68
+2023-11-13,Home & Kitchen,Mixer,2,357.56,715.12
+2023-11-13,Toys,Remote Car,2,270.35,540.7
+2023-11-13,Books,Biography,4,227.16,908.64
+2023-11-13,Clothing,Jacket,4,,1752.32
+2023-11-14,Clothing,Jacket,3,210.63,631.89
+2023-11-14,Clothing,T-Shirt,4,24.44,97.76
+2023-11-14,Home & Kitchen,Cookware Set,1,293.26,293.26
+2023-11-14,Electronics,Headphones,2,33.05,66.1
+2023-11-14,Home & Kitchen,Mixer,2,176.17,352.34
+2023-11-14,Books,Fiction,2,499.32,998.64
+2023-11-14,Electronics,Headphones,4,195.24,780.96
+2023-11-14,Electronics,Laptop,3,274.41,823.23
+2023-11-14,Toys,Remote Car,4,203.91,815.64
+2023-11-14,Home & Kitchen,Cookware Set,3,284.35,853.05
+2023-11-14,Electronics,Headphones,2,16.17,32.34
+2023-11-14,Electronics,Smartphone,4,107.43,429.72
+2023-11-15,Toys,Board Game,2,338.78,677.56
+2023-11-15,Electronics,Smartphone,2,159.61,319.22
+2023-11-15,Books,Fiction,3,387.36,1162.08
+2023-11-15,Books,Comics,1,114.4,114.4
+2023-11-15,Clothing,Jacket,4,206.81,827.24
+2023-11-15,Electronics,Smartphone,4,149.85,599.4
+2023-11-15,Toys,Doll,4,416.05,1664.2
+2023-11-15,Clothing,Jacket,3,353.56,1060.68
+2023-11-15,Home & Kitchen,Microwave,1,138.9,138.9
+2023-11-15,Books,Biography,2,360.47,720.94
+2023-11-16,Clothing,Jacket,2,44.06,88.12
+2023-11-16,Toys,Board Game,3,304.65,913.95
+2023-11-16,Clothing,Jeans,1,,83.95
+2023-11-16,Electronics,Laptop,2,224.6,449.2
+2023-11-16,Toys,Board Game,4,339.87,1359.48
+2023-11-16,Books,Comics,1,,495.19
+2023-11-16,Clothing,Jeans,2,19.64,39.28
+2023-11-16,Electronics,Laptop,4,136.75,547.0
+2023-11-16,Home & Kitchen,Mixer,4,148.37,593.48
+2023-11-16,Books,Comics,4,237.87,951.48
+2023-11-17,Electronics,Headphones,4,459.91,1839.64
+2023-11-17,Books,Comics,3,48.14,144.42
+2023-11-17,Clothing,T-Shirt,2,65.0,130.0
+2023-11-17,Toys,Doll,1,404.12,404.12
+2023-11-17,Home & Kitchen,Microwave,3,50.35,151.05
+2023-11-17,Toys,Board Game,4,322.46,1289.84
+2023-11-17,Toys,Remote Car,1,92.97,92.97
+2023-11-17,Toys,Remote Car,2,237.49,474.98
+2023-11-17,Clothing,Jacket,3,237.72,713.16
+2023-11-17,Books,Comics,2,475.76,951.52
+2023-11-17,Toys,Board Game,1,475.53,475.53
+2023-11-17,Clothing,T-Shirt,2,297.88,595.76
+2023-11-18,Electronics,Smartphone,1,102.62,102.62
+2023-11-18,Clothing,T-Shirt,4,145.28,581.12
+2023-11-18,Toys,Doll,1,309.09,309.09
+2023-11-18,Home & Kitchen,Microwave,1,188.05,188.05
+2023-11-18,Books,Biography,1,185.17,185.17
+2023-11-18,Clothing,Jacket,2,467.37,934.74
+2023-11-19,Home & Kitchen,Mixer,3,306.02,918.06
+2023-11-19,Electronics,Headphones,4,300.65,1202.6
+2023-11-19,Home & Kitchen,Cookware Set,3,395.41,1186.23
+2023-11-19,Clothing,Jacket,1,81.36,81.36
+2023-11-19,Clothing,Jeans,4,477.68,1910.72
+2023-11-19,Electronics,Headphones,3,369.35,1108.05
+2023-11-19,Clothing,T-Shirt,1,324.84,324.84
+2023-11-20,Clothing,T-Shirt,2,297.54,595.08
+2023-11-20,Toys,Board Game,3,131.92,395.76
+2023-11-20,Home & Kitchen,Microwave,1,225.21,225.21
+2023-11-20,Toys,Board Game,3,162.57,487.71
+2023-11-20,Electronics,Headphones,3,40.14,120.42
+2023-11-20,Toys,Doll,2,359.38,718.76
+2023-11-20,Electronics,Laptop,2,86.76,173.52
+2023-11-20,Books,Biography,3,80.81,242.43
+2023-11-21,Books,Biography,2,404.06,808.12
+2023-11-21,Home & Kitchen,Microwave,4,184.25,737.0
+2023-11-21,Books,Biography,2,72.65,145.3
+2023-11-21,Clothing,T-Shirt,2,138.83,277.66
+2023-11-21,Clothing,T-Shirt,2,36.97,73.94
+2023-11-21,Home & Kitchen,Mixer,4,19.39,77.56
+2023-11-21,Books,Biography,2,250.21,500.42
+2023-11-21,Electronics,Smartphone,3,408.78,1226.34
+2023-11-21,Home & Kitchen,Microwave,3,371.24,1113.72
+2023-11-22,Books,Fiction,4,230.25,921.0
+2023-11-22,Home & Kitchen,Mixer,2,431.52,863.04
+2023-11-22,Clothing,T-Shirt,4,,413.28
+2023-11-22,Books,Biography,3,240.75,722.25
+2023-11-22,Electronics,Smartphone,1,199.36,199.36
+2023-11-23,Home & Kitchen,Microwave,4,437.38,1749.52
+2023-11-23,Home & Kitchen,Mixer,4,87.54,350.16
+2023-11-23,Books,Biography,3,154.48,463.44
+2023-11-23,Books,Comics,2,107.47,214.94
+2023-11-23,Home & Kitchen,Microwave,1,305.47,305.47
+2023-11-23,Clothing,Jacket,4,104.65,418.6
+2023-11-23,Clothing,Jeans,4,258.85,1035.4
+2023-11-24,Books,Comics,4,418.16,1672.64
+2023-11-24,Books,Comics,1,108.3,108.3
+2023-11-24,Electronics,Laptop,4,120.19,480.76
+2023-11-24,Books,Biography,3,473.02,1419.06
+2023-11-24,Toys,Remote Car,2,466.02,932.04
+2023-11-24,Books,Fiction,2,436.49,872.98
+2023-11-25,Electronics,Laptop,1,374.86,374.86
+2023-11-25,Books,Comics,1,356.05,356.05
+2023-11-25,Books,Comics,3,262.39,787.17
+2023-11-25,Home & Kitchen,Mixer,3,88.36,265.08
+2023-11-25,Books,Biography,3,261.49,784.47
+2023-11-25,Home & Kitchen,Cookware Set,4,171.17,684.68
+2023-11-25,Books,Fiction,4,163.38,653.52
+2023-11-26,Toys,Board Game,3,230.79,692.37
+2023-11-26,Clothing,Jeans,3,,593.16
+2023-11-26,Clothing,T-Shirt,3,224.94,674.82
+2023-11-26,Books,Comics,2,385.92,771.84
+2023-11-26,Clothing,Jacket,3,123.16,369.48
+2023-11-26,Toys,Remote Car,3,206.41,619.23
+2023-11-26,Electronics,Headphones,1,258.12,258.12
+2023-11-26,Home & Kitchen,Cookware Set,1,256.06,256.06
+2023-11-27,Clothing,T-Shirt,2,102.14,204.28
+2023-11-27,Electronics,Smartphone,2,216.66,433.32
+2023-11-27,Clothing,T-Shirt,2,,508.88
+2023-11-27,Books,Comics,4,46.05,184.2
+2023-11-27,Electronics,Headphones,4,387.34,1549.36
+2023-11-28,Clothing,T-Shirt,4,77.76,311.04
+2023-11-28,Clothing,T-Shirt,2,101.22,202.44
+2023-11-28,Toys,Remote Car,3,422.59,1267.77
+2023-11-28,Books,Biography,3,306.26,918.78
+2023-11-28,Home & Kitchen,Mixer,1,162.77,162.77
+2023-11-28,Toys,Remote Car,1,417.59,417.59
+2023-11-28,Clothing,Jeans,2,160.33,320.66
+2023-11-28,Books,Fiction,3,422.29,1266.87
+2023-11-28,Clothing,Jeans,3,391.99,1175.97
+2023-11-28,Home & Kitchen,Microwave,4,131.28,525.12
+2023-11-28,Electronics,Smartphone,4,323.61,1294.44
+2023-11-28,Books,Fiction,3,81.98,245.94
+2023-11-28,Toys,Remote Car,1,368.83,368.83
+2023-11-28,Home & Kitchen,Cookware Set,4,320.69,1282.76
+2023-11-29,Books,Comics,3,243.65,730.95
+2023-11-29,Electronics,Headphones,2,96.06,192.12
+2023-11-29,Home & Kitchen,Cookware Set,3,237.78,713.34
+2023-11-29,Toys,Board Game,4,311.55,1246.2
+2023-11-29,Electronics,Smartphone,4,30.21,120.84
+2023-11-29,Toys,Board Game,1,275.76,275.76
+2023-11-29,Toys,Board Game,4,327.08,1308.32
+2023-11-29,Electronics,Smartphone,1,133.9,133.9
+2023-11-29,Books,Biography,4,139.63,558.52
+2023-11-29,Toys,Doll,4,463.62,1854.48
+2023-11-30,Books,Comics,3,465.87,1397.61
+2023-11-30,Electronics,Laptop,4,74.11,296.44
+2023-11-30,Electronics,Smartphone,2,159.36,318.72
+2023-11-30,Clothing,T-Shirt,4,17.71,70.84
+2023-11-30,Electronics,Laptop,2,133.41,266.82
+2023-11-30,Home & Kitchen,Microwave,1,351.43,351.43
+2023-11-30,Toys,Board Game,3,255.84,767.52
+2023-11-30,Clothing,Jacket,4,363.56,1454.24
+2023-11-30,Books,Biography,2,107.22,214.44
+2023-11-30,Home & Kitchen,Mixer,4,442.26,1769.04
+2023-11-30,Clothing,T-Shirt,4,188.55,754.2
+2023-11-30,Clothing,Jacket,3,362.22,1086.66
+2023-11-30,Books,Biography,2,68.24,136.48
+2023-12-01,Electronics,Laptop,4,407.4,1629.6
+2023-12-01,Home & Kitchen,Cookware Set,2,210.28,420.56
+2023-12-01,Clothing,T-Shirt,3,66.55,199.65
+2023-12-01,Electronics,Smartphone,1,51.52,51.52
+2023-12-01,Home & Kitchen,Mixer,2,31.29,62.58
+2023-12-02,Clothing,T-Shirt,4,291.24,1164.96
+2023-12-02,Books,Biography,2,284.66,569.32
+2023-12-02,Books,Comics,2,206.16,412.32
+2023-12-02,Electronics,Smartphone,4,467.31,1869.24
+2023-12-02,Toys,Doll,2,366.91,733.82
+2023-12-02,Books,Biography,1,106.77,106.77
+2023-12-02,Books,Fiction,4,386.54,1546.16
+2023-12-02,Clothing,Jeans,1,139.05,139.05
+2023-12-02,Clothing,T-Shirt,3,38.5,115.5
+2023-12-02,Clothing,Jacket,1,369.86,369.86
+2023-12-02,Electronics,Laptop,2,189.07,378.14
+2023-12-02,Books,Comics,4,191.27,765.08
+2023-12-02,Toys,Remote Car,3,280.73,842.19
+2023-12-03,Clothing,Jacket,4,376.66,1506.64
+2023-12-03,Toys,Board Game,2,290.91,581.82
+2023-12-03,Clothing,T-Shirt,1,373.94,373.94
+2023-12-03,Electronics,Headphones,2,82.91,165.82
+2023-12-03,Books,Biography,1,178.33,178.33
+2023-12-03,Home & Kitchen,Microwave,1,10.12,10.12
+2023-12-03,Toys,Remote Car,1,72.54,72.54
+2023-12-03,Home & Kitchen,Microwave,1,83.42,83.42
+2023-12-03,Toys,Board Game,4,24.48,97.92
+2023-12-03,Clothing,T-Shirt,1,20.03,20.03
+2023-12-03,Electronics,Smartphone,1,270.64,270.64
+2023-12-03,Home & Kitchen,Microwave,3,346.57,1039.71
+2023-12-04,Toys,Board Game,1,490.97,490.97
+2023-12-04,Clothing,Jacket,4,158.72,634.88
+2023-12-04,Clothing,Jeans,1,341.79,341.79
+2023-12-04,Books,Biography,1,107.47,107.47
+2023-12-04,Toys,Board Game,4,54.76,219.04
+2023-12-04,Books,Biography,2,260.6,521.2
+2023-12-04,Clothing,T-Shirt,3,464.77,1394.31
+2023-12-04,Home & Kitchen,Cookware Set,2,133.14,266.28
+2023-12-05,Toys,Remote Car,2,364.38,728.76
+2023-12-05,Books,Fiction,4,489.06,1956.24
+2023-12-05,Clothing,T-Shirt,3,,741.87
+2023-12-05,Clothing,Jeans,4,287.07,1148.28
+2023-12-05,Books,Biography,3,97.01,291.03
+2023-12-05,Books,Biography,3,288.24,864.72
+2023-12-05,Home & Kitchen,Microwave,3,39.61,118.83
+2023-12-05,Books,Comics,4,240.35,961.4
+2023-12-05,Clothing,T-Shirt,2,475.8,951.6
+2023-12-05,Home & Kitchen,Cookware Set,4,225.07,900.28
+2023-12-05,Electronics,Headphones,2,283.53,567.06
+2023-12-05,Electronics,Headphones,2,474.46,948.92
+2023-12-06,Toys,Board Game,1,82.23,82.23
+2023-12-06,Electronics,Laptop,1,204.77,204.77
+2023-12-06,Toys,Doll,1,458.08,458.08
+2023-12-06,Home & Kitchen,Cookware Set,3,434.19,1302.57
+2023-12-06,Electronics,Laptop,1,190.57,190.57
+2023-12-06,Toys,Board Game,3,354.72,1064.16
+2023-12-06,Electronics,Laptop,3,25.76,77.28
+2023-12-06,Home & Kitchen,Microwave,4,127.66,510.64
+2023-12-06,Books,Biography,2,306.01,612.02
+2023-12-06,Home & Kitchen,Cookware Set,4,299.88,1199.52
+2023-12-07,Clothing,Jacket,3,354.15,1062.45
+2023-12-07,Books,Comics,4,330.41,1321.64
+2023-12-07,Electronics,Smartphone,1,488.03,488.03
+2023-12-07,Clothing,T-Shirt,4,333.03,1332.12
+2023-12-07,Toys,Remote Car,3,162.48,487.44
+2023-12-07,Toys,Doll,1,58.87,58.87
+2023-12-07,Books,Fiction,4,15.67,62.68
+2023-12-07,Clothing,Jacket,4,239.95,959.8
+2023-12-07,Books,Comics,3,381.0,1143.0
+2023-12-07,Toys,Board Game,4,443.59,1774.36
+2023-12-07,Home & Kitchen,Mixer,3,210.83,632.49
+2023-12-08,Toys,Doll,2,229.34,458.68
+2023-12-08,Clothing,Jacket,1,273.09,273.09
+2023-12-08,Clothing,Jacket,1,308.18,308.18
+2023-12-08,Home & Kitchen,Cookware Set,1,330.38,330.38
+2023-12-08,Toys,Board Game,4,256.75,1027.0
+2023-12-08,Home & Kitchen,Mixer,1,104.16,104.16
+2023-12-08,Toys,Doll,3,144.33,432.99
+2023-12-08,Toys,Doll,3,293.36,880.08
+2023-12-08,Electronics,Laptop,2,20.37,40.74
+2023-12-08,Toys,Remote Car,4,253.54,1014.16
+2023-12-08,Electronics,Laptop,4,,1524.28
+2023-12-08,Electronics,Headphones,4,180.53,722.12
+2023-12-09,Home & Kitchen,Microwave,4,197.58,790.32
+2023-12-09,Clothing,Jacket,1,158.27,158.27
+2023-12-09,Toys,Board Game,2,486.33,972.66
+2023-12-09,Clothing,T-Shirt,3,175.5,526.5
+2023-12-09,Toys,Doll,3,137.99,413.97
+2023-12-09,Electronics,Headphones,3,320.32,960.96
+2023-12-09,Electronics,Smartphone,3,149.58,448.74
+2023-12-09,Home & Kitchen,Mixer,2,133.76,267.52
+2023-12-09,Electronics,Laptop,4,310.17,1240.68
+2023-12-09,Books,Comics,2,132.19,264.38
+2023-12-09,Home & Kitchen,Cookware Set,3,412.35,1237.05
+2023-12-09,Clothing,Jeans,4,304.36,1217.44
+2023-12-09,Toys,Remote Car,2,123.84,247.68
+2023-12-10,Toys,Board Game,4,248.36,993.44
+2023-12-10,Electronics,Laptop,4,328.05,1312.2
+2023-12-10,Clothing,T-Shirt,2,458.37,916.74
+2023-12-10,Books,Fiction,1,44.87,44.87
+2023-12-10,Toys,Doll,3,428.83,1286.49
+2023-12-10,Toys,Board Game,2,96.94,193.88
+2023-12-10,Books,Biography,4,36.03,144.12
+2023-12-10,Toys,Board Game,4,122.27,489.08
+2023-12-10,Home & Kitchen,Mixer,1,418.62,418.62
+2023-12-10,Toys,Board Game,3,415.75,1247.25
+2023-12-10,Home & Kitchen,Microwave,3,26.49,79.47
+2023-12-10,Electronics,Headphones,1,228.28,228.28
+2023-12-10,Electronics,Laptop,4,78.56,314.24
+2023-12-11,Books,Biography,2,100.32,200.64
+2023-12-11,Books,Comics,2,347.92,695.84
+2023-12-11,Home & Kitchen,Microwave,4,228.68,914.72
+2023-12-11,Clothing,T-Shirt,3,446.62,1339.86
+2023-12-11,Toys,Remote Car,3,57.31,171.93
+2023-12-11,Electronics,Smartphone,1,318.9,318.9
+2023-12-11,Electronics,Laptop,4,52.02,208.08
+2023-12-11,Books,Comics,4,361.54,1446.16
+2023-12-11,Books,Comics,3,129.97,389.91
+2023-12-11,Clothing,Jacket,3,94.33,282.99
+2023-12-11,Toys,Remote Car,2,219.43,438.86
+2023-12-11,Toys,Board Game,4,396.39,1585.56
+2023-12-11,Books,Fiction,4,488.23,1952.92
+2023-12-12,Clothing,Jeans,1,488.48,488.48
+2023-12-12,Books,Biography,1,164.38,164.38
+2023-12-12,Electronics,Smartphone,2,152.87,305.74
+2023-12-12,Clothing,Jacket,1,482.87,482.87
+2023-12-12,Books,Biography,1,277.35,277.35
+2023-12-12,Electronics,Smartphone,3,307.54,922.62
+2023-12-12,Electronics,Smartphone,1,298.68,298.68
+2023-12-12,Home & Kitchen,Cookware Set,2,484.66,969.32
+2023-12-12,Toys,Remote Car,1,173.01,173.01
+2023-12-12,Electronics,Smartphone,3,188.83,566.49
+2023-12-13,Books,Comics,4,174.84,699.36
+2023-12-13,Home & Kitchen,Microwave,1,483.82,483.82
+2023-12-13,Toys,Doll,1,58.62,58.62
+2023-12-13,Electronics,Laptop,2,168.0,336.0
+2023-12-13,Books,Biography,2,468.26,936.52
+2023-12-13,Clothing,Jacket,4,448.32,1793.28
+2023-12-13,Home & Kitchen,Cookware Set,3,142.82,428.46
+2023-12-13,Books,Comics,4,337.85,1351.4
+2023-12-13,Electronics,Headphones,2,53.33,106.66
+2023-12-13,Toys,Remote Car,1,205.0,205.0
+2023-12-13,Clothing,Jeans,2,198.26,396.52
+2023-12-13,Clothing,Jacket,1,362.33,362.33
+2023-12-13,Electronics,Headphones,4,245.32,981.28
+2023-12-13,Toys,Board Game,2,305.83,611.66
+2023-12-14,Toys,Doll,2,193.62,387.24
+2023-12-14,Electronics,Laptop,4,336.93,1347.72
+2023-12-14,Electronics,Smartphone,4,219.66,878.64
+2023-12-14,Toys,Doll,2,80.41,160.82
+2023-12-14,Home & Kitchen,Cookware Set,2,442.73,885.46
+2023-12-14,Toys,Doll,2,412.25,824.5
+2023-12-14,Toys,Board Game,4,85.64,342.56
+2023-12-14,Home & Kitchen,Cookware Set,3,190.31,570.93
+2023-12-14,Clothing,Jeans,1,,364.86
+2023-12-14,Clothing,Jacket,4,12.13,48.52
+2023-12-15,Toys,Doll,1,457.22,457.22
+2023-12-15,Electronics,Smartphone,4,470.75,1883.0
+2023-12-15,Clothing,T-Shirt,3,397.18,1191.54
+2023-12-15,Books,Biography,1,134.09,134.09
+2023-12-15,Electronics,Laptop,2,487.2,974.4
+2023-12-15,Clothing,Jeans,1,124.04,124.04
+2023-12-15,Toys,Board Game,2,358.91,717.82
+2023-12-15,Clothing,T-Shirt,4,173.47,693.88
+2023-12-15,Home & Kitchen,Cookware Set,4,395.32,1581.28
+2023-12-15,Clothing,Jeans,2,392.46,784.92
+2023-12-15,Clothing,Jeans,1,79.61,79.61
+2023-12-15,Clothing,T-Shirt,2,438.0,876.0
+2023-12-15,Clothing,Jeans,3,248.92,746.76
+2023-12-15,Toys,Board Game,3,149.49,448.47
+2023-12-16,Electronics,Smartphone,3,315.09,945.27
+2023-12-16,Clothing,Jeans,2,320.55,641.1
+2023-12-16,Home & Kitchen,Cookware Set,3,435.18,1305.54
+2023-12-16,Electronics,Laptop,2,229.56,459.12
+2023-12-16,Toys,Doll,4,304.76,1219.04
+2023-12-16,Toys,Board Game,4,485.59,1942.36
+2023-12-16,Electronics,Headphones,3,,222.9
+2023-12-16,Home & Kitchen,Cookware Set,3,97.42,292.26
+2023-12-16,Books,Biography,3,390.66,1171.98
+2023-12-16,Electronics,Headphones,4,332.5,1330.0
+2023-12-16,Electronics,Headphones,1,19.43,19.43
+2023-12-16,Books,Fiction,1,435.48,435.48
+2023-12-17,Books,Comics,1,406.58,406.58
+2023-12-17,Books,Biography,2,173.19,346.38
+2023-12-17,Electronics,Smartphone,2,146.57,293.14
+2023-12-17,Home & Kitchen,Cookware Set,1,486.76,486.76
+2023-12-17,Clothing,Jacket,4,299.39,1197.56
+2023-12-17,Clothing,Jacket,1,398.92,398.92
+2023-12-17,Toys,Board Game,1,45.49,45.49
+2023-12-17,Toys,Board Game,2,197.57,395.14
+2023-12-17,Toys,Remote Car,2,101.83,203.66
+2023-12-17,Home & Kitchen,Microwave,2,110.58,221.16
+2023-12-17,Books,Comics,3,424.99,1274.97
+2023-12-18,Books,Comics,1,499.69,499.69
+2023-12-18,Home & Kitchen,Mixer,2,333.38,666.76
+2023-12-18,Home & Kitchen,Cookware Set,2,233.41,466.82
+2023-12-18,Books,Biography,2,315.48,630.96
+2023-12-18,Clothing,Jeans,3,135.15,405.45
+2023-12-18,Electronics,Laptop,1,33.65,33.65
+2023-12-18,Clothing,Jacket,3,419.14,1257.42
+2023-12-18,Electronics,Laptop,2,151.97,303.94
+2023-12-19,Books,Biography,1,92.42,92.42
+2023-12-19,Books,Fiction,2,20.04,40.08
+2023-12-19,Home & Kitchen,Cookware Set,4,217.74,870.96
+2023-12-19,Electronics,Headphones,3,266.78,800.34
+2023-12-19,Clothing,Jeans,3,421.87,1265.61
+2023-12-19,Electronics,Headphones,2,,719.64
+2023-12-19,Home & Kitchen,Microwave,1,170.1,170.1
+2023-12-19,Home & Kitchen,Cookware Set,4,184.16,736.64
+2023-12-19,Home & Kitchen,Mixer,3,133.64,400.92
+2023-12-19,Home & Kitchen,Mixer,2,307.2,614.4
+2023-12-20,Clothing,Jeans,4,317.53,1270.12
+2023-12-20,Clothing,Jeans,2,22.53,45.06
+2023-12-20,Electronics,Smartphone,3,309.96,929.88
+2023-12-20,Clothing,Jeans,1,236.66,236.66
+2023-12-20,Home & Kitchen,Microwave,1,115.46,115.46
+2023-12-20,Electronics,Smartphone,3,40.44,121.32
+2023-12-20,Electronics,Smartphone,1,442.04,442.04
+2023-12-20,Books,Comics,4,134.04,536.16
+2023-12-20,Electronics,Laptop,1,170.22,170.22
+2023-12-20,Electronics,Headphones,3,171.75,515.25
+2023-12-20,Books,Fiction,4,432.03,1728.12
+2023-12-20,Books,Biography,4,271.75,1087.0
+2023-12-21,Home & Kitchen,Microwave,4,221.81,887.24
+2023-12-21,Clothing,Jacket,3,228.27,684.81
+2023-12-21,Home & Kitchen,Mixer,2,25.08,50.16
+2023-12-21,Books,Biography,4,477.02,1908.08
+2023-12-21,Toys,Board Game,4,399.9,1599.6
+2023-12-21,Books,Fiction,1,54.26,54.26
+2023-12-21,Electronics,Headphones,1,411.56,411.56
+2023-12-21,Toys,Remote Car,4,371.6,1486.4
+2023-12-21,Toys,Board Game,1,167.14,167.14
+2023-12-21,Books,Comics,1,155.29,155.29
+2023-12-22,Toys,Remote Car,2,72.37,144.74
+2023-12-22,Home & Kitchen,Cookware Set,4,259.85,1039.4
+2023-12-22,Home & Kitchen,Microwave,2,19.81,39.62
+2023-12-22,Clothing,Jacket,3,54.6,163.8
+2023-12-22,Books,Fiction,1,267.16,267.16
+2023-12-22,Books,Biography,4,133.26,533.04
+2023-12-22,Clothing,Jeans,3,155.43,466.29
+2023-12-22,Toys,Board Game,4,451.47,1805.88
+2023-12-22,Toys,Doll,4,72.41,289.64
+2023-12-22,Toys,Remote Car,1,195.64,195.64
+2023-12-22,Electronics,Laptop,1,342.16,342.16
+2023-12-23,Clothing,T-Shirt,1,448.87,448.87
+2023-12-23,Toys,Remote Car,3,246.12,738.36
+2023-12-23,Toys,Remote Car,1,210.48,210.48
+2023-12-23,Electronics,Smartphone,2,18.76,37.52
+2023-12-23,Toys,Doll,4,343.27,1373.08
+2023-12-23,Clothing,T-Shirt,2,112.11,224.22
+2023-12-23,Electronics,Smartphone,2,207.84,415.68
+2023-12-23,Clothing,Jacket,1,481.8,481.8
+2023-12-23,Books,Comics,3,135.64,406.92
+2023-12-24,Books,Fiction,3,402.49,1207.47
+2023-12-24,Electronics,Laptop,1,253.81,253.81
+2023-12-24,Clothing,Jacket,3,330.27,990.81
+2023-12-24,Toys,Doll,4,281.99,1127.96
+2023-12-24,Books,Fiction,2,188.37,376.74
+2023-12-24,Toys,Board Game,1,466.73,466.73
+2023-12-24,Electronics,Headphones,3,290.22,870.66
+2023-12-24,Books,Fiction,4,135.58,542.32
+2023-12-24,Clothing,Jeans,2,346.88,693.76
+2023-12-24,Toys,Remote Car,1,496.37,496.37
+2023-12-24,Books,Comics,2,187.52,375.04
+2023-12-24,Clothing,Jacket,1,288.88,288.88
+2023-12-24,Books,Comics,4,98.6,394.4
+2023-12-25,Clothing,T-Shirt,2,417.94,835.88
+2023-12-25,Clothing,Jeans,1,442.2,442.2
+2023-12-25,Clothing,T-Shirt,3,78.2,234.6
+2023-12-25,Clothing,Jeans,1,212.6,212.6
+2023-12-25,Electronics,Headphones,4,110.25,441.0
+2023-12-25,Toys,Remote Car,3,376.8,1130.4
+2023-12-25,Toys,Remote Car,3,310.94,932.82
+2023-12-25,Electronics,Smartphone,3,182.91,548.73
+2023-12-25,Electronics,Smartphone,4,155.95,623.8
+2023-12-25,Electronics,Smartphone,2,161.2,322.4
+2023-12-25,Toys,Doll,4,43.49,173.96
+2023-12-25,Clothing,Jacket,2,407.44,814.88
+2023-12-25,Books,Fiction,4,484.25,1937.0
+2023-12-25,Toys,Remote Car,4,75.34,301.36
+2023-12-26,Clothing,Jeans,3,91.22,273.66
+2023-12-26,Books,Comics,3,169.9,509.7
+2023-12-26,Home & Kitchen,Mixer,4,66.93,267.72
+2023-12-26,Home & Kitchen,Mixer,2,76.76,153.52
+2023-12-26,Electronics,Laptop,4,28.4,113.6
+2023-12-26,Electronics,Headphones,3,128.74,386.22
+2023-12-26,Clothing,T-Shirt,2,259.41,518.82
+2023-12-26,Clothing,Jeans,3,427.12,1281.36
+2023-12-27,Electronics,Headphones,1,320.66,320.66
+2023-12-27,Electronics,Smartphone,2,380.71,761.42
+2023-12-27,Home & Kitchen,Microwave,1,429.72,429.72
+2023-12-27,Books,Comics,4,120.13,480.52
+2023-12-27,Books,Fiction,2,309.55,619.1
+2023-12-27,Electronics,Laptop,4,268.05,1072.2
+2023-12-27,Books,Comics,2,439.81,879.62
+2023-12-27,Electronics,Smartphone,1,138.13,138.13
+2023-12-27,Clothing,Jeans,2,365.06,730.12
+2023-12-27,Electronics,Smartphone,2,25.0,50.0
+2023-12-27,Books,Biography,3,176.15,528.45
+2023-12-27,Electronics,Laptop,4,467.92,1871.68
+2023-12-28,Books,Fiction,3,137.65,412.95
+2023-12-28,Electronics,Smartphone,1,183.24,183.24
+2023-12-28,Clothing,Jeans,3,499.82,1499.46
+2023-12-28,Books,Fiction,3,109.11,327.33
+2023-12-28,Books,Fiction,4,109.21,436.84
+2023-12-28,Clothing,T-Shirt,3,165.6,496.8
+2023-12-28,Home & Kitchen,Mixer,2,51.67,103.34
+2023-12-28,Electronics,Headphones,1,432.77,432.77
+2023-12-28,Books,Comics,1,176.08,176.08
+2023-12-28,Books,Comics,1,94.95,94.95
+2023-12-28,Electronics,Laptop,2,133.69,267.38
+2023-12-28,Toys,Doll,1,57.51,57.51
+2023-12-28,Clothing,T-Shirt,2,267.59,535.18
+2023-12-29,Clothing,Jacket,4,91.34,365.36
+2023-12-29,Home & Kitchen,Microwave,4,325.74,1302.96
+2023-12-29,Clothing,T-Shirt,3,135.51,406.53
+2023-12-29,Books,Biography,3,292.9,878.7
+2023-12-29,Home & Kitchen,Cookware Set,1,363.9,363.9
+2023-12-29,Toys,Doll,2,76.01,152.02
+2023-12-29,Home & Kitchen,Microwave,1,351.76,351.76
+2023-12-29,Electronics,Smartphone,3,100.28,300.84
+2023-12-29,Books,Comics,2,107.83,215.66
+2023-12-29,Home & Kitchen,Mixer,1,278.99,278.99
+2023-12-29,Electronics,Headphones,3,446.07,1338.21
+2023-12-29,Books,Comics,4,28.83,115.32
+2023-12-29,Electronics,Laptop,1,152.87,152.87
+2023-12-29,Toys,Remote Car,3,445.66,1336.98
+2023-12-30,Clothing,T-Shirt,1,430.09,430.09
+2023-12-30,Home & Kitchen,Mixer,4,150.68,602.72
+2023-12-30,Books,Fiction,2,75.87,151.74
+2023-12-30,Home & Kitchen,Microwave,2,235.57,471.14
+2023-12-30,Toys,Board Game,4,258.19,1032.76
+2023-12-30,Toys,Remote Car,1,106.18,106.18
+2023-12-31,Books,Biography,4,190.62,762.48
+2023-12-31,Clothing,Jeans,4,499.67,1998.68
+2023-12-31,Toys,Doll,2,372.4,744.8
+2023-12-31,Home & Kitchen,Cookware Set,1,276.44,276.44
+2023-12-31,Toys,Board Game,3,223.56,670.68
+2023-12-31,Home & Kitchen,Microwave,4,113.18,452.72
